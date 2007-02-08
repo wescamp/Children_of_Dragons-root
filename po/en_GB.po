@@ -1,0 +1,1617 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2007-02-08 14:00+0100\n"
+"PO-Revision-Date: 2007-02-08 14:00+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Children_of_Dragons.cfg:7
+msgid "Children of Dragons"
+msgstr "Children of Dragons"
+
+#: Children_of_Dragons.cfg:12
+msgid ""
+"Once the most feared creatures in the land of the living, the dragons are "
+"all but extinct. But their descendants are just about to make their mark on "
+"the world..."
+msgstr ""
+"Once the most feared creatures in the land of the living, the dragons are "
+"all but extinct. But their descendants are just about to make their mark on "
+"the world..."
+
+#: Children_of_Dragons.cfg:14
+msgid "Noble"
+msgstr "Noble"
+
+#: Children_of_Dragons.cfg:14
+msgid "Chancellor"
+msgstr "Chancellor"
+
+#: Children_of_Dragons.cfg:14
+msgid "Lord"
+msgstr "Lord"
+
+#: Children_of_Dragons.cfg:17
+msgid "Campaign Developed and Maintained By"
+msgstr "Campaign Developed and Maintained By"
+
+#: Children_of_Dragons.cfg:21
+msgid "Artwork and Graphics"
+msgstr "Artwork and Graphics"
+
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:4
+msgid "Leader of the Drakes"
+msgstr "Leader of the Drakes"
+
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:8
+msgid ""
+"For centuries the mighty dragons ruled the land. But their time is past. "
+"Their numbers have dwindled until only a handful remain, and survive mostly "
+"as a legend that no one really believes. However their descendants, no "
+"longer as awe-inspiring or as powerful, but far more numerous and much more "
+"intelligent, have been eking out an existence underground."
+msgstr ""
+"For centuries the mighty dragons ruled the land. But their time is past. "
+"Their numbers have dwindled until only a handful remain, and survive mostly "
+"as a legend that no one really believes. However their descendants, no "
+"longer as awe-inspiring or as powerful, but far more numerous and much more "
+"intelligent, have been eking out an existence underground."
+
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:12
+msgid ""
+"Now, with their long-time leader dead, it is time for a new generation to "
+"take the reins. Through many challenges three potential leaders have stood "
+"out from their peers. All have different opinions on which direction the "
+"Drake race should head, but only one will get the chance to put their ideas "
+"into action..."
+msgstr ""
+"Now, with their long-time leader dead, it is time for a new generation to "
+"take the reins. Through many challenges three potential leaders have stood "
+"out from their peers. All have different opinions on which direction the "
+"Drake race should head, but only one will get the chance to put their ideas "
+"into action..."
+
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:61
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:53
+msgid "Defeat all enemy leaders"
+msgstr "Defeat all enemy leaders"
+
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:67
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:146
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:183
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:65
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:66
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:57
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:76
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:198
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:427
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:81
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:76
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:79
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:355
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:57
+msgid "Death of Kahn"
+msgstr "Death of Kahn"
+
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:81
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:75
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:154
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:191
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:77
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:74
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:65
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:84
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:206
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:435
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:85
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:84
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:61
+msgid "Turns run out"
+msgstr "Turns run out"
+
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:113
+msgid ""
+"In the time-honoured tradition of our race, the battle for leadership shall "
+"be fought here. The rules are very simple - be the last contender left "
+"alive, and the leadership of the Drakes is yours. If you wish to rescind "
+"your claim to lead us, now is your final chance."
+msgstr ""
+"In the time-honoured tradition of our race, the battle for leadership shall "
+"be fought here. The rules are very simple - be the last contender left "
+"alive, and the leadership of the Drakes is yours. If you wish to rescind "
+"your claim to lead us, now is your final chance."
+
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:117
+msgid "There is complete silence."
+msgstr "There is complete silence."
+
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:121
+msgid "Very well. Let the battle commence!"
+msgstr "Very well. Let the battle commence!"
+
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:133
+msgid ""
+"So it has finally come to this. The leadership of the Drakes will be mine."
+msgstr ""
+"So it has finally come to this. The leadership of the Drakes will be mine."
+
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:137
+msgid "Hah! In your dreams, softbelly. The leadership is mine."
+msgstr "Hah! In your dreams, softbelly. The leadership is mine."
+
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:141
+msgid "Enough bickering! Let us begin."
+msgstr "Enough bickering! Let us begin."
+
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:159
+msgid ""
+"What? There is still no winner after the allotted time? It seems none of you "
+"are worthy to lead us after all."
+msgstr ""
+"What? There is still no winner after the allotted time? It seems none of you "
+"are worthy to lead us after all."
+
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:177
+msgid "All hail our new leader, Kahn!"
+msgstr "All hail our new leader, Kahn!"
+
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:187
+msgid "Bah! The Drakes are doomed."
+msgstr "Bah! The Drakes are doomed."
+
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:201
+msgid "Ah. It seems I was overly ambitious."
+msgstr "Ah. It seems I was overly ambitious."
+
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:211
+msgid ""
+"Too right you were. Only I have the steel required to lead the mighty Drakes."
+msgstr ""
+"Too right you were. Only I have the steel required to lead the mighty Drakes."
+
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:215
+msgid "We'll see about that."
+msgstr "We'll see about that."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:4
+msgid "Drake Council"
+msgstr "Drake Council"
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:8
+msgid ""
+"Having asserted his right to lead the Drakes, the time had now come for Kahn "
+"to convince his people of his somewhat radical plans."
+msgstr ""
+"Having asserted his right to lead the Drakes, the time had now come for Kahn "
+"to convince his people of his somewhat radical plans."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:153
+msgid ""
+"I call this meeting of the Drake Council to order. Welcome, Kahn. As our "
+"leader you are now also the head of this council, though there is little you "
+"can do without the approval of the majority of the council."
+msgstr ""
+"I call this meeting of the Drake Council to order. Welcome, Kahn. As our "
+"leader you are now also the head of this council, though there is little you "
+"can do without the approval of the majority of the council."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:157
+msgid "Thank you. It is indeed an honour to serve the Drakes in this capacity."
+msgstr ""
+"Thank you. It is indeed an honour to serve the Drakes in this capacity."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:161
+msgid "We believe you have some rather, uh, drastic plans, Kahn."
+msgstr "We believe you have some rather, uh, drastic plans, Kahn."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:165
+msgid "You could say that."
+msgstr "You could say that."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:169
+msgid "Then I think you should share them."
+msgstr "Then I think you should share them."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:173
+msgid "I couldn't agree more."
+msgstr "I couldn't agree more."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:177
+msgid ""
+"Esteemed members of the council, our peoples are descended from the mighty "
+"dragons, who once ruled earth and sky. For centuries we have hidden "
+"underground, and yet have never truly adapted to the conditions we face "
+"every day. We do not fight well underground, unlike the trolls and dwarves "
+"we encounter from time to time. We cannot move quickly, except where we have "
+"paved the cave floors such as in this cavern."
+msgstr ""
+"Esteemed members of the council, our peoples are descended from the mighty "
+"dragons, who once ruled earth and sky. For centuries we have hidden "
+"underground, and yet have never truly adapted to the conditions we face "
+"every day. We do not fight well underground, unlike the trolls and dwarves "
+"we encounter from time to time. We cannot move quickly, except where we have "
+"paved the cave floors such as in this cavern."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:181
+msgid "Friends, we do not belong here. We -"
+msgstr "Friends, we do not belong here. We -"
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:185
+msgid ""
+"We have, as you say, lived here for centuries. How can you claim we do not "
+"belong?"
+msgstr ""
+"We have, as you say, lived here for centuries. How can you claim we do not "
+"belong?"
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:189
+msgid "Hear him out, Gakk."
+msgstr "Hear him out, Gakk."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:193
+msgid ""
+"As I said, we struggle underground. Despite this, we have grown in numbers "
+"and strength. But if we are to continue to prosper, I believe the time has "
+"come for us to make some drastic changes. I plan to lead the Drakes above "
+"ground."
+msgstr ""
+"As I said, we struggle underground. Despite this, we have grown in numbers "
+"and strength. But if we are to continue to prosper, I believe the time has "
+"come for us to make some drastic changes. I plan to lead the Drakes above "
+"ground."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:197
+msgid ""
+"Surely you cannot be serious. We know these caves - we know what to expect, "
+"we know how to survive. We know nothing about the world above ground."
+msgstr ""
+"Surely you cannot be serious. We know these caves - we know what to expect, "
+"we know how to survive. We know nothing about the world above ground."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:201
+msgid "If I may, that is not strictly true."
+msgstr "If I may, that is not strictly true."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:205
+msgid "Explain."
+msgstr "Explain."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:209
+msgid ""
+"For the past two generations, several members my clan have been making short "
+"trips above ground. We are built to fly, but we have little opportunity to "
+"do so underground. We have long dreamt that a day would come when we would "
+"be able to live there permanently. We cannot dismiss such an opportunity."
+msgstr ""
+"For the past two generations, several members my clan have been making short "
+"trips above ground. We are built to fly, but we have little opportunity to "
+"do so underground. We have long dreamt that a day would come when we would "
+"be able to live there permanently. We cannot dismiss such an opportunity."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:213
+msgid ""
+"I cannot help but to concur. In recent years the trolls - and even the "
+"dwarves - have been attacking more and more frequently. Something must be "
+"done if we are to survive."
+msgstr ""
+"I cannot help but to concur. In recent years the trolls - and even the "
+"dwarves - have been attacking more and more frequently. Something must be "
+"done if we are to survive."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:217
+msgid ""
+"I cannot believe I am listening to this! You are saying you agree with this "
+"preposterous idea? It is lunacy! Even if we do know a little about the world "
+"outside these caves, even getting there would be a mammoth task in itself. "
+"One or two Drakes flying out every now and then is one thing, but to move "
+"every one of us? It can't be done. And even if we did get out, where would "
+"we go? Who knows what manner of creatures occupy the land we would be "
+"attempting to settle."
+msgstr ""
+"I cannot believe I am listening to this! You are saying you agree with this "
+"preposterous idea? It is lunacy! Even if we do know a little about the world "
+"outside these caves, even getting there would be a mammoth task in itself. "
+"One or two Drakes flying out every now and then is one thing, but to move "
+"every one of us? It can't be done. And even if we did get out, where would "
+"we go? Who knows what manner of creatures occupy the land we would be "
+"attempting to settle."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:221
+msgid ""
+"I must agree, Gakk. While I sympathise with the issues that my colleagues "
+"have raised, I simply do not think it is practical to attempt such a huge "
+"undertaking."
+msgstr ""
+"I must agree, Gakk. While I sympathise with the issues that my colleagues "
+"have raised, I simply do not think it is practical to attempt such a huge "
+"undertaking."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:225
+msgid ""
+"But what is the alternative? As Derk has said, we are facing more and more "
+"opposition here. We must seek new lands. And above ground is the best place "
+"to look."
+msgstr ""
+"But what is the alternative? As Derk has said, we are facing more and more "
+"opposition here. We must seek new lands. And above ground is the best place "
+"to look."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:229
+msgid "At least we know the opposition here."
+msgstr "At least we know the opposition here."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:233
+msgid ""
+"Well, it seems we must put it to a vote. Kahn, as you know, a decision of "
+"this magnitude cannot be taken lightly. And so, it must be passed by a "
+"majority vote. That means at least four of the six council members must "
+"agree to it. And so, we vote. We begin to my left, with Derk. How do you "
+"cast your vote?"
+msgstr ""
+"Well, it seems we must put it to a vote. Kahn, as you know, a decision of "
+"this magnitude cannot be taken lightly. And so, it must be passed by a "
+"majority vote. That means at least four of the six council members must "
+"agree to it. And so, we vote. We begin to my left, with Derk. How do you "
+"cast your vote?"
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:237
+msgid "I vote we follow Kahn above ground."
+msgstr "I vote we follow Kahn above ground."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:241
+msgid "I say we stay."
+msgstr "I say we stay."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:245
+msgid "I agree with Freon - we must do something. I vote we go."
+msgstr "I agree with Freon - we must do something. I vote we go."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:249
+msgid "I long to soar in the sky with my brethren. We go."
+msgstr "I long to soar in the sky with my brethren. We go."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:253
+msgid ""
+"I maintain that this idea is ridiculous. I cannot support it. We must stay."
+msgstr ""
+"I maintain that this idea is ridiculous. I cannot support it. We must stay."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:257
+msgid ""
+"Despite a wariness of the unknown, I too believe that we cannot continue to "
+"hold off the trolls and dwarves indefinitely. Though I have some "
+"reservations, I believe it is time to move on. We follow Kahn out of the "
+"caves."
+msgstr ""
+"Despite a wariness of the unknown, I too believe that we cannot continue to "
+"hold off the trolls and dwarves indefinitely. Though I have some "
+"reservations, I believe it is time to move on. We follow Kahn out of the "
+"caves."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:261
+msgid ""
+"It is decided then. Gakk, Stakron - I appreciate your concerns, but I "
+"believe this is best for our people."
+msgstr ""
+"It is decided then. Gakk, Stakron - I appreciate your concerns, but I "
+"believe this is best for our people."
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:265
+msgid ""
+"I am afraid I cannot support this move. I will come with you if we leave, "
+"but do not expect my help!"
+msgstr ""
+"I am afraid I cannot support this move. I will come with you if we leave, "
+"but do not expect my help!"
+
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:277
+msgid ""
+"This does not bode well. Nonetheless, the decision is made. We begin "
+"preparations immediately."
+msgstr ""
+"This does not bode well. Nonetheless, the decision is made. We begin "
+"preparations immediately."
+
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:4
+msgid "The Emerging"
+msgstr "The Emerging"
+
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:8
+msgid ""
+"After months of preparation, the drakes left their homes and followed Kahn "
+"towards their new home - wherever that might be. For the most part, they "
+"were supportive of the plan. Almost every family had lost someone to the "
+"recent attacks, and all were frustrated by their inabililty to move quickly "
+"through the caves. Still, they wondered if this new land was going to be any "
+"better than the one they were leaving behind."
+msgstr ""
+"After months of preparation, the drakes left their homes and followed Kahn "
+"towards their new home - wherever that might be. For the most part, they "
+"were supportive of the plan. Almost every family had lost someone to the "
+"recent attacks, and all were frustrated by their inabililty to move quickly "
+"through the caves. Still, they wondered if this new land was going to be any "
+"better than the one they were leaving behind."
+
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:12
+msgid ""
+"Nonetheless, they followed their leader. Some grumbled, but it would be "
+"suicide to remain in the caves with the majority of the drakes gone, so they "
+"tagged along."
+msgstr ""
+"Nonetheless, they followed their leader. Some grumbled, but it would be "
+"suicide to remain in the caves with the majority of the drakes gone, so they "
+"tagged along."
+
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:15
+msgid "After two weeks of uneventful travel, they felt a breeze..."
+msgstr "After two weeks of uneventful travel, they felt a breeze..."
+
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:53
+msgid "Kahn must reach the exit"
+msgstr "Kahn must reach the exit"
+
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:71
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:150
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:187
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:69
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:70
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:61
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:80
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:202
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:431
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:80
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:83
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:359
+msgid "Death of Freon"
+msgstr "Death of Freon"
+
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:116
+msgid ""
+"This is our outermost fortress, though it has not been used for some time. "
+"The exit to the caves is not far from here, but the dwarves and trolls are "
+"both close. Let us hope they do not notice us."
+msgstr ""
+"This is our outermost fortress, though it has not been used for some time. "
+"The exit to the caves is not far from here, but the dwarves and trolls are "
+"both close. Let us hope they do not notice us."
+
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:120
+msgid ""
+"Too late, lizard. What do you mean by trying to drag your sorry hides "
+"through our caves?"
+msgstr ""
+"Too late, lizard. What do you mean by trying to drag your sorry hides "
+"through our caves?"
+
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:124
+msgid ""
+"We mean no disrespect, dwarf. We are leaving the caves - you should be glad "
+"of our absence."
+msgstr ""
+"We mean no disrespect, dwarf. We are leaving the caves - you should be glad "
+"of our absence."
+
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:128
+msgid ""
+"Why would anyone want to leave the caves? I don't believe you - you intend "
+"to try to take our caves for yourselves! Well, not on my watch!"
+msgstr ""
+"Why would anyone want to leave the caves? I don't believe you - you intend "
+"to try to take our caves for yourselves! Well, not on my watch!"
+
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:132
+msgid ""
+"Ungh no like lizards in trolls' caves. Ungh no like dwarves either. Trolls "
+"kill all."
+msgstr ""
+"Ungh no like lizards in trolls' caves. Ungh no like dwarves either. Trolls "
+"kill all."
+
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:136
+msgid ""
+"Looks like we're going to have to fight our way through. Still, this was not "
+"unexpected. To arms!"
+msgstr ""
+"Looks like we're going to have to fight our way through. Still, this was not "
+"unexpected. To arms!"
+
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:146
+msgid "That not good. Strange too. Ungh never die before."
+msgstr "That not good. Strange too. Ungh never die before."
+
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:156
+msgid "I have failed! Now our caves will be overrun with lizards!"
+msgstr "I have failed! Now our caves will be overrun with lizards!"
+
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:160
+msgid "Poor fool."
+msgstr "Poor fool."
+
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:167
+msgid "It seems we will be stuck in these caves forever."
+msgstr "It seems we will be stuck in these caves forever."
+
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:183
+msgid "I can see the sunlight! Come, my people - welcome to your new home!"
+msgstr "I can see the sunlight! Come, my people - welcome to your new home!"
+
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:4
+msgid "Leaving the Mountains"
+msgstr "Leaving the Mountains"
+
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:8
+msgid ""
+"As they emerged, blinking, into the sunlight, the drakes felt some "
+"trepidation as to what lay ahead. Nevertheless they were relieved to have "
+"escaped the dwarves and trolls, and awestruck by what they now saw."
+msgstr ""
+"As they emerged, blinking, into the sunlight, the drakes felt some "
+"trepidation as to what lay ahead. Nevertheless they were relieved to have "
+"escaped the dwarves and trolls, and awestruck by what they now saw."
+
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:12
+msgid ""
+"They had left the caves via a tunnel which emerged in the middle of a large "
+"mountain range. To the south-west they could see where the mountains ended "
+"and hills, plains and forest began. Excitement began to ripple through the "
+"ranks as they entertained the possibility of all this being theirs alone."
+msgstr ""
+"They had left the caves via a tunnel which emerged in the middle of a large "
+"mountain range. To the south-west they could see where the mountains ended "
+"and hills, plains and forest began. Excitement began to ripple through the "
+"ranks as they entertained the possibility of all this being theirs alone."
+
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:15
+msgid "Freon soon spoiled that illusion."
+msgstr "Freon soon spoiled that illusion."
+
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:73
+msgid "Get Kahn to the end of the mountains"
+msgstr "Get Kahn to the end of the mountains"
+
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:77
+msgid "Death of any Drake"
+msgstr "Death of any Drake"
+
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:131
+msgid ""
+"Beautiful, isn't it? Unfortunately we can't keep looking for too long. There "
+"are creatures that inhabit these mountains that will not tolerate our "
+"presence, and no doubt the dwarves and trolls will follow soon enough too, "
+"if they are not too busy fighting each other."
+msgstr ""
+"Beautiful, isn't it? Unfortunately we can't keep looking for too long. There "
+"are creatures that inhabit these mountains that will not tolerate our "
+"presence, and no doubt the dwarves and trolls will follow soon enough too, "
+"if they are not too busy fighting each other."
+
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:135
+msgid "Then we must get out of these mountains quickly."
+msgstr "Then we must get out of these mountains quickly."
+
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:139
+msgid ""
+"Yes. The lower lands are also inhabited, though only sparsely, so we should "
+"be able to find somewhere to settle."
+msgstr ""
+"Yes. The lower lands are also inhabited, though only sparsely, so we should "
+"be able to find somewhere to settle."
+
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:331
+msgid "We made it!"
+msgstr "We made it!"
+
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:344
+msgid ""
+"If I cannot protect my people here, how will I ever do it on the open plains?"
+msgstr ""
+"If I cannot protect my people here, how will I ever do it on the open plains?"
+
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:4
+msgid "Dark Forest"
+msgstr "Dark Forest"
+
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:8
+msgid ""
+"Leaving the hills, they found themselves in a thick forest. The trees were "
+"so close together that despite it being morning, very little sunlight "
+"reached the forest floor."
+msgstr ""
+"Leaving the hills, they found themselves in a thick forest. The trees were "
+"so close together that despite it being morning, very little sunlight "
+"reached the forest floor."
+
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:72
+msgid "Reach the end of the forest"
+msgstr "Reach the end of the forest"
+
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:131
+msgid ""
+"We have never entered this forest. It seemed far too dark and foreboding, so "
+"we always went straight over it. However in this case we have no choice but "
+"to go through it. We must be careful."
+msgstr ""
+"We have never entered this forest. It seemed far too dark and foreboding, so "
+"we always went straight over it. However in this case we have no choice but "
+"to go through it. We must be careful."
+
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:135
+msgid "How bad can it be?"
+msgstr "How bad can it be?"
+
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:151
+msgid "What was that?"
+msgstr "What was that?"
+
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:155
+msgid ""
+"I don't know, but it didn't sound good. Let's get through this forest as "
+"soon as possible. From memory, it will be quickest to head south."
+msgstr ""
+"I don't know, but it didn't sound good. Let's get through this forest as "
+"soon as possible. From memory, it will be quickest to head south."
+
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:174
+msgid "I never want to see another tree in my entire life."
+msgstr "I never want to see another tree in my entire life."
+
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:187
+msgid "The forest is crawling with undead!"
+msgstr "The forest is crawling with undead!"
+
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:191
+msgid ""
+"Then we must truly hurry! We must find the end of these trees - if they do "
+"not go on forever!"
+msgstr ""
+"Then we must truly hurry! We must find the end of these trees - if they do "
+"not go on forever!"
+
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:195
+msgid "There is grassland beyond the trees - keep heading south."
+msgstr "There is grassland beyond the trees - keep heading south."
+
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:4
+msgid "The Humans"
+msgstr "The Humans"
+
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:8
+msgid ""
+"As they emerged from the forest, leaving the undead behind them, the Drakes "
+"saw an expanse of grassland. But dotted across it were towns of varying "
+"sizes. And immediately before them was a huge city."
+msgstr ""
+"As they emerged from the forest, leaving the undead behind them, the Drakes "
+"saw an expanse of grassland. But dotted across it were towns of varying "
+"sizes. And immediately before them was a huge city."
+
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:12
+msgid ""
+"Wondering if it had been a mistake to leave the caves in the first place, "
+"they advanced cautiously."
+msgstr ""
+"Wondering if it had been a mistake to leave the caves in the first place, "
+"they advanced cautiously."
+
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:60
+msgid "Halt! Who goes there?"
+msgstr "Halt! Who goes there?"
+
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:64
+msgid ""
+"I am Kahn, leader of the Drakes. We have left our homes underground in "
+"search of a land more suited to our kind."
+msgstr ""
+"I am Kahn, leader of the Drakes. We have left our homes underground in "
+"search of a land more suited to our kind."
+
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:68
+msgid "And you thought you'd take ours?"
+msgstr "And you thought you'd take ours?"
+
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:72
+msgid ""
+"No! We do not wish to take anyone's land, but are instead hoping to find "
+"some space that is currently unoccupied that we can settle in."
+msgstr ""
+"No! We do not wish to take anyone's land, but are instead hoping to find "
+"some space that is currently unoccupied that we can settle in."
+
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:76
+msgid ""
+"Hmmm. Well, as you can see, the land around here is well settled already. "
+"There is little free space - certainly none anywhere near big enough to fit "
+"your entire race."
+msgstr ""
+"Hmmm. Well, as you can see, the land around here is well settled already. "
+"There is little free space - certainly none anywhere near big enough to fit "
+"your entire race."
+
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:80
+msgid "If you speak true, then I fear we have left our homes in vain."
+msgstr "If you speak true, then I fear we have left our homes in vain."
+
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:84
+msgid ""
+"Perhaps not. There is a tropical island some way to the east of here known "
+"as Morogor. It is uninhabited, though some say it is haunted. I believe it "
+"would be suitable for your needs."
+msgstr ""
+"Perhaps not. There is a tropical island some way to the east of here known "
+"as Morogor. It is uninhabited, though some say it is haunted. I believe it "
+"would be suitable for your needs."
+
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:88
+msgid ""
+"An island, you say? That sounds ideal, but we cannot fly that far. How are "
+"we to get there?"
+msgstr ""
+"An island, you say? That sounds ideal, but we cannot fly that far. How are "
+"we to get there?"
+
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:92
+msgid ""
+"Perhaps we can come to an agreement. We have a large navy - enough to "
+"transport all of your people, but I cannot offer you our assistance without "
+"you doing something for us in return."
+msgstr ""
+"Perhaps we can come to an agreement. We have a large navy - enough to "
+"transport all of your people, but I cannot offer you our assistance without "
+"you doing something for us in return."
+
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:96
+msgid "What did you have in mind?"
+msgstr "What did you have in mind?"
+
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:100
+msgid ""
+"My scouts report that you emerged from the Forest of the Dead. To achieve "
+"such a thing you must be skilled fighters. There is a large group of bandits "
+"south east of here who have been troubling us of late. Defeat these bandits "
+"for us, and we will transport you to Morogor."
+msgstr ""
+"My scouts report that you emerged from the Forest of the Dead. To achieve "
+"such a thing you must be skilled fighters. There is a large group of bandits "
+"south east of here who have been troubling us of late. Defeat these bandits "
+"for us, and we will transport you to Morogor."
+
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:104
+msgid "Very well. We have a deal."
+msgstr "Very well. We have a deal."
+
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:108
+msgid ""
+"I will order our navy to begin preparations at once. We should be ready to "
+"depart by the time you return."
+msgstr ""
+"I will order our navy to begin preparations at once. We should be ready to "
+"depart by the time you return."
+
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:112
+msgid "Thank you. We are in your debt."
+msgstr "Thank you. We are in your debt."
+
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:116
+msgid "Defeat the bandits and I will consider the debt paid in full."
+msgstr "Defeat the bandits and I will consider the debt paid in full."
+
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:120
+msgid ""
+"Thank you once again. Come, my people - we have some criminals to catch!"
+msgstr ""
+"Thank you once again. Come, my people - we have some criminals to catch!"
+
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:4
+msgid "Bandits"
+msgstr "Bandits"
+
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:8
+msgid "Following Alamar's directions, the Drakes soon came to a huge forest."
+msgstr "Following Alamar's directions, the Drakes soon came to a huge forest."
+
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:73
+msgid "Death of Tumabulindrum"
+msgstr "Death of Tumabulindrum"
+
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:150
+msgid "Ugh. More trees."
+msgstr "Ugh. More trees."
+
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:154
+msgid ""
+"At least they are not as thick as the last lot. We will be able to see where "
+"we are going here."
+msgstr ""
+"At least they are not as thick as the last lot. We will be able to see where "
+"we are going here."
+
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:158
+msgid ""
+"And our enemies this time are flesh and blood, not undead. Still, I wish "
+"there was another way."
+msgstr ""
+"And our enemies this time are flesh and blood, not undead. Still, I wish "
+"there was another way."
+
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:162
+msgid "None come to mind."
+msgstr "None come to mind."
+
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:166
+msgid "No, this is our best hope. Let's clear these woods!"
+msgstr "No, this is our best hope. Let's clear these woods!"
+
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:170
+msgid "Hmmm. What do the fire breathers want?"
+msgstr "Hmmm. What do the fire breathers want?"
+
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:174
+msgid "Did that tree just talk?"
+msgstr "Did that tree just talk?"
+
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:178
+msgid "I have heard of such things. We had best answer quickly."
+msgstr "I have heard of such things. We had best answer quickly."
+
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:182
+msgid "We come to rid these woods of the outlaws that hide here."
+msgstr "We come to rid these woods of the outlaws that hide here."
+
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:186
+msgid ""
+"Very well. These outlaws, as you call them, have destroyed many a good tree. "
+"We will help you, but make sure you keep your fires away from us."
+msgstr ""
+"Very well. These outlaws, as you call them, have destroyed many a good tree. "
+"We will help you, but make sure you keep your fires away from us."
+
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:190
+msgid ""
+"We would be glad of your help. We have no wish to harm you with our flames, "
+"and once the outlaws are gone, we will leave you in peace."
+msgstr ""
+"We would be glad of your help. We have no wish to harm you with our flames, "
+"and once the outlaws are gone, we will leave you in peace."
+
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:194
+msgid "Then let us work together to clean this forest!"
+msgstr "Then let us work together to clean this forest!"
+
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:213
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:235
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:257
+msgid "I found some of their ill-gotten gains!"
+msgstr "I found some of their ill-gotten gains!"
+
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:217
+msgid "You retrieve 75 gold."
+msgstr "You retrieve 75 gold."
+
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:239
+msgid "You retrieve 100 gold."
+msgstr "You retrieve 100 gold."
+
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:261
+msgid "You retrieve 50 gold."
+msgstr "You retrieve 50 gold."
+
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:276
+msgid "And so the Wose pass from the land of the living..."
+msgstr "And so the Wose pass from the land of the living..."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:4
+msgid "To the Ships"
+msgstr "To the Ships"
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:8
+msgid ""
+"Having defeated the bandits, the Drakes left the Wose in peace and returned "
+"to Alamar."
+msgstr ""
+"Having defeated the bandits, the Drakes left the Wose in peace and returned "
+"to Alamar."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:12
+msgid ""
+"Alamar informed them that the ships were ready and waiting at the docks, "
+"south of the city."
+msgstr ""
+"Alamar informed them that the ships were ready and waiting at the docks, "
+"south of the city."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:15
+msgid "Unfortunately that was not all that awaited them."
+msgstr "Unfortunately that was not all that awaited them."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:77
+msgid "Defeat Gakk and Stakron"
+msgstr "Defeat Gakk and Stakron"
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:154
+msgid "As you can see, the ships are ready and wai-"
+msgstr "As you can see, the ships are ready and wai-"
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:158
+msgid "You will not be going anywhere."
+msgstr "You will not be going anywhere."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:162
+msgid "What's going on here? Who are you?"
+msgstr "What's going on here? Who are you?"
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:166
+msgid "Gakk? What do you think you're doing?"
+msgstr "Gakk? What do you think you're doing?"
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:170
+msgid ""
+"We are ending this lunacy once and for all. It was bad enough to make us "
+"leave our homes, forcing us into confrontation with dwarves, trolls and "
+"undead. But to make a pact with these humans ... "
+msgstr ""
+"We are ending this lunacy once and for all. It was bad enough to make us "
+"leave our homes, forcing us into confrontation with dwarves, trolls and "
+"undead. But to make a pact with these humans ... "
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:174
+msgid ""
+"And to what end? So they can send us out to sea and drown us all, most "
+"likely! And even if this island does exist, and we do actually get there, "
+"who knows what manner of creatures will be there to ensure we do not "
+"survive? Better we finish this now, and return to the caves where we belong."
+msgstr ""
+"And to what end? So they can send us out to sea and drown us all, most "
+"likely! And even if this island does exist, and we do actually get there, "
+"who knows what manner of creatures will be there to ensure we do not "
+"survive? Better we finish this now, and return to the caves where we belong."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:178
+msgid ""
+"Whatever else we may do, we cannot return to the caves. They will certainly "
+"have been overrun with dwarves and trolls by now."
+msgstr ""
+"Whatever else we may do, we cannot return to the caves. They will certainly "
+"have been overrun with dwarves and trolls by now."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:185
+msgid "Stakron? You too?"
+msgstr "Stakron? You too?"
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:189
+msgid "Gakk is right. We should never have left the caves."
+msgstr "Gakk is right. We should never have left the caves."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:193
+msgid "You would oppose our rightful leader, and the wishes of the council?"
+msgstr "You would oppose our rightful leader, and the wishes of the council?"
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:197
+msgid ""
+"Bah! The council is nothing more than a bunch of has-beens who think they "
+"still have some sort of power. Real power comes from strength of arms, not "
+"meetings."
+msgstr ""
+"Bah! The council is nothing more than a bunch of has-beens who think they "
+"still have some sort of power. Real power comes from strength of arms, not "
+"meetings."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:201
+msgid "If you will not back down, we will be forced to destroy you."
+msgstr "If you will not back down, we will be forced to destroy you."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:205
+msgid "Hah! I'd like to see you try."
+msgstr "Hah! I'd like to see you try."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:209
+msgid "If that's the way it must be, then so be it."
+msgstr "If that's the way it must be, then so be it."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:213
+msgid ""
+"I'm afraid I cannot help you in this, Kahn. I cannot fight fellow council "
+"members, even if they have gone insane. But be careful. No doubt there are "
+"those of our people who agree with these two. They will not be fighting "
+"alone."
+msgstr ""
+"I'm afraid I cannot help you in this, Kahn. I cannot fight fellow council "
+"members, even if they have gone insane. But be careful. No doubt there are "
+"those of our people who agree with these two. They will not be fighting "
+"alone."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:217
+msgid ""
+"I too cannot get involved in this. I have other urgent matters to attend to, "
+"and unless they attack our ships, I am afraid it does not concern me. I will "
+"return once you have dealt with these two."
+msgstr ""
+"I too cannot get involved in this. I have other urgent matters to attend to, "
+"and unless they attack our ships, I am afraid it does not concern me. I will "
+"return once you have dealt with these two."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:221
+msgid "I understand. Come, let us crush these traitors!"
+msgstr "I understand. Come, let us crush these traitors!"
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:250
+msgid "At least I won't live to see the demise of the Drakes."
+msgstr "At least I won't live to see the demise of the Drakes."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:254
+msgid "I wish I hadn't had to do that."
+msgstr "I wish I hadn't had to do that."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:258
+msgid ""
+"He was a great asset to the Drakes. It's a shame it had to end like this. "
+"Still, I suppose we did only what was necessary."
+msgstr ""
+"He was a great asset to the Drakes. It's a shame it had to end like this. "
+"Still, I suppose we did only what was necessary."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:268
+msgid "Come now, Stakron. Surely you will not persist in this rebellion?"
+msgstr "Come now, Stakron. Surely you will not persist in this rebellion?"
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:272
+msgid "I ... it is too late for me now. I cannot turn back."
+msgstr "I ... it is too late for me now. I cannot turn back."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:276
+msgid "It truly saddens me to hear that."
+msgstr "It truly saddens me to hear that."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:292
+msgid "I could have been wrong ..."
+msgstr "I could have been wrong ..."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:296
+msgid "You will pay for that!"
+msgstr "You will pay for that!"
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:310
+msgid "Too many Drakes are defecting to them. We are doomed!"
+msgstr "Too many Drakes are defecting to them. We are doomed!"
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:320
+msgid "(sigh) The rebels are defeated."
+msgstr "(sigh) The rebels are defeated."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:330
+msgid "This is a sad day. Many Drakes have died in a pointless rebellion."
+msgstr "This is a sad day. Many Drakes have died in a pointless rebellion."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:334
+msgid "Yes. And we now have two vacant places on the council."
+msgstr "Yes. And we now have two vacant places on the council."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:338
+msgid ""
+"That will have to wait. You must leave immediately before the weather turns."
+msgstr ""
+"That will have to wait. You must leave immediately before the weather turns."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:342
+msgid "Very well. Thank you once again, Alamar."
+msgstr "Very well. Thank you once again, Alamar."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:346
+msgid ""
+"No, thank you. Since you defeated the bandits, our villages are safe. May "
+"your journey be quick and uneventful."
+msgstr ""
+"No, thank you. Since you defeated the bandits, our villages are safe. May "
+"your journey be quick and uneventful."
+
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:350
+msgid "Let's hope so. To the ships!"
+msgstr "Let's hope so. To the ships!"
+
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:4
+msgid "Sea Journey"
+msgstr "Sea Journey"
+
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:8
+msgid "The remaining Drakes boarded the ships and embarked immediately."
+msgstr "The remaining Drakes boarded the ships and embarked immediately."
+
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:12
+msgid ""
+"The trip was uneventful for the first few days, until they neared their "
+"destination."
+msgstr ""
+"The trip was uneventful for the first few days, until they neared their "
+"destination."
+
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:75
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:351
+msgid "Survive until the end of turns"
+msgstr "Survive until the end of turns"
+
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:87
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:363
+msgid "Death of Ober"
+msgstr "Death of Ober"
+
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:160
+msgid ""
+"We have little information about this area as we generally avoid Morogor, "
+"however the reports I have heard say there are often many Nagas around here. "
+"They do move around a lot though, so let's hope they are currently elsewhere."
+msgstr ""
+"We have little information about this area as we generally avoid Morogor, "
+"however the reports I have heard say there are often many Nagas around here. "
+"They do move around a lot though, so let's hope they are currently elsewhere."
+
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:164
+msgid "What are these Nagas?"
+msgstr "What are these Nagas?"
+
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:168
+msgid ""
+"They are serpentine creatures who live in the sea. This is very much their "
+"element, so it would be a struggle to have to face them here."
+msgstr ""
+"They are serpentine creatures who live in the sea. This is very much their "
+"element, so it would be a struggle to have to face them here."
+
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:172
+msgid "You mean like these?"
+msgstr "You mean like these?"
+
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:183
+msgid "Intruderssss! Don't let any essscape!"
+msgstr "Intruderssss! Don't let any essscape!"
+
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:221
+msgid ""
+"Damn! It is too late to go around - we will have to try and make our way "
+"through them. You must protect the ship, but don't allow anyone to get too "
+"far behind as we will not be able to go back for them."
+msgstr ""
+"Damn! It is too late to go around - we will have to try and make our way "
+"through them. You must protect the ship, but don't allow anyone to get too "
+"far behind as we will not be able to go back for them."
+
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:225
+msgid ""
+"At the beginning of each turn, any units not on the ship will move five "
+"hexes up as the ship moves forward. This means any units in the top five "
+"rows will be lost."
+msgstr ""
+"At the beginning of each turn, any units not on the ship will move five "
+"hexes up as the ship moves forward. This means any units in the top five "
+"rows will be lost."
+
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:280
+msgid "New Naga at $unit_x,$unit_y"
+msgstr "New Naga at $unit_x,$unit_y"
+
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:342
+msgid ""
+"There do not appear to be any more coming. We just need to hold off or "
+"defeat those that remain."
+msgstr ""
+"There do not appear to be any more coming. We just need to hold off or "
+"defeat those that remain."
+
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:348
+msgid "Defeat remaining Nagas"
+msgstr "Defeat remaining Nagas"
+
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:406
+msgid "Avenge me, brotherssss and ssssissssterssss..."
+msgstr "Avenge me, brotherssss and ssssissssterssss..."
+
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:416
+msgid "We will never pilot this ship without him!"
+msgstr "We will never pilot this ship without him!"
+
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:432
+msgid "We made it! The Nagas will not pursue us any further."
+msgstr "We made it! The Nagas will not pursue us any further."
+
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:436
+msgid "Surely it can only get easier from here?"
+msgstr "Surely it can only get easier from here?"
+
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:440
+msgid "We should meet no further resistance between here and Morogor."
+msgstr "We should meet no further resistance between here and Morogor."
+
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:444
+msgid "Sounds good to me. Onward!"
+msgstr "Sounds good to me. Onward!"
+
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:4
+msgid "Landing on Morogor"
+msgstr "Landing on Morogor"
+
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:8
+msgid ""
+"Having successfully made it past the Nagas, the Drakes soon landed on "
+"Morogor. The humans departed as quickly as they could, not wanting to take "
+"any chances. The Drakes began to survey the land they were to call home."
+msgstr ""
+"Having successfully made it past the Nagas, the Drakes soon landed on "
+"Morogor. The humans departed as quickly as they could, not wanting to take "
+"any chances. The Drakes began to survey the land they were to call home."
+
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:142
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:62
+msgid "Defeat the undead"
+msgstr "Defeat the undead"
+
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:116
+msgid "Ugh! This place is disgusting! Maybe Gakk was right."
+msgstr "Ugh! This place is disgusting! Maybe Gakk was right."
+
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:120
+msgid ""
+"This place reeks of the undead. No doubt once we clear the island of the "
+"undead, the land itself will regenerate."
+msgstr ""
+"This place reeks of the undead. No doubt once we clear the island of the "
+"undead, the land itself will regenerate."
+
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:124
+msgid "I certainly hope so. Look - there are undead here. Let's get started!"
+msgstr "I certainly hope so. Look - there are undead here. Let's get started!"
+
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:134
+msgid "What devilry is this? Those Drakes who fall are rising again in unlife!"
+msgstr ""
+"What devilry is this? Those Drakes who fall are rising again in unlife!"
+
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:138
+msgid ""
+"This island is steeped with dark magic. We must find and destroy the source "
+"of it."
+msgstr ""
+"This island is steeped with dark magic. We must find and destroy the source "
+"of it."
+
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:142
+msgid "One thing at a time, OK? Let's get this lot out of the way first."
+msgstr "One thing at a time, OK? Let's get this lot out of the way first."
+
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:154
+msgid "There are just too many of them! We are doomed to die in this swamp!"
+msgstr "There are just too many of them! We are doomed to die in this swamp!"
+
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:161
+msgid "The undead are retreating!"
+msgstr "The undead are retreating!"
+
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:165
+msgid ""
+"There are doubtless many more where they came from. We must clear the entire "
+"island if we are to make it our home."
+msgstr ""
+"There are doubtless many more where they came from. We must clear the entire "
+"island if we are to make it our home."
+
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:169
+msgid "Then what are we waiting for? Let's keep moving!"
+msgstr "Then what are we waiting for? Let's keep moving!"
+
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:4
+msgid "Clearing the Island"
+msgstr "Clearing the Island"
+
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:8
+msgid ""
+"The Drakes moved inland quickly, wanting to deal with the undead as soon as "
+"possible, but soon encountered an unnatural darkness."
+msgstr ""
+"The Drakes moved inland quickly, wanting to deal with the undead as soon as "
+"possible, but soon encountered an unnatural darkness."
+
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:63
+msgid "Scout out the land"
+msgstr "Scout out the land"
+
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:111
+msgid "Does this swamp ever end? I can't see a thing!"
+msgstr "Does this swamp ever end? I can't see a thing!"
+
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:115
+msgid ""
+"We must be getting close to the source of this evil. That's why the land is "
+"so dark."
+msgstr ""
+"We must be getting close to the source of this evil. That's why the land is "
+"so dark."
+
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:119
+msgid ""
+"We can't continue like this indefinitely. This darkness reaches inside you "
+"and grips your heart."
+msgstr ""
+"We can't continue like this indefinitely. This darkness reaches inside you "
+"and grips your heart."
+
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:123
+msgid ""
+"No, we can't. Send some scouts ahead to spy out the land. We cannot keep "
+"wandering aimlessly."
+msgstr ""
+"No, we can't. Send some scouts ahead to spy out the land. We cannot keep "
+"wandering aimlessly."
+
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:133
+msgid "There are more undead here!"
+msgstr "There are more undead here!"
+
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:137
+msgid ""
+"It was only a matter of time until we ran into them again. Very well - "
+"destroy them!"
+msgstr ""
+"It was only a matter of time until we ran into them again. Very well - "
+"destroy them!"
+
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:166
+msgid ""
+"Ah! So these are the creatures who dare enter our territory! Hmmm, they are "
+"strong. They will make excellent slaves!"
+msgstr ""
+"Ah! So these are the creatures who dare enter our territory! Hmmm, they are "
+"strong. They will make excellent slaves!"
+
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:170
+msgid ""
+"We did not come here to enter your territory, we came here to occupy it and "
+"destroy you!"
+msgstr ""
+"We did not come here to enter your territory, we came here to occupy it and "
+"destroy you!"
+
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:174
+msgid ""
+"So the leader of the undead shows himself. Concentrate your efforts on him. "
+"If we can defeat him, the power that sustains the undead will be broken."
+msgstr ""
+"So the leader of the undead shows himself. Concentrate your efforts on him. "
+"If we can defeat him, the power that sustains the undead will be broken."
+
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:179
+msgid "Kill Woldimer"
+msgstr "Kill Woldimer"
+
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:208
+msgid "I have fallen, but my master will avenge me!"
+msgstr "I have fallen, but my master will avenge me!"
+
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:215
+msgid "There are just too many of them! We can never prevail!"
+msgstr "There are just too many of them! We can never prevail!"
+
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:222
+msgid ""
+"What did he mean, his master? I thought he was the master of these undead!"
+msgstr ""
+"What did he mean, his master? I thought he was the master of these undead!"
+
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:226
+msgid ""
+"He was powerful, yes. Yet despite his death the darkness persists. There "
+"must be another, more powerful yet."
+msgstr ""
+"He was powerful, yes. Yet despite his death the darkness persists. There "
+"must be another, more powerful yet."
+
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:230
+msgid ""
+"I don't know how much longer we can continue this. There are rumours of "
+"mutiny again."
+msgstr ""
+"I don't know how much longer we can continue this. There are rumours of "
+"mutiny again."
+
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:234
+msgid "Then we must find and defeat Woldimer's master quickly. Come on!"
+msgstr "Then we must find and defeat Woldimer's master quickly. Come on!"
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:4
+msgid "Showdown"
+msgstr "Showdown"
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:8
+msgid ""
+"Continuing to move inland, the Drakes soon found that the darkness was "
+"becoming almost unbearable."
+msgstr ""
+"Continuing to move inland, the Drakes soon found that the darkness was "
+"becoming almost unbearable."
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:72
+msgid "Find enemy leader"
+msgstr "Find enemy leader"
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:134
+msgid ""
+"Woldimer's master must be very close. This darkness appears to be even "
+"heavier than before, if that were possible."
+msgstr ""
+"Woldimer's master must be very close. This darkness appears to be even "
+"heavier than before, if that were possible."
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:138
+msgid ""
+"I certainly hope so. Our supplies will not last much longer. We must finish "
+"this quickly!"
+msgstr ""
+"I certainly hope so. Our supplies will not last much longer. We must finish "
+"this quickly!"
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:142
+msgid "We must find our enemy before we can finish him."
+msgstr "We must find our enemy before we can finish him."
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:161
+msgid ""
+"So it is true. The lizards managed to defeat my apprentice. You will pay "
+"dearly for that! Still, I have waited centuries for a good fight. Revenge "
+"will just make it even better."
+msgstr ""
+"So it is true. The lizards managed to defeat my apprentice. You will pay "
+"dearly for that! Still, I have waited centuries for a good fight. Revenge "
+"will just make it even better."
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:165
+msgid "Is that thing alive or dead?"
+msgstr "Is that thing alive or dead?"
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:169
+msgid ""
+"He is a Lich - a dark sorcerer who himself has become undead. And a very "
+"powerful one at that. In fact, he has perhaps too much power."
+msgstr ""
+"He is a Lich - a dark sorcerer who himself has become undead. And a very "
+"powerful one at that. In fact, he has perhaps too much power."
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:173
+msgid "Too much for what? Are you saying we cannot prevail?"
+msgstr "Too much for what? Are you saying we cannot prevail?"
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:177
+msgid ""
+"No, he has more power than should be possible. Most likely he has a talisman "
+"of great power that sustains him. Destroy the talisman and he will be "
+"greatly weakened. Only then will we be able to defeat him."
+msgstr ""
+"No, he has more power than should be possible. Most likely he has a talisman "
+"of great power that sustains him. Destroy the talisman and he will be "
+"greatly weakened. Only then will we be able to defeat him."
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:181
+msgid "You don't sound too sure."
+msgstr "You don't sound too sure."
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:185
+msgid ""
+"I'm not, but it's our only chance. If we attack him directly we will "
+"certainly fail. We must find and destroy the source of his power."
+msgstr ""
+"I'm not, but it's our only chance. If we attack him directly we will "
+"certainly fail. We must find and destroy the source of his power."
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:190
+msgid "Find and destroy Mal-Bronam's talisman; then"
+msgstr "Find and destroy Mal-Bronam's talisman; then"
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:194
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:423
+msgid "Kill Mal-Bronam"
+msgstr "Kill Mal-Bronam"
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:234
+msgid ""
+"I told you it's useless attacking him! We must destroy that talisman first!"
+msgstr ""
+"I told you it's useless attacking him! We must destroy that talisman first!"
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:302
+msgid "Look! What is this thing?"
+msgstr "Look! What is this thing?"
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:306
+msgid "It must be the talisman we were looking for! We must destroy it!"
+msgstr "It must be the talisman we were looking for! We must destroy it!"
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:352
+msgid "Noooo! What have you done?"
+msgstr "Noooo! What have you done?"
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:362
+msgid "It worked! The darkness is retreating!"
+msgstr "It worked! The darkness is retreating!"
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:366
+msgid "Good - now destroy him!"
+msgstr "Good - now destroy him!"
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:370
+msgid ""
+"Do you think I am no longer able to defend myself? I still have power "
+"greater than you can imagine!"
+msgstr ""
+"Do you think I am no longer able to defend myself? I still have power "
+"greater than you can imagine!"
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:455
+msgid "This darkness pervades my soul. I cannot continue any longer!"
+msgstr "This darkness pervades my soul. I cannot continue any longer!"
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:465
+msgid "No! It cannot be! I am immortal! I am invincible! I am -"
+msgstr "No! It cannot be! I am immortal! I am invincible! I am -"
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:469
+msgid "Gone."
+msgstr "Gone."
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:476
+msgid "Can it be true? Is it possible we have defeated him?"
+msgstr "Can it be true? Is it possible we have defeated him?"
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:480
+msgid "Yes - look! The undead melt away already."
+msgstr "Yes - look! The undead melt away already."
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:485
+msgid "I don't think it's safe to stay here."
+msgstr "I don't think it's safe to stay here."
+
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:489
+msgid ""
+"No. The earth is shaking off a great burden. We would be best to retreat to "
+"the open plains."
+msgstr ""
+"No. The earth is shaking off a great burden. We would be best to retreat to "
+"the open plains."
+
+#: Children_of_Dragons/scenarios/13_Epilogue.cfg:4
+msgid "Epilogue"
+msgstr "Epilogue"
+
+#: Children_of_Dragons/scenarios/13_Epilogue.cfg:8
+msgid ""
+"For three days the Drakes cowered on the open plains, as the earth continued "
+"to shake. Eventually the tremors stopped, and the Drakes were able to take "
+"their first real look at the island. Swamp still covered much of it, though "
+"it was already receding. They could see that once it returned to normal, it "
+"would be a beautiful place."
+msgstr ""
+"For three days the Drakes cowered on the open plains, as the earth continued "
+"to shake. Eventually the tremors stopped, and the Drakes were able to take "
+"their first real look at the island. Swamp still covered much of it, though "
+"it was already receding. They could see that once it returned to normal, it "
+"would be a beautiful place."
+
+#: Children_of_Dragons/scenarios/13_Epilogue.cfg:11
+msgid ""
+"However, less than one-fifth of the Drakes who set out still remained. Kahn "
+"in particular struggled to convince himself that it had all been worth it."
+msgstr ""
+"However, less than one-fifth of the Drakes who set out still remained. Kahn "
+"in particular struggled to convince himself that it had all been worth it."
+
+#: Children_of_Dragons/scenarios/13_Epilogue.cfg:14
+msgid ""
+"In time though he was able to deal with his grief, and went on to lead the "
+"Drakes for many years. With the help of the humans, they cleared the waters "
+"around the island of the Nagas. The Drakes thrived in their new home, and "
+"their numbers grew once again."
+msgstr ""
+"In time though he was able to deal with his grief, and went on to lead the "
+"Drakes for many years. With the help of the humans, they cleared the waters "
+"around the island of the Nagas. The Drakes thrived in their new home, and "
+"their numbers grew once again."
