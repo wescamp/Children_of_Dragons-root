@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-02-08 14:00+0100\n"
-"PO-Revision-Date: 2007-02-08 14:00+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2007-02-10 20:24+0100\n"
+"Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 #: Children_of_Dragons.cfg:7
 msgid "Children of Dragons"
-msgstr ""
+msgstr "Figli dei draghi"
 
 #: Children_of_Dragons.cfg:12
 msgid ""
@@ -21,30 +21,33 @@ msgid ""
 "all but extinct. But their descendants are just about to make their mark on "
 "the world..."
 msgstr ""
+"Un tempo le creature più temute nel mondo dei vivi erano i draghi che ora "
+"sono completamente estinti. Tuttavia i loro discendenti stanno marcando i "
+"loro segno sul mondo..."
 
 #: Children_of_Dragons.cfg:14
 msgid "Noble"
-msgstr ""
+msgstr "Nobile"
 
 #: Children_of_Dragons.cfg:14
 msgid "Chancellor"
-msgstr ""
+msgstr "Cancelliere"
 
 #: Children_of_Dragons.cfg:14
 msgid "Lord"
-msgstr ""
+msgstr "Signore"
 
 #: Children_of_Dragons.cfg:17
 msgid "Campaign Developed and Maintained By"
-msgstr ""
+msgstr "Campagna sviluppata e gestita da"
 
 #: Children_of_Dragons.cfg:21
 msgid "Artwork and Graphics"
-msgstr ""
+msgstr "Grafica"
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:4
 msgid "Leader of the Drakes"
-msgstr ""
+msgstr "Signore dei draghi"
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:8
 msgid ""
@@ -54,6 +57,11 @@ msgid ""
 "longer as awe-inspiring or as powerful, but far more numerous and much more "
 "intelligent, have been eking out an existence underground."
 msgstr ""
+"Per secoli i draghi regnarono potenti sul mondo. Ma il loro tempo è passato. "
+"Il loro numero è scemato e ora ne rimangono pochi che sopravvivono "
+"soprattutto come una leggenda a cui nessuno crede davvero. Tuttavia i loro "
+"discendenti, non più così potenti né terrificanti, ma molto più numerosi e "
+"molto più intelligenti, si sono  adattati a vivere sottoterra."
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:12
 msgid ""
@@ -63,11 +71,16 @@ msgid ""
 "Drake race should head, but only one will get the chance to put their ideas "
 "into action..."
 msgstr ""
+"Adesso che è morto quello che per molto tempo è stato il loro capo, è ora "
+"che una nuova generazione prenda le redini. Attraverso numerose sfide, tre "
+"potenziali nuovi capi si sono distinti tra i loro pari. Hanno diverse "
+"opinioni sulla direzione che dovrebbe prendere la razza dei draghi, ma solo "
+"uno avrà la possibilità di mettere in pratica le sue idee..."
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:61
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:53
 msgid "Defeat all enemy leaders"
-msgstr ""
+msgstr "Sconfiggi tutti i comandanti nemici"
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:67
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:146
@@ -84,7 +97,7 @@ msgstr ""
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:355
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:57
 msgid "Death of Kahn"
-msgstr ""
+msgstr "Morte di Kahn"
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:81
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:75
@@ -100,7 +113,7 @@ msgstr ""
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:84
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:61
 msgid "Turns run out"
-msgstr ""
+msgstr "Fine dei turni"
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:113
 msgid ""
@@ -109,64 +122,73 @@ msgid ""
 "alive, and the leadership of the Drakes is yours. If you wish to rescind "
 "your claim to lead us, now is your final chance."
 msgstr ""
+"Secondo l'antica tradizione della nostra razza, la battaglia per il comando "
+"sarà combattuta qua. Le regole sono semplici: il contendente che rimane vivo "
+"per ultimo assumerà il comando dei draghi. Se volete rinunciare a "
+"rivendicare la vostra supremazie, questa è l'ultima possibilità."
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:117
 msgid "There is complete silence."
-msgstr ""
+msgstr "C'è un silenzio assoluto."
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:121
 msgid "Very well. Let the battle commence!"
-msgstr ""
+msgstr "Benissimo. Che la battaglia cominci!"
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:133
 msgid ""
 "So it has finally come to this. The leadership of the Drakes will be mine."
-msgstr ""
+msgstr "È l'ora finalmente. La supremazia sui draghi sarà mia."
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:137
 msgid "Hah! In your dreams, softbelly. The leadership is mine."
-msgstr ""
+msgstr "Ah! Solo nei tuoi sogni, pappamolle. Sarò io il capo."
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:141
 msgid "Enough bickering! Let us begin."
-msgstr ""
+msgstr "Basta bisticci! Cominciamo."
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:159
 msgid ""
 "What? There is still no winner after the allotted time? It seems none of you "
 "are worthy to lead us after all."
 msgstr ""
+"Cosa? Non c'è ancora un vincitore al termine del tempo concesso? Pare che "
+"nessuno di voi sia degno di guidarci dopo tutto."
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:177
 msgid "All hail our new leader, Kahn!"
-msgstr ""
+msgstr "Acclamiamo il nostro nuovo capo, Kahn!"
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:187
 msgid "Bah! The Drakes are doomed."
-msgstr ""
+msgstr "Bah! I draghi sono condannati."
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:201
 msgid "Ah. It seems I was overly ambitious."
-msgstr ""
+msgstr "Ah. Sono stato troppo ambizioso."
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:211
 msgid ""
 "Too right you were. Only I have the steel required to lead the mighty Drakes."
 msgstr ""
+"Hai ragione. Solo io ho l'acciaio necessario per guidare i potenti draghi."
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:215
 msgid "We'll see about that."
-msgstr ""
+msgstr "Questo lo vedremo."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:4
 msgid "Drake Council"
-msgstr ""
+msgstr "Consiglio dei draghi"
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:8
 msgid ""
 "Having asserted his right to lead the Drakes, the time had now come for Kahn "
 "to convince his people of his somewhat radical plans."
 msgstr ""
+"Dopo aver affermato il suo diritto a guidare i draghi, è venuto il tempo ora "
+"per Kahn di convincere il suo popolo dei suoi piani piuttosto radicali."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:153
 msgid ""
@@ -174,26 +196,31 @@ msgid ""
 "leader you are now also the head of this council, though there is little you "
 "can do without the approval of the majority of the council."
 msgstr ""
+"Richiamo questa riunione del consiglio dei draghi all'ordine. Benvenuto, "
+"Kahn. Come nostro signore ora presiedi anche il nostro consiglio, anche se "
+"non puoi fare molto senza l'approvazione della maggioranza del consiglio."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:157
 msgid "Thank you. It is indeed an honour to serve the Drakes in this capacity."
 msgstr ""
+"Grazie. È davvero un onore per me servire i draghi in questa posizione."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:161
 msgid "We believe you have some rather, uh, drastic plans, Kahn."
 msgstr ""
+"Noi pensiamo che tu abbia altri piani, piuttosto... eh... radicali, Kahn."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:165
 msgid "You could say that."
-msgstr ""
+msgstr "Puoi ben dirlo."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:169
 msgid "Then I think you should share them."
-msgstr ""
+msgstr "Allora io penso che dovresti condividerli con noi."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:173
 msgid "I couldn't agree more."
-msgstr ""
+msgstr "Non domando altro."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:177
 msgid ""
@@ -204,20 +231,28 @@ msgid ""
 "we encounter from time to time. We cannot move quickly, except where we have "
 "paved the cave floors such as in this cavern."
 msgstr ""
+"Stimati membri del consiglio, il nostro popolo discende dai potenti draghi, "
+"un tempo sovrani della terra e del cielo. Per secoli ci siamo nascosti "
+"sottoterra e non ci siamo mai veramente adattati alle condizioni che "
+"affrontiamo ogni giorno. Non combattiamo bene sottoterra a differenza dei "
+"troll e dei nani che ogni tanto incontriamo. Non possiamo muoverci "
+"velocemente se non dove abbiamo lastricato le caverne come questa."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:181
 msgid "Friends, we do not belong here. We -"
-msgstr ""
+msgstr "Amici, questo non è il nostro posto. Noi -"
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:185
 msgid ""
 "We have, as you say, lived here for centuries. How can you claim we do not "
 "belong?"
 msgstr ""
+"Noi, come hai detto tu stesso, abbiamo vissuto qua per secoli. Come puoi "
+"affermare che questo non è il nostro posto?"
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:189
 msgid "Hear him out, Gakk."
-msgstr ""
+msgstr "Ascoltiamolo fino in fondo, Gakk."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:193
 msgid ""
@@ -226,20 +261,27 @@ msgid ""
 "come for us to make some drastic changes. I plan to lead the Drakes above "
 "ground."
 msgstr ""
+"Come ho detto, noi sopravviviamo sottoterra. Ciò nonostante, siamo cresciuti "
+"di numero e di forza. Ma se vogliamo continuare a prosperare, credo che sia "
+"giunto il tempo per noi di fare alcuni cambiamenti drastici. Io voglio "
+"guidare i draghi in superficie."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:197
 msgid ""
 "Surely you cannot be serious. We know these caves - we know what to expect, "
 "we know how to survive. We know nothing about the world above ground."
 msgstr ""
+"Sicuramente non stai dicendo sul serio. Conosciamo queste caverne - sappiamo "
+"cosa aspettarci, sappiamo come sopravvivere. Non sappiamo nulla del mondo in "
+"superficie."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:201
 msgid "If I may, that is not strictly true."
-msgstr ""
+msgstr "Se mi è permesso, questo non è completamente vero."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:205
 msgid "Explain."
-msgstr ""
+msgstr "Spiega."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:209
 msgid ""
@@ -248,6 +290,11 @@ msgid ""
 "do so underground. We have long dreamt that a day would come when we would "
 "be able to live there permanently. We cannot dismiss such an opportunity."
 msgstr ""
+"Nelle ultime due generazioni, parecchi membri del mio clan  hanno fatto "
+"brevi viaggi in superficie. Siamo fatti per volare, ma abbiamo poche "
+"possibilità di farlo sottoterra. Abbiamo sognato per lungo tempo di quel "
+"giorno in cui avremmo potuto viverci permanentemente. Non possiamo "
+"rinunciare a una possibilità del genere."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:213
 msgid ""
@@ -255,6 +302,9 @@ msgid ""
 "dwarves - have been attacking more and more frequently. Something must be "
 "done if we are to survive."
 msgstr ""
+"Non posso che essere d'accordo. Negli ultimi anni i troll - e anche i nani - "
+"ci attaccano sempre più di frequente. Dobbiamo fare qualcosa se vogliamo "
+"sopravvivere."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:217
 msgid ""
@@ -266,6 +316,12 @@ msgid ""
 "we go? Who knows what manner of creatures occupy the land we would be "
 "attempting to settle."
 msgstr ""
+"Non posso credere a quello che sento! Stai dicendo che concordi con questa "
+"idea ridicola? È una pazzia! Anche se conoscessimo qualcosa del mondo fuori "
+"di queste caverne, anche solo andarci sarebbe un compito titanico. Che un "
+"paiodi draghi volino fuori di tanto in tanto è una cosa, ma spostarci tutti? "
+"È impossibile. E anche se uscissimo, dove andremmo? Chi conosce le creature "
+"che occupano le terre in cui cercheremo di insediarci?"
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:221
 msgid ""
@@ -273,6 +329,9 @@ msgid ""
 "have raised, I simply do not think it is practical to attempt such a huge "
 "undertaking."
 msgstr ""
+"Sono d'accordo, Gakk. Anche se simpatizzo con le istanze che i miei colleghi "
+"hanno sollevato, io semplicemente non penso che sia praticabile tentare "
+"un'impresa di questa portata."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:225
 msgid ""
@@ -280,10 +339,13 @@ msgid ""
 "opposition here. We must seek new lands. And above ground is the best place "
 "to look."
 msgstr ""
+"Ma quale sarebbe l'alternativa? Come ha detto Derk, stiamo affrontanto "
+"nemici sempre più forti. Dobbiamo cercare nuove terre. E la superficie è il "
+"posto migliore dove cercarle."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:229
 msgid "At least we know the opposition here."
-msgstr ""
+msgstr "Almeno qui conosciamo i nemici."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:233
 msgid ""
@@ -293,27 +355,34 @@ msgid ""
 "agree to it. And so, we vote. We begin to my left, with Derk. How do you "
 "cast your vote?"
 msgstr ""
+"Bene, pare che dobbiamo porre la questione ai voti. Kahn, come sapete, una "
+"decisione di questa portata non può essere presa alla leggera. E quindi deve "
+"passare con un voto della maggioranza. Questo signfica che almeno quattro "
+"dei sei membri del consiglio devono essere a favore. Dunque, votiamo. "
+"Cominciamo dalla mia sinistra, con Derk. Come esprimi il tuo voto?"
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:237
 msgid "I vote we follow Kahn above ground."
-msgstr ""
+msgstr "Io voto per seguire Kahn in superficie."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:241
 msgid "I say we stay."
-msgstr ""
+msgstr "Io dico di stare qui."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:245
 msgid "I agree with Freon - we must do something. I vote we go."
-msgstr ""
+msgstr "Sono d'accordo con Freon - dobbiamo fare qualcosa. Voto per andare."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:249
 msgid "I long to soar in the sky with my brethren. We go."
-msgstr ""
+msgstr "Bramo di librarmi in volo con i miei fratelli. Andiamo."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:253
 msgid ""
 "I maintain that this idea is ridiculous. I cannot support it. We must stay."
 msgstr ""
+"Continuo a dire che questa idea è ridicola. Non posso appoggiarla. Dobbiamo "
+"rimanere."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:257
 msgid ""
@@ -322,28 +391,38 @@ msgid ""
 "reservations, I believe it is time to move on. We follow Kahn out of the "
 "caves."
 msgstr ""
+"Nonostante una certa cautela per l'ignoto, anche io non credo che possiamo "
+"continuare a resistere indefinitamente ai troll e ai nani. Sebbene abbia "
+"alcune riserve, credo che sia il tempo di spostarci. Noi seguiamo Kahn fuori "
+"dalle caverne."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:261
 msgid ""
 "It is decided then. Gakk, Stakron - I appreciate your concerns, but I "
 "believe this is best for our people."
 msgstr ""
+"Allora è deciso. Gakk, Stagron -  apprezzo le vostre preoccupazioni, ma io "
+"credo che questo è il meglio per il nostro popolo."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:265
 msgid ""
 "I am afraid I cannot support this move. I will come with you if we leave, "
 "but do not expect my help!"
 msgstr ""
+"Mi spiace ma non posso appoggiare questa scelta. Verrò con voi se ce ne "
+"andremo, ma non aspettatemi il mio aiuto!"
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:277
 msgid ""
 "This does not bode well. Nonetheless, the decision is made. We begin "
 "preparations immediately."
 msgstr ""
+"Non promette niente di buono. Tuttavia, la decisione è presa. Iniziamo "
+"subito i preparativi."
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:4
 msgid "The Emerging"
-msgstr ""
+msgstr "Ritorno in superficie"
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:8
 msgid ""
@@ -354,6 +433,12 @@ msgid ""
 "through the caves. Still, they wondered if this new land was going to be any "
 "better than the one they were leaving behind."
 msgstr ""
+"Dopo mesi di preparativi, i draghi lasciarono le loro case e seguirono Kahn "
+"verso la nuova patria - ovunque fosse. Per la maggior parte, appoggiavano il "
+"piano. Quasi ogni famiglia aveva perso qualcuno neigli attacchi recenti e "
+"tutti erano frustrati per le loro incapacità a muoversi velocemente "
+"attraverso le caverne. Comunque, tutti i domandavano se questa nuova terra "
+"sarebbe stata migliore di quella che si lasciavano alle spalle."
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:12
 msgid ""
@@ -361,14 +446,17 @@ msgid ""
 "suicide to remain in the caves with the majority of the drakes gone, so they "
 "tagged along."
 msgstr ""
+"Comunque seguirono il loro capo. Qualcuno mormorava ma sarebbe stato un "
+"suicidio rimanere nelle caverne quando la maggioranza dei draghi se ne era "
+"andata, così anch'essi gli andarono dietro."
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:15
 msgid "After two weeks of uneventful travel, they felt a breeze..."
-msgstr ""
+msgstr "Dopo due settimane di viaggio monotono, sentirono una brezza..."
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:53
 msgid "Kahn must reach the exit"
-msgstr ""
+msgstr "Kahn deve raggiungere l'uscita"
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:71
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:150
@@ -383,7 +471,7 @@ msgstr ""
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:83
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:359
 msgid "Death of Freon"
-msgstr ""
+msgstr "Morte di Freon"
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:116
 msgid ""
@@ -391,60 +479,75 @@ msgid ""
 "The exit to the caves is not far from here, but the dwarves and trolls are "
 "both close. Let us hope they do not notice us."
 msgstr ""
+"Questa è la nostra fortezza più esterna, anche se non è stata usata da "
+"qualche tempo. L'uscita delle caverne non è lontana da qua, ma sia i nani "
+"sia i troll sono vicini. Speriamo che non ci abbiano notati."
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:120
 msgid ""
 "Too late, lizard. What do you mean by trying to drag your sorry hides "
 "through our caves?"
 msgstr ""
+"Troppo tardi, rettile. Cosa pensate di fare cercando di trascinare le vostre "
+"misere pellacce attraverso le nostre caverne?"
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:124
 msgid ""
 "We mean no disrespect, dwarf. We are leaving the caves - you should be glad "
 "of our absence."
 msgstr ""
+"Non è mancanza di rispetto, nano. Stiamo lasciando le caverne - dovreste "
+"essere felici per la nostra ssenza."
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:128
 msgid ""
 "Why would anyone want to leave the caves? I don't believe you - you intend "
 "to try to take our caves for yourselves! Well, not on my watch!"
 msgstr ""
+"Perché qualcuno dovrebbe voler lasciare queste caverne? Io non vi credo - "
+"state cercando di prendervi le nostre caverne per voi! Be', non sotto la mia "
+"guardia!"
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:132
 msgid ""
 "Ungh no like lizards in trolls' caves. Ungh no like dwarves either. Trolls "
 "kill all."
 msgstr ""
+"A Ungh non piacciono i rettili nelle caverne dei troll. A Ungh non piacciono "
+"neanche i nani. I troll uccidono tutti."
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:136
 msgid ""
 "Looks like we're going to have to fight our way through. Still, this was not "
 "unexpected. To arms!"
 msgstr ""
+"Sembra che dovremo aprirci la strada combattendo. Ma c'era da aspettarselo. "
+"Alle armi!"
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:146
 msgid "That not good. Strange too. Ungh never die before."
-msgstr ""
+msgstr "Questo non è buono. Anche strano. È la prima volta che Ungh muore."
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:156
 msgid "I have failed! Now our caves will be overrun with lizards!"
-msgstr ""
+msgstr "Ho fallito! Adesso le nostre caverne saranno travolte dai rettili!"
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:160
 msgid "Poor fool."
-msgstr ""
+msgstr "Povero sciocco."
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:167
 msgid "It seems we will be stuck in these caves forever."
-msgstr ""
+msgstr "Sembra che saremo bloccati in queste caverne per sempre."
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:183
 msgid "I can see the sunlight! Come, my people - welcome to your new home!"
 msgstr ""
+"Vedo la luce del sole! Venite, mio popolo - benvenuto nelle tuo nuova patria!"
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:4
 msgid "Leaving the Mountains"
-msgstr ""
+msgstr "Via dalle montagne"
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:8
 msgid ""
@@ -452,6 +555,10 @@ msgid ""
 "trepidation as to what lay ahead. Nevertheless they were relieved to have "
 "escaped the dwarves and trolls, and awestruck by what they now saw."
 msgstr ""
+"Giunti in superficie, sbattendo gli occhi, alla luce del giorno, i draghi "
+"osservavano con trepidazione quello che avevano di fronte. Ciononostante "
+"erano sollevati di essere fuggiti ai nani e ai troll e timorosi di quello "
+"che ora vedevano."
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:12
 msgid ""
@@ -460,18 +567,23 @@ msgid ""
 "and hills, plains and forest began. Excitement began to ripple through the "
 "ranks as they entertained the possibility of all this being theirs alone."
 msgstr ""
+"Avevano lasciato le caverne attraverso una caverna che emergeva nel mezzo di "
+"una ampia catena montuosa. A sud-ovest potevano vedere dove le montagne "
+"tereminavano e cominciavano le colline, le pianure e le foreste. "
+"L'eccitazione cominciava a serpeggiare nei ranghi intravedendo la "
+"possibilità di essere soli in mezzo a tutto questo."
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:15
 msgid "Freon soon spoiled that illusion."
-msgstr ""
+msgstr "Freon presto cancellò questa illusione."
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:73
 msgid "Get Kahn to the end of the mountains"
-msgstr ""
+msgstr "Sposta Kahn all'estermità delle montagne"
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:77
 msgid "Death of any Drake"
-msgstr ""
+msgstr "Morte di un drago"
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:131
 msgid ""
@@ -480,29 +592,37 @@ msgid ""
 "presence, and no doubt the dwarves and trolls will follow soon enough too, "
 "if they are not too busy fighting each other."
 msgstr ""
+"Bellissimo, vero? Purtroppo non possiamo continuare a rimirare ancora a "
+"lungo. Le creature che abitano queste montagne non tollereranno la nostra "
+"presenza e sicuramente nani e troll ci seguiranno abbastanza presto se non "
+"sono troppo impegnati a combattersi l'uno l'altro."
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:135
 msgid "Then we must get out of these mountains quickly."
-msgstr ""
+msgstr "Allora dobbiamo lasciare queste montagne rapidamente."
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:139
 msgid ""
 "Yes. The lower lands are also inhabited, though only sparsely, so we should "
 "be able to find somewhere to settle."
 msgstr ""
+"Sì. le terre più basse sono scarsamente popolate, quindi dovremmo trovare un "
+"posto dove stare."
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:331
 msgid "We made it!"
-msgstr ""
+msgstr "Ce l'abbiamo fatta!"
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:344
 msgid ""
 "If I cannot protect my people here, how will I ever do it on the open plains?"
 msgstr ""
+"Se non posso proteggere il mio popolo qui, come potrò farlo nelle vaste "
+"pianure?"
 
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:4
 msgid "Dark Forest"
-msgstr ""
+msgstr "Foresta oscura"
 
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:8
 msgid ""
@@ -510,10 +630,13 @@ msgid ""
 "so close together that despite it being morning, very little sunlight "
 "reached the forest floor."
 msgstr ""
+"Lasciate le foreste, si ritrovarono in una densa foresta. Gli alberi erano "
+"così vicini che nonostante fosse mattino, era pochissima la luce del sole "
+"che filtrava fino al suolo."
 
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:72
 msgid "Reach the end of the forest"
-msgstr ""
+msgstr "Raggiungi il termine della foresta"
 
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:131
 msgid ""
@@ -521,42 +644,49 @@ msgid ""
 "we always went straight over it. However in this case we have no choice but "
 "to go through it. We must be careful."
 msgstr ""
+"Non siamo mai entrati in questa foresta. Ci sembrava troppo scura e di "
+"cattivo presagio, perciò ci siamo sempre passati sopra. Tuttavia in questo "
+"caso non abbiamo altra scelta che attraversarla. Dobbiamo essere cauti."
 
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:135
 msgid "How bad can it be?"
-msgstr ""
+msgstr "Cosa ci può essere di brutto?"
 
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:151
 msgid "What was that?"
-msgstr ""
+msgstr "Cosa è stato?"
 
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:155
 msgid ""
 "I don't know, but it didn't sound good. Let's get through this forest as "
 "soon as possible. From memory, it will be quickest to head south."
 msgstr ""
+"Non lo so, non promette bene. Attraversiamo le foresta più velocemente "
+"possibile. Da quel che ricordo, sarebbe più veloce andare verso sud."
 
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:174
 msgid "I never want to see another tree in my entire life."
-msgstr ""
+msgstr "Non voglio vedere un solo altro albero in tutta la mia vita."
 
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:187
 msgid "The forest is crawling with undead!"
-msgstr ""
+msgstr "La foresta pullula di non-morti!"
 
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:191
 msgid ""
 "Then we must truly hurry! We must find the end of these trees - if they do "
 "not go on forever!"
 msgstr ""
+"Allora dobbiamo veramente spicciarci! Dobbiamo trovare la fine di questi "
+"alberi - ammesso che ci sia!"
 
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:195
 msgid "There is grassland beyond the trees - keep heading south."
-msgstr ""
+msgstr "C'è una prateria oltre gli alberi - continua verso sud."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:4
 msgid "The Humans"
-msgstr ""
+msgstr "Gli uomini"
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:8
 msgid ""
@@ -564,32 +694,41 @@ msgid ""
 "saw an expanse of grassland. But dotted across it were towns of varying "
 "sizes. And immediately before them was a huge city."
 msgstr ""
+"Uscendo dalla foresta, dopo aver lasciato i non-morti alle loro spalle, i "
+"draghi videro un'ampia prateria. Ma era punteggiata di paesi di diversa "
+"grandezza e subito davanti a questi c'era un'enorme città."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:12
 msgid ""
 "Wondering if it had been a mistake to leave the caves in the first place, "
 "they advanced cautiously."
 msgstr ""
+"Avanzarono con prudenza, domandandosi se non fosse stato un errore lasciare "
+"le caverne."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:60
 msgid "Halt! Who goes there?"
-msgstr ""
+msgstr "Altolà! Chi va là?"
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:64
 msgid ""
 "I am Kahn, leader of the Drakes. We have left our homes underground in "
 "search of a land more suited to our kind."
 msgstr ""
+"Sono Kahn, signore dei draghi. Abbiamo lasciato le nostre case sottoterra "
+"per cercare una terra più adatta alla nostra razza."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:68
 msgid "And you thought you'd take ours?"
-msgstr ""
+msgstr "E pensavate di prendervi la nostra?"
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:72
 msgid ""
 "No! We do not wish to take anyone's land, but are instead hoping to find "
 "some space that is currently unoccupied that we can settle in."
 msgstr ""
+"No! Noi non vogliamo prendere la terra di qualcun altro, piuttosto speriamo "
+"di trovare un posto che non si occupato da nessuno per insediarci."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:76
 msgid ""
@@ -597,10 +736,12 @@ msgid ""
 "There is little free space - certainly none anywhere near big enough to fit "
 "your entire race."
 msgstr ""
+"Hmm. Be', come vedete, la terra qua attorno è già occupata. Lo spazio libero "
+"è poco e di sicuro non è abbastanza ampio per l'intera vostra razza."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:80
 msgid "If you speak true, then I fear we have left our homes in vain."
-msgstr ""
+msgstr "Se dici il vero, temo che abbiamo lasciato le nostre case invano."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:84
 msgid ""
@@ -608,12 +749,17 @@ msgid ""
 "as Morogor. It is uninhabited, though some say it is haunted. I believe it "
 "would be suitable for your needs."
 msgstr ""
+"Forse no. C'è un'isola tropicale da qualche parte a est chiamata Morogor. È "
+"disabitata, anche se qualcuno dice che è stregata. Credo che sia adatta per "
+"le vostre esigenze."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:88
 msgid ""
 "An island, you say? That sounds ideal, but we cannot fly that far. How are "
 "we to get there?"
 msgstr ""
+"Un'isola, dite? Sembra l'ideale, ma non possiamo volare così lontano. Come "
+"potremmo raggiungerla?"
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:92
 msgid ""
@@ -621,10 +767,13 @@ msgid ""
 "transport all of your people, but I cannot offer you our assistance without "
 "you doing something for us in return."
 msgstr ""
+"Forse possiamo fare un patto. La nostra marina è in grado di trasportare "
+"tutto il vostro popolo, ma io non posso offrirvi aiuto senza chiedervi di "
+"fare qualcosa per noi in cambio."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:96
 msgid "What did you have in mind?"
-msgstr ""
+msgstr "Cosa avete in mente?"
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:100
 msgid ""
@@ -633,159 +782,184 @@ msgid ""
 "south east of here who have been troubling us of late. Defeat these bandits "
 "for us, and we will transport you to Morogor."
 msgstr ""
+"I miei espolratori dicono che siete usciti dalla foresta dei morti. Dovete "
+"essere dei combattenti esperti per esserci riusciti. C'è un grosso gruppo di "
+"banditi a sud-est che da parecchio tempo ci creano problemi. Sconfiggete "
+"questi banditi per noi e noi vi trasporteremo a Morogor."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:104
 msgid "Very well. We have a deal."
-msgstr ""
+msgstr "Benissimo. Affare fatto."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:108
 msgid ""
 "I will order our navy to begin preparations at once. We should be ready to "
 "depart by the time you return."
 msgstr ""
+"Ordinerò alla nostra marina di fare i preparativi finalmente. Dovremmo "
+"essere pronti alla partenza per quando sarete tornati."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:112
 msgid "Thank you. We are in your debt."
-msgstr ""
+msgstr "Grazie. Siamo in debito con voi."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:116
 msgid "Defeat the bandits and I will consider the debt paid in full."
-msgstr ""
+msgstr "Sconfiggi i banditi e considererò saldato il tuo debito."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:120
 msgid ""
 "Thank you once again. Come, my people - we have some criminals to catch!"
 msgstr ""
+"Grazie ancora una volta. Venite, mio popolo - abbiamo dei criminali da "
+"prendere!"
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:4
 msgid "Bandits"
-msgstr ""
+msgstr "Banditi"
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:8
 msgid "Following Alamar's directions, the Drakes soon came to a huge forest."
 msgstr ""
+"Seguendo le indicazioni di Alamar, i draghi giunsero presto di fronte "
+"un'enorme foresta."
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:73
 msgid "Death of Tumabulindrum"
-msgstr ""
+msgstr "Morte di Tumabulindrum"
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:150
 msgid "Ugh. More trees."
-msgstr ""
+msgstr "Agh. Ancora alberi."
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:154
 msgid ""
 "At least they are not as thick as the last lot. We will be able to see where "
 "we are going here."
 msgstr ""
+"Almeno non è densa come l'altra. Riusciremo a vedere dove stiamo andando."
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:158
 msgid ""
 "And our enemies this time are flesh and blood, not undead. Still, I wish "
 "there was another way."
 msgstr ""
+"E questa volta i nostri nemici sono di carne e ossa, non non-morti. Ma "
+"vorrei che ci fosse un'altro modo."
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:162
 msgid "None come to mind."
-msgstr ""
+msgstr "Non me ne vengono in mente altri."
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:166
 msgid "No, this is our best hope. Let's clear these woods!"
 msgstr ""
+"No, questa è la nostra migliore occasione. Forza ripuliamo questi boschi!"
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:170
 msgid "Hmmm. What do the fire breathers want?"
-msgstr ""
+msgstr "Hmmm. Cosa vogliono questi sputafuoco?"
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:174
 msgid "Did that tree just talk?"
-msgstr ""
+msgstr "Questo albero ha appena parlato?"
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:178
 msgid "I have heard of such things. We had best answer quickly."
-msgstr ""
+msgstr "Ne ho sentito parlare. Dobbiamo trovare una buona risposta in fretta."
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:182
 msgid "We come to rid these woods of the outlaws that hide here."
 msgstr ""
+"Siamo venuti qua per ripulire i boschi dai fuorilegge che ci si nascondono."
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:186
 msgid ""
 "Very well. These outlaws, as you call them, have destroyed many a good tree. "
 "We will help you, but make sure you keep your fires away from us."
 msgstr ""
+"Benissimo. Questi fuorilegge, come li chiamate, hanno distrutto molti buoni "
+"alberi. Vi aiuteremo, ma assicuratevi di tenere le vostre fiamme lontano da "
+"noi."
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:190
 msgid ""
 "We would be glad of your help. We have no wish to harm you with our flames, "
 "and once the outlaws are gone, we will leave you in peace."
 msgstr ""
+"Saremo felici del vostro aiuto. Non vogliamo farvi del male con il nostro "
+"fuoco e, una volta che avremo eliminato questi fuorilegge, ce ne andremo in "
+"pace."
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:194
 msgid "Then let us work together to clean this forest!"
-msgstr ""
+msgstr "Coraggio, diamoci una mano a ripulire questa foresta!"
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:213
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:235
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:257
 msgid "I found some of their ill-gotten gains!"
-msgstr ""
+msgstr "Ho trovato alcuni dei loro guadagni illegali!"
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:217
 msgid "You retrieve 75 gold."
-msgstr ""
+msgstr "Hai recuperato 75 pezzi d'oro."
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:239
 msgid "You retrieve 100 gold."
-msgstr ""
+msgstr "Hai recuperato 100 pezzi d'oro."
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:261
 msgid "You retrieve 50 gold."
-msgstr ""
+msgstr "Hai recuperato 50 pezzi d'oro."
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:276
 msgid "And so the Wose pass from the land of the living..."
-msgstr ""
+msgstr "E così i wose lasciano la terra dei vivi..."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:4
 msgid "To the Ships"
-msgstr ""
+msgstr "Alle navi"
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:8
 msgid ""
 "Having defeated the bandits, the Drakes left the Wose in peace and returned "
 "to Alamar."
 msgstr ""
+"Sconfitti i banditi, i draghi lasciarono i wose in pace e tornarono da "
+"Alamar."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:12
 msgid ""
 "Alamar informed them that the ships were ready and waiting at the docks, "
 "south of the city."
 msgstr ""
+"Alamar li informò che le navi erano pronte e aspettavano nel porto, a sud "
+"della città."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:15
 msgid "Unfortunately that was not all that awaited them."
-msgstr ""
+msgstr "Purtroppo non c'era solo questo ad aspettarli."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:77
 msgid "Defeat Gakk and Stakron"
-msgstr ""
+msgstr "Sconfiggi Gakk e Stakron"
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:154
 msgid "As you can see, the ships are ready and wai-"
-msgstr ""
+msgstr "Come puoi vedere, le navi sono pronte e in att-"
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:158
 msgid "You will not be going anywhere."
-msgstr ""
+msgstr "Non andrete da nessuna parte."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:162
 msgid "What's going on here? Who are you?"
-msgstr ""
+msgstr "Cosa sta succedendo? Chi siete?"
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:166
 msgid "Gakk? What do you think you're doing?"
-msgstr ""
+msgstr "Gakk? Cosa stai facendo?"
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:170
 msgid ""
@@ -793,6 +967,9 @@ msgid ""
 "leave our homes, forcing us into confrontation with dwarves, trolls and "
 "undead. But to make a pact with these humans ... "
 msgstr ""
+"Staimo mettendo fine a questa pazzia una volta per tutte. È stato un errore "
+"costringerci a lasciare le nostre case obbligandoci a combattere contro "
+"nani, troll e non-morti. Ma giungere a patti con questi uomini..."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:174
 msgid ""
@@ -801,24 +978,32 @@ msgid ""
 "who knows what manner of creatures will be there to ensure we do not "
 "survive? Better we finish this now, and return to the caves where we belong."
 msgstr ""
+"E per quale scopo? In modo che ci mandino in mezzo al mare e ci affoghino "
+"molto probabilmente! E ammesso che questa fantomatica isola esista e noi "
+"riusciamo a raggiungerla, chi sa che razza di creature ci saranno laggiù ad "
+"assicurarsi che noi non sopravviviamo? Meglio farla finita ora e tornare "
+"alle nostre caverne."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:178
 msgid ""
 "Whatever else we may do, we cannot return to the caves. They will certainly "
 "have been overrun with dwarves and trolls by now."
 msgstr ""
+"Cosa altro possiamo fare, non possiamo tornare alle caverne. Sono state "
+"sicuramente travolte dai nani e dai troll adesso."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:185
 msgid "Stakron? You too?"
-msgstr ""
+msgstr "Stakron? Anche tu?"
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:189
 msgid "Gakk is right. We should never have left the caves."
-msgstr ""
+msgstr "Gakk ha ragione. Non avremmo mai dovuto lasciare le caverne."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:193
 msgid "You would oppose our rightful leader, and the wishes of the council?"
 msgstr ""
+"Vorreste opporvi al nostro signore legittimo e ai desideri del consiglio?"
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:197
 msgid ""
@@ -826,18 +1011,21 @@ msgid ""
 "still have some sort of power. Real power comes from strength of arms, not "
 "meetings."
 msgstr ""
+"Bah! Il consiglio è solo un mucchio di vecchi che pensano di avere ancora un "
+"po' di potere. Il vero potere viene con la forza delle armi, non nelle "
+"riunioni."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:201
 msgid "If you will not back down, we will be forced to destroy you."
-msgstr ""
+msgstr "Se non ti ritirerai, saremo costretti a distruggerti."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:205
 msgid "Hah! I'd like to see you try."
-msgstr ""
+msgstr "Ah! Mi piacerebbe che tu ci provassi."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:209
 msgid "If that's the way it must be, then so be it."
-msgstr ""
+msgstr "Se così deve essere, così sarà."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:213
 msgid ""
@@ -846,6 +1034,10 @@ msgid ""
 "those of our people who agree with these two. They will not be fighting "
 "alone."
 msgstr ""
+"Mi spiace ma non posso aiutarti, Kahn. Non posso combattere i compagni "
+"membri del consiglio, anche se hanno perso il senno. Ma fa' attenzione. Di "
+"sicuro nella nostra gente c'è chi è d'accordo con questi due. Non "
+"combatteranno da soli."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:217
 msgid ""
@@ -853,103 +1045,116 @@ msgid ""
 "and unless they attack our ships, I am afraid it does not concern me. I will "
 "return once you have dealt with these two."
 msgstr ""
+"Anche io non posso essere coinvolto. Ho delle questioni urgenti da seguire e "
+"a meno che attacchino le nostre navi, mi spiace ma non sono affari miei. "
+"Tornerò quando avrete trovato un accordo con questi due."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:221
 msgid "I understand. Come, let us crush these traitors!"
-msgstr ""
+msgstr "Capisco. Forza, distruggiamo questi traditori!"
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:250
 msgid "At least I won't live to see the demise of the Drakes."
-msgstr ""
+msgstr "Almeno non vivrò per vedere l'estinzione dei draghi."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:254
 msgid "I wish I hadn't had to do that."
-msgstr ""
+msgstr "Vorrei non averlo dovuto fare."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:258
 msgid ""
 "He was a great asset to the Drakes. It's a shame it had to end like this. "
 "Still, I suppose we did only what was necessary."
 msgstr ""
+"È stato un grande eroe dei draghi. È un peccato che sia finito così. Eppure, "
+"penso che abbiamo fatto solo quello che era necessario."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:268
 msgid "Come now, Stakron. Surely you will not persist in this rebellion?"
-msgstr ""
+msgstr "Forza, Stakron. Davvero vuoi insistere in questa ribellione?"
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:272
 msgid "I ... it is too late for me now. I cannot turn back."
-msgstr ""
+msgstr "È... è troppo tardi per me ora. Non posso tornare indietro."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:276
 msgid "It truly saddens me to hear that."
-msgstr ""
+msgstr "Mi rattrista davvero sentirlo."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:292
 msgid "I could have been wrong ..."
-msgstr ""
+msgstr "Forse avevo torto..."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:296
 msgid "You will pay for that!"
-msgstr ""
+msgstr "La pagherai per questo!"
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:310
 msgid "Too many Drakes are defecting to them. We are doomed!"
-msgstr ""
+msgstr "Troppi draghi stanno disertando dalla loro parte. Siamo condannati!"
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:320
 msgid "(sigh) The rebels are defeated."
-msgstr ""
+msgstr "(sospira) I ribelli sono stati sconfitti."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:330
 msgid "This is a sad day. Many Drakes have died in a pointless rebellion."
 msgstr ""
+"È un giorno triste. Troppi draghi sono morti in una ribellione senza scopo."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:334
 msgid "Yes. And we now have two vacant places on the council."
-msgstr ""
+msgstr "Sì. E ora abbiamo due posti vacanti nel consiglio."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:338
 msgid ""
 "That will have to wait. You must leave immediately before the weather turns."
 msgstr ""
+"È quello che aspettavano. Dobbiamo andarcene immediatamente prima che il "
+"tempo cambi."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:342
 msgid "Very well. Thank you once again, Alamar."
-msgstr ""
+msgstr "Benissimo. Grazie ancora una volta, Alamar."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:346
 msgid ""
 "No, thank you. Since you defeated the bandits, our villages are safe. May "
 "your journey be quick and uneventful."
 msgstr ""
+"No, grazie. Dato che avete sconfitto i banditi, i nostri villaggi sono al "
+"sicuro. Possa il vostro viaggio essere veloce e tranquillo."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:350
 msgid "Let's hope so. To the ships!"
-msgstr ""
+msgstr "Speriamo. Alle navi!"
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:4
 msgid "Sea Journey"
-msgstr ""
+msgstr "Viaggio per mare"
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:8
 msgid "The remaining Drakes boarded the ships and embarked immediately."
 msgstr ""
+"I draghi che rimanevano salirono sulle navi e si imbarcarono immediatamente."
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:12
 msgid ""
 "The trip was uneventful for the first few days, until they neared their "
 "destination."
 msgstr ""
+"I primi giorni di viaggio furono tranquilli, finché si avvicinarono alla "
+"destinazione."
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:75
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:351
 msgid "Survive until the end of turns"
-msgstr ""
+msgstr "Sopravvivi fino alla fine dei turni"
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:87
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:363
 msgid "Death of Ober"
-msgstr ""
+msgstr "Morte di Ober"
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:160
 msgid ""
@@ -957,24 +1162,30 @@ msgid ""
 "however the reports I have heard say there are often many Nagas around here. "
 "They do move around a lot though, so let's hope they are currently elsewhere."
 msgstr ""
+"Abbiamo poche informazioni su questa regione dato che di solito evitiamo "
+"Morogor, comunque i rapporti che io ho sentito dicono che spesso ci sono "
+"molti naga qua attorno. Si muovono parecchio qua attorno, perciò speriamo "
+"che adesso siano da qualche altra parte."
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:164
 msgid "What are these Nagas?"
-msgstr ""
+msgstr "Cosa sono questi naga?"
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:168
 msgid ""
 "They are serpentine creatures who live in the sea. This is very much their "
 "element, so it would be a struggle to have to face them here."
 msgstr ""
+"Sono creature serpentiformi che vivono in mare. Questo è proprio il loro "
+"elemento, perciò sarebbe un problema doverli affrontare qui."
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:172
 msgid "You mean like these?"
-msgstr ""
+msgstr "Intendi come questi?"
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:183
 msgid "Intruderssss! Don't let any essscape!"
-msgstr ""
+msgstr "Intrusssi! Non lasssciamo loro ssscampo!"
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:221
 msgid ""
@@ -982,6 +1193,10 @@ msgid ""
 "through them. You must protect the ship, but don't allow anyone to get too "
 "far behind as we will not be able to go back for them."
 msgstr ""
+"Dannazione! È troppo tardi per fare il giro - dovremo cercare di aprirci la "
+"strada attraverso di loro. Dovete proteggere la nave, ma non possiamo "
+"permettere che nessuno rimanga troppo indietro perché non potremo tornare "
+"indietro a prenderli."
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:225
 msgid ""
@@ -989,48 +1204,53 @@ msgid ""
 "hexes up as the ship moves forward. This means any units in the top five "
 "rows will be lost."
 msgstr ""
+"All'inizio di ogni turno, ogni unità non sulla nave si muoverà di cinque "
+"esagoni mentre la nave si muoverà in avanti. Questo vuol dire che ogni unità "
+"nelle prime cinque righe sarà persa."
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:280
 msgid "New Naga at $unit_x,$unit_y"
-msgstr ""
+msgstr "Un altro naga a $unit_x,$unit_y"
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:342
 msgid ""
 "There do not appear to be any more coming. We just need to hold off or "
 "defeat those that remain."
 msgstr ""
+"Sembra che non arrivino più altri. Dovremo solo resistere o sconfiggere "
+"quelli che rimangono."
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:348
 msgid "Defeat remaining Nagas"
-msgstr ""
+msgstr "Sconfiggi i naga che rimangono"
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:406
 msgid "Avenge me, brotherssss and ssssissssterssss..."
-msgstr ""
+msgstr "Vendicatemi, fratelli e sssorelle..."
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:416
 msgid "We will never pilot this ship without him!"
-msgstr ""
+msgstr "Non governeremo mai questa nave senza di lui!"
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:432
 msgid "We made it! The Nagas will not pursue us any further."
-msgstr ""
+msgstr "Ce l'abbiamo fatta! I Naga non ci inseguono più."
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:436
 msgid "Surely it can only get easier from here?"
-msgstr ""
+msgstr "Da qui in avanti può solo essere più facile?"
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:440
 msgid "We should meet no further resistance between here and Morogor."
-msgstr ""
+msgstr "Non dovremo incontrare altra resistenza da qui fino a Morogor."
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:444
 msgid "Sounds good to me. Onward!"
-msgstr ""
+msgstr "A me sta bene. Avanti!"
 
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:4
 msgid "Landing on Morogor"
-msgstr ""
+msgstr "Arrivo a Morogor"
 
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:8
 msgid ""
@@ -1038,184 +1258,227 @@ msgid ""
 "Morogor. The humans departed as quickly as they could, not wanting to take "
 "any chances. The Drakes began to survey the land they were to call home."
 msgstr ""
+"Dopo essere riusciti a superare i naga, i draghi sbarcarono presto a "
+"Morogor. Gli uomini ripartirono appena possibile, per non correre rischi. I "
+"draghi iniziarono a esaminare la terra che avrebbero chiamato casa."
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:142
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:62
 msgid "Defeat the undead"
-msgstr ""
+msgstr "Sconfiggi i non-morti"
 
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:116
 msgid "Ugh! This place is disgusting! Maybe Gakk was right."
-msgstr ""
+msgstr "Agh! Questo posto è disgustoso! Forse Gakk aveva ragione."
 
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:120
 msgid ""
 "This place reeks of the undead. No doubt once we clear the island of the "
 "undead, the land itself will regenerate."
 msgstr ""
+"Questo posto puzza di morte. Sicuramente quando avremo ripulito l'isola dai "
+"non-morti, la terra si rigenererà da sola."
 
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:124
 msgid "I certainly hope so. Look - there are undead here. Let's get started!"
 msgstr ""
+"Speriamo che sia davvero così. Guardate, ci sono dei non-morti qua. "
+"Cominciamo!"
 
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:134
 msgid "What devilry is this? Those Drakes who fall are rising again in unlife!"
 msgstr ""
+"Che diavoleria è mai questa? I draghi che cadono risorgono di nuovo non-"
+"morti!"
 
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:138
 msgid ""
 "This island is steeped with dark magic. We must find and destroy the source "
 "of it."
 msgstr ""
+"Questa isola trasuda di magia nera. Dobbiamo trovare e distruggerne la fonte."
 
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:142
 msgid "One thing at a time, OK? Let's get this lot out of the way first."
 msgstr ""
+"Una cosa alla volta, va bene? Per prima cosa facciamo fuori questi qua."
 
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:154
 msgid "There are just too many of them! We are doomed to die in this swamp!"
-msgstr ""
+msgstr "Ce ne sono troppi! Siamo condannati a morire in questa palude!"
 
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:161
 msgid "The undead are retreating!"
-msgstr ""
+msgstr "I non-morti si ritirano!"
 
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:165
 msgid ""
 "There are doubtless many more where they came from. We must clear the entire "
 "island if we are to make it our home."
 msgstr ""
+"Ce ne sono sicuramente molti di più dove andremo. Dobbiamo liberare l'intera "
+"isola se vogliamo farne la nostra patria."
 
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:169
 msgid "Then what are we waiting for? Let's keep moving!"
-msgstr ""
+msgstr "Allora cosa stiamo aspettando? Muoviamoci!"
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:4
 msgid "Clearing the Island"
-msgstr ""
+msgstr "Liberazione dell'isola"
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:8
 msgid ""
 "The Drakes moved inland quickly, wanting to deal with the undead as soon as "
 "possible, but soon encountered an unnatural darkness."
 msgstr ""
+"I draghi si mossero rapidamente verso l'interno, perché volevano affrontare "
+"i non-morti prima possibile, ma presto incontrarono una oscurità innaturale."
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:63
 msgid "Scout out the land"
-msgstr ""
+msgstr "Perlustrazione"
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:111
 msgid "Does this swamp ever end? I can't see a thing!"
-msgstr ""
+msgstr "Ma questa palude non finisce mai? Non vedo niente!"
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:115
 msgid ""
 "We must be getting close to the source of this evil. That's why the land is "
 "so dark."
 msgstr ""
+"Dobbiamo essere vicini alla fonte di questa malvagità. Ecco perché la terra "
+"è così scura."
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:119
 msgid ""
 "We can't continue like this indefinitely. This darkness reaches inside you "
 "and grips your heart."
 msgstr ""
+"Non possiamo continuare così per sempre. Questa oscurità raggiunge l'anima e "
+"ti prende al cuore."
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:123
 msgid ""
 "No, we can't. Send some scouts ahead to spy out the land. We cannot keep "
 "wandering aimlessly."
 msgstr ""
+"No, non possiamo. Manda degli esploratori avanti a indagare. Non possiamo "
+"continuare a vagare senza meta."
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:133
 msgid "There are more undead here!"
-msgstr ""
+msgstr "Ci sono altri non-morti qua!"
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:137
 msgid ""
 "It was only a matter of time until we ran into them again. Very well - "
 "destroy them!"
 msgstr ""
+"Era solo questione di tempo prima che l'incontrassimo di nuovo. Benissimo - "
+"distruggiamoli!"
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:166
 msgid ""
 "Ah! So these are the creatures who dare enter our territory! Hmmm, they are "
 "strong. They will make excellent slaves!"
 msgstr ""
+"Ah! Dunque sono queste le creature che osano entrare nel nostro territorio! "
+"Mmh, sono potenti. Saranno degli schiavi eccellenti!"
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:170
 msgid ""
 "We did not come here to enter your territory, we came here to occupy it and "
 "destroy you!"
 msgstr ""
+"Non siamo qui per entrare nel vostro territorio, siamo venuti a occuparlo e "
+"a distruggerti!"
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:174
 msgid ""
 "So the leader of the undead shows himself. Concentrate your efforts on him. "
 "If we can defeat him, the power that sustains the undead will be broken."
 msgstr ""
+"Alla fine il capo dei non-morti si fa vedere. Concentrate gli sforzi su di "
+"lui. Se riusciamo a sconfiggerlo, il potere che sostiene i non-morti sparirà."
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:179
 msgid "Kill Woldimer"
-msgstr ""
+msgstr "Uccidi Woldimer"
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:208
 msgid "I have fallen, but my master will avenge me!"
-msgstr ""
+msgstr "Sono caduto, ma il mio padrone mi vendicherà!"
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:215
 msgid "There are just too many of them! We can never prevail!"
-msgstr ""
+msgstr "Ce ne sono troppi! Non possiamo vincere!"
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:222
 msgid ""
 "What did he mean, his master? I thought he was the master of these undead!"
 msgstr ""
+"Cosa ha detto? Il suo padrone? Pensavo che fosse lui il padrone di questi "
+"non-morti!"
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:226
 msgid ""
 "He was powerful, yes. Yet despite his death the darkness persists. There "
 "must be another, more powerful yet."
 msgstr ""
+"Era davvero potente. Nonostante la sua morte l'oscuritò persiste. Ce ne deve "
+"essere un altro, ancora più potente."
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:230
 msgid ""
 "I don't know how much longer we can continue this. There are rumours of "
 "mutiny again."
 msgstr ""
+"Non so per quanto tempo possiamo andare avanti così. Ci sono voci di "
+"un'altra rivolta."
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:234
 msgid "Then we must find and defeat Woldimer's master quickly. Come on!"
 msgstr ""
+"Allora dobbiamo trovare e sconfiggere il padrone di Woldimer al più presto. "
+"Coraggio!"
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:4
 msgid "Showdown"
-msgstr ""
+msgstr "Resa dei conti"
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:8
 msgid ""
 "Continuing to move inland, the Drakes soon found that the darkness was "
 "becoming almost unbearable."
 msgstr ""
+"Muovendosi verso l'interno, i draghi presto scoprirono che l'oscurità stava "
+"diventando quasi insopportabile."
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:72
 msgid "Find enemy leader"
-msgstr ""
+msgstr "Trova il comandante nemico"
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:134
 msgid ""
 "Woldimer's master must be very close. This darkness appears to be even "
 "heavier than before, if that were possible."
 msgstr ""
+"Il padrone di Woldimer deve essere molto vicino. Questa oscurità sembra "
+"ancora più pesante di prima, se possibile."
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:138
 msgid ""
 "I certainly hope so. Our supplies will not last much longer. We must finish "
 "this quickly!"
 msgstr ""
+"Speriamo che sia così. Le nostre provviste non dureranno ancora a lungo. "
+"Dobbiamo farla finita velocemente!"
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:142
 msgid "We must find our enemy before we can finish him."
-msgstr ""
+msgstr "Dobbiamo trovare il nostro nemico prima di poterlo finire."
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:161
 msgid ""
@@ -1223,20 +1486,25 @@ msgid ""
 "dearly for that! Still, I have waited centuries for a good fight. Revenge "
 "will just make it even better."
 msgstr ""
+"Allora è vero. I rettili sono riusciti a sconfiggere il mio apprendista. La "
+"pagherete cara! Ma sono secoli che aspetto una bella battaglia. La vendetta "
+"la renderà ancora migliore."
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:165
 msgid "Is that thing alive or dead?"
-msgstr ""
+msgstr "Ma è vivo o morto?"
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:169
 msgid ""
 "He is a Lich - a dark sorcerer who himself has become undead. And a very "
 "powerful one at that. In fact, he has perhaps too much power."
 msgstr ""
+"È un lich -  un mago oscuro che è diventato egli stesso un non-morto. E uno "
+"molto potente. Effettivamente, forse ha persin troppo potere."
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:173
 msgid "Too much for what? Are you saying we cannot prevail?"
-msgstr ""
+msgstr "Troppo per chi? Stai dicendo che non possiamo vincere?"
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:177
 msgid ""
@@ -1244,90 +1512,101 @@ msgid ""
 "of great power that sustains him. Destroy the talisman and he will be "
 "greatly weakened. Only then will we be able to defeat him."
 msgstr ""
+"No, ha molto più potere di quello che sarebbe possibile. È molto probabile "
+"che abbia un talismano di grande potere che lo aiuta. Distruggi il talismano "
+"e sarà grandemente indebolito. Solo allora saremo in grado di distruggerlo."
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:181
 msgid "You don't sound too sure."
-msgstr ""
+msgstr "Non mi pare così certo."
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:185
 msgid ""
 "I'm not, but it's our only chance. If we attack him directly we will "
 "certainly fail. We must find and destroy the source of his power."
 msgstr ""
+"Non lo sono, ma è la nostra unica speranza. Se lo attacchiamo direttamente, "
+"di sicuro falliremo. Dobbiamo trovare e distruggere la fonte del suo potere."
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:190
 msgid "Find and destroy Mal-Bronam's talisman; then"
-msgstr ""
+msgstr "Trova e distruggi il talismano di Mal-Bronam; poi"
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:194
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:423
 msgid "Kill Mal-Bronam"
-msgstr ""
+msgstr "Uccidi Mal-Bronam"
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:234
 msgid ""
 "I told you it's useless attacking him! We must destroy that talisman first!"
 msgstr ""
+"Ti ho detto che non serve a niente attaccarlo! Prima dobbiamo distruggere "
+"quel talismano!"
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:302
 msgid "Look! What is this thing?"
-msgstr ""
+msgstr "Guardate! Cos'è questo?"
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:306
 msgid "It must be the talisman we were looking for! We must destroy it!"
-msgstr ""
+msgstr "Deve essere il talismano che stiamo cercando! Dobbiamo distruggerlo!"
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:352
 msgid "Noooo! What have you done?"
-msgstr ""
+msgstr "Nooo! Cosa avete fatto!"
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:362
 msgid "It worked! The darkness is retreating!"
-msgstr ""
+msgstr "Funziona! L'oscurità si ritira!"
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:366
 msgid "Good - now destroy him!"
-msgstr ""
+msgstr "Bene - ora distruggiamolo!"
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:370
 msgid ""
 "Do you think I am no longer able to defend myself? I still have power "
 "greater than you can imagine!"
 msgstr ""
+"Pensate che non sia più in grado di difendermi da solo? Il mio potere è "
+"maggiore di quello che pensate!"
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:455
 msgid "This darkness pervades my soul. I cannot continue any longer!"
-msgstr ""
+msgstr "Questa oscurità pervade la mia anima. Non posso continuare!"
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:465
 msgid "No! It cannot be! I am immortal! I am invincible! I am -"
-msgstr ""
+msgstr "No! Non può essere! Sono immortale! Sono invincibile! Sono -"
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:469
 msgid "Gone."
-msgstr ""
+msgstr "Morto."
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:476
 msgid "Can it be true? Is it possible we have defeated him?"
-msgstr ""
+msgstr "È davvero successo? È possibile che lo abbiamo sconfitto?"
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:480
 msgid "Yes - look! The undead melt away already."
-msgstr ""
+msgstr "Sì - guardate! I non-morti si stanno dissolvendo."
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:485
 msgid "I don't think it's safe to stay here."
-msgstr ""
+msgstr "Penso che sia meglio non rimanere qua."
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:489
 msgid ""
 "No. The earth is shaking off a great burden. We would be best to retreat to "
 "the open plains."
 msgstr ""
+"No. La terra si sta liberando di un grande peso. Sarebbe meglio se ci "
+"ritirassimo in uno spazio aperto."
 
 #: Children_of_Dragons/scenarios/13_Epilogue.cfg:4
 msgid "Epilogue"
-msgstr ""
+msgstr "Epilogo"
 
 #: Children_of_Dragons/scenarios/13_Epilogue.cfg:8
 msgid ""
@@ -1337,12 +1616,19 @@ msgid ""
 "it was already receding. They could see that once it returned to normal, it "
 "would be a beautiful place."
 msgstr ""
+"Per tre giorni i draghi si accucciarono nella pianura mentre la terra "
+"continuava a tremare. Poi i terremoti cessarono e i draghi furono in grado "
+"per la prima volta di osservare l'isola. La palude ne ricopriva ancor la "
+"maggior parte, anche se si stava ritirando. Si resero conto che una volta "
+"che sarebbe tornata normale, sarebbe stato un bellissimo luogo."
 
 #: Children_of_Dragons/scenarios/13_Epilogue.cfg:11
 msgid ""
 "However, less than one-fifth of the Drakes who set out still remained. Kahn "
 "in particular struggled to convince himself that it had all been worth it."
 msgstr ""
+"Tuttavia rimaneva meno di un quinto dei draghi che erano partiti. Kahn in "
+"particolare faceva ogni sforzo per convincersi che ne era valsa la pena."
 
 #: Children_of_Dragons/scenarios/13_Epilogue.cfg:14
 msgid ""
@@ -1351,3 +1637,7 @@ msgid ""
 "around the island of the Nagas. The Drakes thrived in their new home, and "
 "their numbers grew once again."
 msgstr ""
+"Con il tempo riuscì a convivere con il suo dolore e rimase alla guida dei "
+"draghi per numerosi anni. Con l'aiuto degli uomini, liberarono le acque "
+"attorno all'isola dai naga. I draghi prosperarono nella loro nuova patria e "
+"il loro numero crebbe di nuovo."
