@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-02-12 13:03+0100\n"
+"POT-Creation-Date: 2007-02-13 15:23+0100\n"
 "PO-Revision-Date: 2007-02-08 14:00+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -80,8 +80,8 @@ msgstr ""
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:66
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:57
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:76
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:198
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:427
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:193
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:423
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:81
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:76
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:79
@@ -98,8 +98,8 @@ msgstr ""
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:74
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:65
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:84
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:206
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:435
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:201
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:431
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:85
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:84
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:61
@@ -381,8 +381,8 @@ msgstr ""
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:70
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:61
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:80
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:202
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:431
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:197
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:427
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:80
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:83
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:359
@@ -1221,109 +1221,111 @@ msgstr ""
 msgid "We must find our enemy before we can finish him."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:161
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:156
 msgid ""
 "So it is true. The lizards managed to defeat my apprentice. You will pay "
 "dearly for that! Still, I have waited centuries for a good fight. Revenge "
 "will just make it even better."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:165
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:160
 msgid "Is that thing alive or dead?"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:169
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:164
 msgid ""
 "He is a Lich - a dark sorcerer who himself has become undead. And a very "
 "powerful one at that. In fact, he has perhaps too much power."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:173
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:168
 msgid "Too much for what? Are you saying we cannot prevail?"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:177
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:172
 msgid ""
 "No, he has more power than should be possible. Most likely he has a talisman "
 "of great power that sustains him. Destroy the talisman and he will be "
 "greatly weakened. Only then will we be able to defeat him."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:181
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:176
 msgid "You don't sound too sure."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:185
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:180
 msgid ""
 "I'm not, but it's our only chance. If we attack him directly we will "
-"certainly fail. We must find and destroy the source of his power."
+"certainly fail. We must find and destroy the source of his power. No doubt "
+"it will be close to him - I doubt he would let it far out of his sight. And "
+"the closer it is to him the more power he can draw from it."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:190
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:185
 msgid "Find and destroy Mal-Bronam's talisman; then"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:194
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:423
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:189
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:419
 msgid "Kill Mal-Bronam"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:234
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:229
 msgid ""
 "I told you it's useless attacking him! We must destroy that talisman first!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:302
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:298
 msgid "Look! What is this thing?"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:306
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:302
 msgid "It must be the talisman we were looking for! We must destroy it!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:352
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:348
 msgid "Noooo! What have you done?"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:362
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:358
 msgid "It worked! The darkness is retreating!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:366
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:362
 msgid "Good - now destroy him!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:370
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:366
 msgid ""
 "Do you think I am no longer able to defend myself? I still have power "
 "greater than you can imagine!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:455
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:451
 msgid "This darkness pervades my soul. I cannot continue any longer!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:465
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:461
 msgid "No! It cannot be! I am immortal! I am invincible! I am -"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:469
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:465
 msgid "Gone."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:476
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:472
 msgid "Can it be true? Is it possible we have defeated him?"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:480
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:476
 msgid "Yes - look! The undead melt away already."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:485
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:481
 msgid "I don't think it's safe to stay here."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:489
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:485
 msgid ""
 "No. The earth is shaking off a great burden. We would be best to retreat to "
 "the open plains."
