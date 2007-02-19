@@ -1,11 +1,16 @@
+# #-#-#-#-#  wesnoth-Children of the Dragons (Battle for Wesnoth)  #-#-#-#-#
+# Danish translations for Campaign Children of the Dragons.
+# This file is distributed under the same license as the Battle for Wesnoth package.
+# Joe Hansen <joedalton2@yahoo.dk>, 2007.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-02-13 15:23+0100\n"
-"PO-Revision-Date: 2007-02-08 14:00+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"POT-Creation-Date: 2007-02-18 17:02+0100\n"
+"PO-Revision-Date: 2007-02-19 13:27+0200\n"
+"Last-Translator: Joe Hansen\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -13,7 +18,7 @@ msgstr ""
 
 #: Children_of_Dragons.cfg:7
 msgid "Children of Dragons"
-msgstr ""
+msgstr "Dragernes børn"
 
 #: Children_of_Dragons.cfg:12
 msgid ""
@@ -21,26 +26,29 @@ msgid ""
 "all but extinct. But their descendants are just about to make their mark on "
 "the world..."
 msgstr ""
+"Tidligere var dragerne de mest frygtede levende skabninger, i dag er de "
+"uddøde. Men deres efterkommere er nu klar til at give deres bidrag til "
+"historiskrivningen."
 
 #: Children_of_Dragons.cfg:14
 msgid "Noble"
-msgstr ""
+msgstr "Adelig"
 
 #: Children_of_Dragons.cfg:14
 msgid "Chancellor"
-msgstr ""
+msgstr "Kansler"
 
 #: Children_of_Dragons.cfg:14
 msgid "Lord"
-msgstr ""
+msgstr "Lensherre"
 
 #: Children_of_Dragons.cfg:17
 msgid "Campaign Developed and Maintained By"
-msgstr ""
+msgstr "Kampagne udviklet og vedligeholdt af"
 
 #: Children_of_Dragons.cfg:21
 msgid "Artwork and Graphics"
-msgstr ""
+msgstr "Illustrationsmateriale og grafik"
 
 #: Children_of_Dragons.cfg:25
 msgid "Translations"
@@ -48,7 +56,7 @@ msgstr ""
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:4
 msgid "Leader of the Drakes"
-msgstr ""
+msgstr "Dragernes leder"
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:8
 msgid ""
@@ -58,6 +66,11 @@ msgid ""
 "longer as awe-inspiring or as powerful, but far more numerous and much more "
 "intelligent, have been eking out an existence underground."
 msgstr ""
+"De mægtige drager regerede landet i århundreder. Men deres tid er forbi. "
+"Deres antal er svundet ind, så kun en håndfuld er tilbage, og de overlever "
+"mest som et sagn som ingen rigtig tror på. Men deres efterkommere, der ikke "
+"er lige så ærefrygtindgydende eller magtfulde, men langt talrigere og meget "
+"mere intelligente, har forstået at overleve under jorden."
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:12
 msgid ""
@@ -67,44 +80,49 @@ msgid ""
 "Drake race should head, but only one will get the chance to put their ideas "
 "into action..."
 msgstr ""
+"Nu da deres langvarige leder er død, er det tid for en ny generation at "
+"overtage ledelsen. Fra en gruppe af mange udfordrer har 3 potentielle ledere "
+"vist sig. Alle 3 har forskellige holdninger til i hvilken retning "
+"hestedragerne skal søge lykken, men kun en vil få chancen for at se sine "
+"ideer realiseret..."
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:61
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:62
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:53
 msgid "Defeat all enemy leaders"
-msgstr ""
+msgstr "Besejr alle fjendtlige ledere"
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:67
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:146
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:183
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:65
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:149
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:186
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:66
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:66
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:57
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:76
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:193
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:423
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:200
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:474
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:81
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:76
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:79
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:355
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:57
 msgid "Death of Kahn"
-msgstr ""
+msgstr "Kahns død"
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:81
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:75
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:154
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:191
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:77
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:157
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:194
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:78
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:74
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:65
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:84
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:201
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:431
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:208
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:482
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:85
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:84
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:61
 msgid "Turns run out"
-msgstr ""
+msgstr "Runder forbi"
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:113
 msgid ""
@@ -113,64 +131,72 @@ msgid ""
 "alive, and the leadership of the Drakes is yours. If you wish to rescind "
 "your claim to lead us, now is your final chance."
 msgstr ""
+"Som vores races traditioner siger, skal slaget om lederskabet stå her."
+"Reglerne er simple - bliv den sidste overlevende, og du har vundet "
+"lederskabet. Hvis du ønsker at ophæve dit krav på lederskab, så er nu sidste "
+"chance."
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:117
 msgid "There is complete silence."
-msgstr ""
+msgstr "Der er fuldstændig stilhed."
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:121
 msgid "Very well. Let the battle commence!"
-msgstr ""
+msgstr "Lad kampen begynde!"
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:133
 msgid ""
 "So it has finally come to this. The leadership of the Drakes will be mine."
-msgstr ""
+msgstr "Så blev det sådan. Hestedragernes lederskab er mit."
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:137
 msgid "Hah! In your dreams, softbelly. The leadership is mine."
-msgstr ""
+msgstr "Ha! I dine drømme, blødsødende fjols. Lederskabet er mit."
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:141
 msgid "Enough bickering! Let us begin."
-msgstr ""
+msgstr "Nok ordkløveri! Lad os begynde."
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:159
 msgid ""
 "What? There is still no winner after the allotted time? It seems none of you "
 "are worthy to lead us after all."
 msgstr ""
+"Hvad? Der er stadig ingen vinder, efter at tiden er løbet ud? Det ser ud "
+"til, at ingen af jer er værdige til at lede os."
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:177
 msgid "All hail our new leader, Kahn!"
-msgstr ""
+msgstr "Hyld vores nye leder, Kahn!"
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:187
 msgid "Bah! The Drakes are doomed."
-msgstr ""
+msgstr "Arrg! Hestedragerne er fortabt."
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:201
 msgid "Ah. It seems I was overly ambitious."
-msgstr ""
+msgstr "Ah. Det ser ud til, at jeg var for ambitiøs."
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:211
 msgid ""
 "Too right you were. Only I have the steel required to lead the mighty Drakes."
-msgstr ""
+msgstr "Du har ret. Kun jeg har styrken til at lede de mægtige hestedrager."
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:215
 msgid "We'll see about that."
-msgstr ""
+msgstr "Det kommer vi til at se."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:4
 msgid "Drake Council"
-msgstr ""
+msgstr "Hestedragerråd"
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:8
 msgid ""
 "Having asserted his right to lead the Drakes, the time had now come for Kahn "
 "to convince his people of his somewhat radical plans."
 msgstr ""
+"Efter at have vundet retten til at lede hestedragerne, er tiden nu kommet "
+"for Kahn, hvor han skal overbevise sit folk om sin radikale plan."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:153
 msgid ""
@@ -178,26 +204,30 @@ msgid ""
 "leader you are now also the head of this council, though there is little you "
 "can do without the approval of the majority of the council."
 msgstr ""
+"Jeg starter hermed dette møde i Hestedragerrådet. Velkommen Kahn. Som vores "
+"leder er du også formand for rådet, dog er der ikke meget du kan igangsætte "
+"uden godkendelse fra et flertal i rådet."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:157
 msgid "Thank you. It is indeed an honour to serve the Drakes in this capacity."
-msgstr ""
+msgstr "Tak. Det er en stor ære at tjene hestedragerne i denne egenskab."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:161
 msgid "We believe you have some rather, uh, drastic plans, Kahn."
 msgstr ""
+"Vi har fået den opfattelse, at du har nogle temmelig drastiske planer Khan."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:165
 msgid "You could say that."
-msgstr ""
+msgstr "Det har du ret i."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:169
 msgid "Then I think you should share them."
-msgstr ""
+msgstr "Så tror jeg tiden er kommet, hvor du deler disse planer med os."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:173
 msgid "I couldn't agree more."
-msgstr ""
+msgstr "Jeg kunne ikke være mere enig."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:177
 msgid ""
@@ -208,20 +238,27 @@ msgid ""
 "we encounter from time to time. We cannot move quickly, except where we have "
 "paved the cave floors such as in this cavern."
 msgstr ""
+"Ærede medlemmer af rådet, vores folk nedstammer fra de mægtige drager, som "
+"regerede både jorden og himlen. I århundreder har vi skjult os under jorden, "
+"men har aldrig rigtig tilpasset os forholdene hernede til forskel fra "
+"troldene og dværgene, som vi møder fra tid til tid. Vi kan ikke bevæge os "
+"hurtigt, med mindre vi har brolagt hulegulvet, som det er gjort i denne hule."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:181
 msgid "Friends, we do not belong here. We -"
-msgstr ""
+msgstr "Venner, vi hører ikke til her. Vi -"
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:185
 msgid ""
 "We have, as you say, lived here for centuries. How can you claim we do not "
 "belong?"
 msgstr ""
+"Vi har, som du siger, levet her i århundreder. Hvordan kan du påstå, at vi "
+"ikke hører til her?"
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:189
 msgid "Hear him out, Gakk."
-msgstr ""
+msgstr "Lad ham tale færdig, Gakk."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:193
 msgid ""
@@ -230,20 +267,26 @@ msgid ""
 "come for us to make some drastic changes. I plan to lead the Drakes above "
 "ground."
 msgstr ""
+"Som jeg sagde, vi kæmper her under jorden. På trods af dette, så er vi "
+"forøget i antal og styrke. Mens hvis vi fortsat skal ekspandere, mener jeg "
+"tiden er kommet for nogle drastiske ændringer. Jeg har til hensigt at føre "
+"hestedragerne op på jorden."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:197
 msgid ""
 "Surely you cannot be serious. We know these caves - we know what to expect, "
 "we know how to survive. We know nothing about the world above ground."
 msgstr ""
+"Det kan du ikke mene. Vi kender disse huler ud og ind - vi ved hvad vi kan "
+"forvente, og vi ved hvordan vi overlever. Vi ved intet om verden over os."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:201
 msgid "If I may, that is not strictly true."
-msgstr ""
+msgstr "Hvis jeg må indskyde, det er ikke helt korrekt."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:205
 msgid "Explain."
-msgstr ""
+msgstr "Forklar."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:209
 msgid ""
@@ -252,6 +295,10 @@ msgid ""
 "do so underground. We have long dreamt that a day would come when we would "
 "be able to live there permanently. We cannot dismiss such an opportunity."
 msgstr ""
+"I de sidste to generationer har flere medlemmer af min klan været på små "
+"korte ture over jorden. Vi er bygget til at flyve, men kan ikke rigtig gøre "
+"dette under jorden. Vi har længe drømt om, at en dag ville vi kunne leve "
+"permanent over jorden. Vi kan ikke afvise denne mulighed."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:213
 msgid ""
@@ -259,6 +306,8 @@ msgid ""
 "dwarves - have been attacking more and more frequently. Something must be "
 "done if we are to survive."
 msgstr ""
+"Jeg kan kun være enig. I de sidste år har troldene - og selv dværgene - "
+"angrebet os oftere og oftere. Noget må gøres, hvis vi skal overleve."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:217
 msgid ""
@@ -270,6 +319,12 @@ msgid ""
 "we go? Who knows what manner of creatures occupy the land we would be "
 "attempting to settle."
 msgstr ""
+"Jeg kan ikke tro mine ører! Du er enig i denne meningsløse ide? Det er "
+"vanvid! Selv om vi ved en smule om verden uden for disse huler, ville bare "
+"det at flytte være en kæmpe opgave. At en eller to hestedrager flyver ud, en "
+"gang imellem, er en ting men at flytte os alle? Det kan ikke gøres. Og selv "
+"om vi kom ud, hvor skulle vi slå os ned? Hvem ved hvilke skabinger, der "
+"lever på jorden vi vil bosætte?"
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:221
 msgid ""
@@ -277,6 +332,9 @@ msgid ""
 "have raised, I simply do not think it is practical to attempt such a huge "
 "undertaking."
 msgstr ""
+"Jeg er enig Gakk. Selv om jeg sympatiserer med ideen som min kollega her har "
+"fremført, så tror jeg ikke, at det er praktisk muligt med et så stort "
+"projekt."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:225
 msgid ""
@@ -284,10 +342,13 @@ msgid ""
 "opposition here. We must seek new lands. And above ground is the best place "
 "to look."
 msgstr ""
+"Men hvad er alternativet? Som Derk siger, vi møder mere og mere modstand "
+"hernede. Vi er tvunget til at finde et nyt land. Og jorden over os er det "
+"bedste sted at kigge."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:229
 msgid "At least we know the opposition here."
-msgstr ""
+msgstr "I det mindste kender vi modstanderne hernede."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:233
 msgid ""
@@ -297,27 +358,33 @@ msgid ""
 "agree to it. And so, we vote. We begin to my left, with Derk. How do you "
 "cast your vote?"
 msgstr ""
+"Der ser ud til at en afstemning er nødvendig. Kahn, som du ved, kan en "
+"beslutning af denne størrelse ikke tages for let. Der skal derfor et flertal "
+"til. Det betyder at mindst fire af rådets seks medlemmer skal stemme for. "
+"Stemmeafgivningen starter nu. Vi begynder til venstre for mig, med Derk. "
+"Hvad er din stemme?"
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:237
 msgid "I vote we follow Kahn above ground."
-msgstr ""
+msgstr "Jeg stemmer for, at vi følger Kahn til overfladen."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:241
 msgid "I say we stay."
-msgstr ""
+msgstr "Jeg stemmer for at vi bliver."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:245
 msgid "I agree with Freon - we must do something. I vote we go."
-msgstr ""
+msgstr "Jeg er enig med Freon, vi må gøre noget. Jeg stemmer for."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:249
 msgid "I long to soar in the sky with my brethren. We go."
-msgstr ""
+msgstr "Jeg længes efter at fylde mine lunger med frisk luft. Vi flytter."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:253
 msgid ""
 "I maintain that this idea is ridiculous. I cannot support it. We must stay."
 msgstr ""
+"Jeg fastholder, at ideen er latterlig. Jeg kan ikke støtte den. Vi bliver."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:257
 msgid ""
@@ -326,28 +393,37 @@ msgid ""
 "reservations, I believe it is time to move on. We follow Kahn out of the "
 "caves."
 msgstr ""
+"På trods af usikkerhed ved det ukendte, mener jeg heller ikke, at vi fortsat "
+"kan modstå troldene og dværgene. Selv om jeg har mine tvivl, mener jeg det "
+"er på tide at flytte. Vi følger Kahn ud af hulerne."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:261
 msgid ""
 "It is decided then. Gakk, Stakron - I appreciate your concerns, but I "
 "believe this is best for our people."
 msgstr ""
+"Det er hermed besluttet. Gakk, Stakron - Jeg forstår jeres bekymringer, men "
+"jeg mener, at dette er det bedste for vores folk."
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:265
 msgid ""
 "I am afraid I cannot support this move. I will come with you if we leave, "
 "but do not expect my help!"
 msgstr ""
+"Jeg kan ikke støtte denne afgørelse. Jeg vil rejse med, hvis vi flytter men "
+"forvent ikke min hjælp!"
 
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:277
 msgid ""
 "This does not bode well. Nonetheless, the decision is made. We begin "
 "preparations immediately."
 msgstr ""
+"Dette varsler ikke godt. Ikke desto mindre beslutningen er taget. Vi "
+"begynder forberedelserne med det samme."
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:4
 msgid "The Emerging"
-msgstr ""
+msgstr "Opstigningen"
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:8
 msgid ""
@@ -358,6 +434,12 @@ msgid ""
 "through the caves. Still, they wondered if this new land was going to be any "
 "better than the one they were leaving behind."
 msgstr ""
+"Efter måneders forberedelse, forlod hestedragerne deres hjem og fulgte efter "
+"Kahn mod deres nye hjem - hvor det så end måtte blive. De fleste var "
+"positive over for planen. Næsten alle familier havde mistet slægtninge i de "
+"seneste angreb, og alle var frustreret over deres manglende evne til at "
+"bevæge sig hurtigt igennem hulerne. De var dog stadig urolige over, om nu "
+"det nye land ville være et bedre sted, end det de nu forlod."
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:12
 msgid ""
@@ -365,29 +447,32 @@ msgid ""
 "suicide to remain in the caves with the majority of the drakes gone, so they "
 "tagged along."
 msgstr ""
+"Ikke desto mindre, de fulgte efter deres leder. Nogle knurrede, men det "
+"ville være selvmord at blive i hulerne, når flertallet var rejst, så de "
+"fulgte modvilligt med."
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:15
 msgid "After two weeks of uneventful travel, they felt a breeze..."
-msgstr ""
+msgstr "Efter to begivenhedsløse ugers rejse, kunne de mærke en brise..."
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:53
 msgid "Kahn must reach the exit"
-msgstr ""
+msgstr "Kahn skal nå udgangen"
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:71
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:150
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:187
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:69
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:153
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:190
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:70
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:70
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:61
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:80
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:197
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:427
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:204
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:478
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:80
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:83
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:359
 msgid "Death of Freon"
-msgstr ""
+msgstr "Freons død"
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:116
 msgid ""
@@ -395,60 +480,72 @@ msgid ""
 "The exit to the caves is not far from here, but the dwarves and trolls are "
 "both close. Let us hope they do not notice us."
 msgstr ""
+"Dette er vores yderligste fæstning, den har ikke været i brug i et stykke "
+"tid. Udgangen fra hulerne er ikke langt fra her, men både dværgene og "
+"troldene er tæt på. Lad os håbe de ikke får færten af os."
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:120
 msgid ""
 "Too late, lizard. What do you mean by trying to drag your sorry hides "
 "through our caves?"
 msgstr ""
+"For sent øgle. Tror du, at i kan trække jeres fede røve igennem vores huler?"
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:124
 msgid ""
 "We mean no disrespect, dwarf. We are leaving the caves - you should be glad "
 "of our absence."
 msgstr ""
+"Det er ikke mangel på respekt, dværg. Vi forlader hulerne - du burde være "
+"glad for, at være fri for os."
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:128
 msgid ""
 "Why would anyone want to leave the caves? I don't believe you - you intend "
 "to try to take our caves for yourselves! Well, not on my watch!"
 msgstr ""
+"Hvorfor skulle nogle ønske at forlade hulerne? Jeg tror dig ikke - du har "
+"planer om, at overtage hulerne for dig selv! Men det sker ikke på min vagt!"
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:132
 msgid ""
 "Ungh no like lizards in trolls' caves. Ungh no like dwarves either. Trolls "
 "kill all."
 msgstr ""
+"Ungh kan ikke li' øgler i troldehuler. Ungh kan heller ikke li' dværge. "
+"Trolde slår alle ihjel."
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:136
 msgid ""
 "Looks like we're going to have to fight our way through. Still, this was not "
 "unexpected. To arms!"
 msgstr ""
+"Se ud til at vi må kæmpe os ud. Det var heller ikke helt uventet. Gør klar "
+"til kamp!"
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:146
 msgid "That not good. Strange too. Ungh never die before."
-msgstr ""
+msgstr "Det er ikke godt. Mærkeligt også. Ungh er aldrig død før."
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:156
 msgid "I have failed! Now our caves will be overrun with lizards!"
-msgstr ""
+msgstr "Jeg har svigtet! Nu vil vores huler bliver overmandet af øgler!"
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:160
 msgid "Poor fool."
-msgstr ""
+msgstr "Stakkels fjols."
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:167
 msgid "It seems we will be stuck in these caves forever."
-msgstr ""
+msgstr "Det ser ud til, at vi vil være fanget i disse huler til evig tid."
 
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:183
 msgid "I can see the sunlight! Come, my people - welcome to your new home!"
-msgstr ""
+msgstr "Jeg kan se sollys! Kom, mit folk - velkommen til jeres nye hjem!"
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:4
 msgid "Leaving the Mountains"
-msgstr ""
+msgstr "Rejsen ud af bjergene"
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:8
 msgid ""
@@ -456,6 +553,10 @@ msgid ""
 "trepidation as to what lay ahead. Nevertheless they were relieved to have "
 "escaped the dwarves and trolls, and awestruck by what they now saw."
 msgstr ""
+"Efterhånden som de kom op til overfladen, blinkende af sollyset kunne "
+"hestedragerne mærke uroen over, hvad der ville følge. De var dog glade for "
+"at være undsluppet dværgene og trolde. Ærefrygt fyldte dem over hvad de nu "
+"så."
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:12
 msgid ""
@@ -464,49 +565,60 @@ msgid ""
 "and hills, plains and forest began. Excitement began to ripple through the "
 "ranks as they entertained the possibility of all this being theirs alone."
 msgstr ""
+"De var kommet ud af hulerne via en tunnel, som havde udgang i midten af en "
+"stor bjergkæde. Til sydvest kunne de se, hvor bjergene endte og bakker, "
+"stepper og skov begyndte. Forventningens glæde spredte sig iblandt dem da de "
+"så muligheden for, at alt dette kunne blive deres."
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:15
 msgid "Freon soon spoiled that illusion."
-msgstr ""
+msgstr "Freon spolerede dog snart den illusion."
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:73
 msgid "Get Kahn to the end of the mountains"
-msgstr ""
+msgstr "Få Kahn til enden af bjergene"
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:77
 msgid "Death of any Drake"
-msgstr ""
+msgstr "Døden for en hestedrage"
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:131
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:134
 msgid ""
 "Beautiful, isn't it? Unfortunately we can't keep looking for too long. There "
 "are creatures that inhabit these mountains that will not tolerate our "
 "presence, and no doubt the dwarves and trolls will follow soon enough too, "
 "if they are not too busy fighting each other."
 msgstr ""
+"Smukt ikke? Desværre kan vi ikke kigge i for lang tid. Der er skabninger i "
+"disse bjerge som ikke vil tolere vores tilstedeværelse, og uden tvivl vil "
+"dværge og trolde følge efter os, hvis de ikke har for travlt med hinanden."
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:135
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:138
 msgid "Then we must get out of these mountains quickly."
-msgstr ""
+msgstr "Så må vi ud af disse bjerge hurtigt."
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:139
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:142
 msgid ""
 "Yes. The lower lands are also inhabited, though only sparsely, so we should "
 "be able to find somewhere to settle."
 msgstr ""
+"Ja. Det laverebeliggende land er også beboet, dog sparsomt, så vi skulle "
+"være i stand til at finde et sted at slå os ned."
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:331
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:334
 msgid "We made it!"
-msgstr ""
+msgstr "Vi gjorde det!"
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:344
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:347
 msgid ""
 "If I cannot protect my people here, how will I ever do it on the open plains?"
 msgstr ""
+"Hvis jeg ikke kan beskytte mit folk her, hvordan vil jeg så kunne gøre det "
+"på de åbne stepper?"
 
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:4
 msgid "Dark Forest"
-msgstr ""
+msgstr "Mørk skov"
 
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:8
 msgid ""
@@ -514,53 +626,63 @@ msgid ""
 "so close together that despite it being morning, very little sunlight "
 "reached the forest floor."
 msgstr ""
+"Da de forlader bakkerne finder de sig i en tyk skov. Træerne står så tæt "
+"sammen, at der selv om det er tidligt morgen, kun kommer meget lidt sollys "
+"til skovens bund."
 
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:72
 msgid "Reach the end of the forest"
-msgstr ""
+msgstr "Nå enden af skoven"
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:131
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:137
 msgid ""
 "We have never entered this forest. It seemed far too dark and foreboding, so "
 "we always went straight over it. However in this case we have no choice but "
 "to go through it. We must be careful."
 msgstr ""
+"Vi har aldrig været i denne skov. Vi fløj hurtigt hen over den, da den så "
+"alt for mørk ud og ildevarslende ud. Desværre er vi nu nød til, at gå "
+"igennem den. Vi må være forsigtige."
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:135
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:141
 msgid "How bad can it be?"
-msgstr ""
+msgstr "Hvor slemt kan det være?"
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:151
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:157
 msgid "What was that?"
-msgstr ""
+msgstr "Hvad var det?"
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:155
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:161
 msgid ""
 "I don't know, but it didn't sound good. Let's get through this forest as "
 "soon as possible. From memory, it will be quickest to head south."
 msgstr ""
+"Jeg ved det ikke, men det lød ikke godt. Lad os hurtigt komme igennem "
+"skoven. Fra min hukommelse ved jeg, at det er hurtigst at sætte kurs mod syd."
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:174
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:180
 msgid "I never want to see another tree in my entire life."
-msgstr ""
+msgstr "Jeg ønsker ikke at se et træ mere i mit liv."
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:187
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:193
 msgid "The forest is crawling with undead!"
-msgstr ""
+msgstr "Skoven er fuld af udøde!"
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:191
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:197
 msgid ""
 "Then we must truly hurry! We must find the end of these trees - if they do "
 "not go on forever!"
 msgstr ""
+"Så må vi få fart på! Vi må finde skovens udgang - hvis den da ikke "
+"fortsætter uendeligt!"
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:195
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:201
 msgid "There is grassland beyond the trees - keep heading south."
-msgstr ""
+msgstr "Der er græsland bag træerne - fortsæt mod syd."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:4
 msgid "The Humans"
-msgstr ""
+msgstr "Menneskerne"
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:8
 msgid ""
@@ -568,32 +690,41 @@ msgid ""
 "saw an expanse of grassland. But dotted across it were towns of varying "
 "sizes. And immediately before them was a huge city."
 msgstr ""
+"Da de forlader skoven - de udøde bliver i skoven - ser hestedragerne et "
+"vidtstrakt område med græs. Men spredt over området er der byer af "
+"forskellig størrelse. Og umiddelbart foran dem er der en stor by."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:12
 msgid ""
 "Wondering if it had been a mistake to leave the caves in the first place, "
 "they advanced cautiously."
 msgstr ""
+"Med frygt for at de har gjort en stor fejltagelse ved at forlade hulerne, "
+"går hestedragerne forsigtig fremad."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:60
 msgid "Halt! Who goes there?"
-msgstr ""
+msgstr "Stop! Hvem der?"
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:64
 msgid ""
 "I am Kahn, leader of the Drakes. We have left our homes underground in "
 "search of a land more suited to our kind."
 msgstr ""
+"Jeg er Kahn, leder af hestedragerne. Vi har forladt vores hjem under jorden "
+"i jagten efter et mere egnet sted at bosætte os."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:68
 msgid "And you thought you'd take ours?"
-msgstr ""
+msgstr "Og du troede i kunne tage vores land?"
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:72
 msgid ""
 "No! We do not wish to take anyone's land, but are instead hoping to find "
 "some space that is currently unoccupied that we can settle in."
 msgstr ""
+"Nej! Vi ønsker ikke at tage nogens land, men håber i stedet, at finde noget "
+"land vi kan bosætte os i, som ikke er beboet."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:76
 msgid ""
@@ -601,10 +732,13 @@ msgid ""
 "There is little free space - certainly none anywhere near big enough to fit "
 "your entire race."
 msgstr ""
+"Hmmm. Jaså, som du kan se er landet heromkring allerede godt beboet. Der er "
+"ikke meget ledig plads - bestemt ikke nok til hele jeres befolkning. "
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:80
 msgid "If you speak true, then I fear we have left our homes in vain."
 msgstr ""
+"Hvis du taler sandt, frygter jeg, at vi forgæves har forladt vores hjem."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:84
 msgid ""
@@ -612,12 +746,17 @@ msgid ""
 "as Morogor. It is uninhabited, though some say it is haunted. I believe it "
 "would be suitable for your needs."
 msgstr ""
+"Måske ikke. Der er en tropisk ø lidt øst for her. Øen hedder Morogor. Den er "
+"ubeboet, dog siger nogen at den er hjemsøgt. Jeg tror den er egnet til jeres "
+"behov."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:88
 msgid ""
 "An island, you say? That sounds ideal, but we cannot fly that far. How are "
 "we to get there?"
 msgstr ""
+"En ø, siger du? Det lyder ideelt, men vi kan ikke flyve så langt. Hvordan "
+"skal vi nå frem?"
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:92
 msgid ""
@@ -625,10 +764,13 @@ msgid ""
 "transport all of your people, but I cannot offer you our assistance without "
 "you doing something for us in return."
 msgstr ""
+"Måske kan vi komme overens. Vi har en stor flåde - stor nok til at "
+"transportere hele dit folk. Men jeg kan ikke yde denne assistance uden at i "
+"gør noget igen for os."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:96
 msgid "What did you have in mind?"
-msgstr ""
+msgstr "Hvad tænker du på?"
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:100
 msgid ""
@@ -637,159 +779,178 @@ msgid ""
 "south east of here who have been troubling us of late. Defeat these bandits "
 "for us, and we will transport you to Morogor."
 msgstr ""
+"Mine spejdere har informeret mig om, at i er kommet ud fra dødens skov. Det "
+"må betyde, at i er erfarne krigere. Vi har en stor gruppe røvere sydøst for "
+"her, som har været en kilde til bekymring i lang tid. Besejr disse røvere "
+"for os og vil vil transportere jer til Morogor."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:104
 msgid "Very well. We have a deal."
-msgstr ""
+msgstr "Ok. Vi har en aftale."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:108
 msgid ""
 "I will order our navy to begin preparations at once. We should be ready to "
 "depart by the time you return."
 msgstr ""
+"Jeg vil beordre vores flåde til at begynde forberedelser straks. Vi burde "
+"være klar til afgang når du returnerer."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:112
 msgid "Thank you. We are in your debt."
-msgstr ""
+msgstr "Tak. Vi står i gæld til jer."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:116
 msgid "Defeat the bandits and I will consider the debt paid in full."
-msgstr ""
+msgstr "Besejr røverne og jeg vil anse denne gæld for fuldt ud betalt."
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:120
 msgid ""
 "Thank you once again. Come, my people - we have some criminals to catch!"
-msgstr ""
+msgstr "Tak igen. Kom mit folk - vi har nogle kriminelle vi skal fange!"
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:4
 msgid "Bandits"
-msgstr ""
+msgstr "Røvere"
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:8
 msgid "Following Alamar's directions, the Drakes soon came to a huge forest."
-msgstr ""
+msgstr "Alamars instrukser fører hurtigt hestedragerne til en stor skov."
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:73
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:74
 msgid "Death of Tumabulindrum"
-msgstr ""
+msgstr "Tumabulindrums død"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:150
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:160
 msgid "Ugh. More trees."
-msgstr ""
+msgstr "Arg. Flere træer."
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:154
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:164
 msgid ""
 "At least they are not as thick as the last lot. We will be able to see where "
 "we are going here."
 msgstr ""
+"I det mindste er skoven ikke lige så tyk som den sidste. Vi vil være i stand "
+"til at se hvor vi går hen."
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:158
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:168
 msgid ""
 "And our enemies this time are flesh and blood, not undead. Still, I wish "
 "there was another way."
 msgstr ""
+"Og vores fjende er denne gang af kød og blod, ikke udøde. Jeg ville dog "
+"alligevel håbe, at der var en anden mulighed."
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:162
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:172
 msgid "None come to mind."
-msgstr ""
+msgstr "Kan ikke komme i tanke om nogen."
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:166
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:176
 msgid "No, this is our best hope. Let's clear these woods!"
-msgstr ""
+msgstr "Nej, det er vores bedste håb. Lad os rydde disse skove!"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:170
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:180
 msgid "Hmmm. What do the fire breathers want?"
-msgstr ""
+msgstr "Hmmm. Hvad er det, ildsprederne vil?"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:174
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:184
 msgid "Did that tree just talk?"
-msgstr ""
+msgstr "Talte det træ lige nu?"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:178
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:188
 msgid "I have heard of such things. We had best answer quickly."
-msgstr ""
+msgstr "Jeg har hørt om den slags træer. Vi må hellere svare hurtigt."
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:182
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:192
 msgid "We come to rid these woods of the outlaws that hide here."
-msgstr ""
+msgstr "Vi er kommet for at befri skovene for de fredløse, som gemmer sig her."
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:186
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:196
 msgid ""
 "Very well. These outlaws, as you call them, have destroyed many a good tree. "
 "We will help you, but make sure you keep your fires away from us."
 msgstr ""
+"Godt så. Disse fredløse som du kalder dem, har ødelagt mange gode træer. Vi "
+"vil hjælpe dig. Men husk, at holde dine ildebrande væk fra os."
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:190
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:200
 msgid ""
 "We would be glad of your help. We have no wish to harm you with our flames, "
 "and once the outlaws are gone, we will leave you in peace."
 msgstr ""
+"Vi vil være glade for jeres hjælp. Vi har intet ønske om, at gøre jer skade "
+"med vores bål, og så snart de fredløse er væk, så vil vi lade jer være i "
+"fred."
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:194
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:204
 msgid "Then let us work together to clean this forest!"
-msgstr ""
+msgstr "Så lad os arbejde sammen om at få dem ud af den her skov!"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:213
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:235
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:257
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:223
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:245
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:267
 msgid "I found some of their ill-gotten gains!"
-msgstr ""
+msgstr "Jeg har fundet nogle af de penge, de har erhvervet uretmæssigt!"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:217
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:227
 msgid "You retrieve 75 gold."
-msgstr ""
+msgstr "Du får 75 guld."
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:239
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:249
 msgid "You retrieve 100 gold."
-msgstr ""
+msgstr "Du får 100 guld."
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:261
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:271
 msgid "You retrieve 50 gold."
-msgstr ""
+msgstr "Du får 50 guld."
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:276
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:286
 msgid "And so the Wose pass from the land of the living..."
-msgstr ""
+msgstr "Og så bevægede wose sig fra de levendes land..."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:4
 msgid "To the Ships"
-msgstr ""
+msgstr "Til skibene"
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:8
 msgid ""
 "Having defeated the bandits, the Drakes left the Wose in peace and returned "
 "to Alamar."
 msgstr ""
+"Efter at have besejret røverne, forlod hestedragerne wose i fred og "
+"returnerede til Alamar."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:12
 msgid ""
 "Alamar informed them that the ships were ready and waiting at the docks, "
 "south of the city."
 msgstr ""
+"Alamar informerede dem om, at skibene var klar og ventede i havneområdet syd "
+"for byen."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:15
 msgid "Unfortunately that was not all that awaited them."
-msgstr ""
+msgstr "Desværre var det ikke det eneste som ventede dem."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:77
 msgid "Defeat Gakk and Stakron"
-msgstr ""
+msgstr "Besejr Gakk og Stakron"
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:154
 msgid "As you can see, the ships are ready and wai-"
-msgstr ""
+msgstr "Som du kan se, er skibene klar og ven-"
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:158
 msgid "You will not be going anywhere."
-msgstr ""
+msgstr "Du går ingen steder."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:162
 msgid "What's going on here? Who are you?"
-msgstr ""
+msgstr "Hvad foregår der her? Hvem er du?"
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:166
 msgid "Gakk? What do you think you're doing?"
-msgstr ""
+msgstr "Gakk? Hvad har du gang i?"
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:170
 msgid ""
@@ -797,6 +958,9 @@ msgid ""
 "leave our homes, forcing us into confrontation with dwarves, trolls and "
 "undead. But to make a pact with these humans ... "
 msgstr ""
+"Vi slutter dette vanvid en gang for alle. Det var slemt nok at få os til at "
+"forlade vores hjem, tvinge os i konfrontation med dværge, trolde og udøde. "
+"Men at lave en pagt med disse mennesker ... "
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:174
 msgid ""
@@ -805,24 +969,30 @@ msgid ""
 "who knows what manner of creatures will be there to ensure we do not "
 "survive? Better we finish this now, and return to the caves where we belong."
 msgstr ""
+"Og til hvilket formål? Så de kan sende os til havs og drukne os alle, "
+"hvilket er højst sandsynligt! Og selv om øen skulle eksistere, og vi rent "
+"faktisk kommer frem, hvem ved så hvilke skabninger der venter os? Det er "
+"bedre vi slutter det her nu, og returnerer til hulerne, hvor vi hører til."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:178
 msgid ""
 "Whatever else we may do, we cannot return to the caves. They will certainly "
 "have been overrun with dwarves and trolls by now."
 msgstr ""
+"Uanset hvad vi ellers gør, så kan vi ikke returnere. Hulerne vil helt "
+"sikkert være fyldt med dværge og trold på det her tidspunkt."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:185
 msgid "Stakron? You too?"
-msgstr ""
+msgstr "Stakron? Også dig?"
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:189
 msgid "Gakk is right. We should never have left the caves."
-msgstr ""
+msgstr "Gakk har ret. Vi skulle aldrig have forladt hulerne."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:193
 msgid "You would oppose our rightful leader, and the wishes of the council?"
-msgstr ""
+msgstr "I vil sætte jer op mod vores leder, og rådets valg?"
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:197
 msgid ""
@@ -830,18 +1000,21 @@ msgid ""
 "still have some sort of power. Real power comes from strength of arms, not "
 "meetings."
 msgstr ""
+"Ha! Rådet er ikke andet end en samling ekshelte som stadig tror, at de har "
+"en eller anden form for magt. Den virkelige magt kommer fra våbene, ikke "
+"møder."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:201
 msgid "If you will not back down, we will be forced to destroy you."
-msgstr ""
+msgstr "Hvis du ikke træder tilbage, bliver vi tvunget til at ødelægge dig."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:205
 msgid "Hah! I'd like to see you try."
-msgstr ""
+msgstr "Ha! Jeg kunne godt tænke mig at se dig prøve på det."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:209
 msgid "If that's the way it must be, then so be it."
-msgstr ""
+msgstr "Hvis det er sådan det skal være, så lad det være sådan."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:213
 msgid ""
@@ -850,6 +1023,10 @@ msgid ""
 "those of our people who agree with these two. They will not be fighting "
 "alone."
 msgstr ""
+"Jeg må desværre holde mig udenfor Kahn. Jeg kan ikke kæmpe mod "
+"rådsmedlemmer, heller ikke selvom de er blevet vanvittige. Men være "
+"forsigtig. Der er uden tvivl folk iblandt os som er enige med disse to. De "
+"vil ikke kæmpe alene."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:217
 msgid ""
@@ -857,103 +1034,113 @@ msgid ""
 "and unless they attack our ships, I am afraid it does not concern me. I will "
 "return once you have dealt with these two."
 msgstr ""
+"Jeg kan heller ikke involvere mig. Jeg har vigtige forhold at se til, og "
+"medmindre de angriber vores skibe, kan jeg ikke se, at det angår mig. Jeg "
+"vil returnere, når du har taget dig af de to der."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:221
 msgid "I understand. Come, let us crush these traitors!"
-msgstr ""
+msgstr "Jeg forstå. Kom, lad os knuse de forrædere!"
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:250
 msgid "At least I won't live to see the demise of the Drakes."
-msgstr ""
+msgstr "I det mindste kommer jeg ikke til at opleve hestedragernes undergang."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:254
 msgid "I wish I hadn't had to do that."
-msgstr ""
+msgstr "Jeg ville ønske, at dette ikke var nødvendigt."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:258
 msgid ""
 "He was a great asset to the Drakes. It's a shame it had to end like this. "
 "Still, I suppose we did only what was necessary."
 msgstr ""
+"Han var et stort aktiv for hestedragerne. Det er en skam, at det måtte ende "
+"sådan. Alligevel, jeg tror, at det vi gjorde var nødvendigt."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:268
 msgid "Come now, Stakron. Surely you will not persist in this rebellion?"
-msgstr ""
+msgstr "Kom nu, Stakron. Du vil da ikke stædigt fastholde dette oprør?"
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:272
 msgid "I ... it is too late for me now. I cannot turn back."
-msgstr ""
+msgstr "Jeg ... det er for sent for mig nu. Jeg kan ikke komme tilbage."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:276
 msgid "It truly saddens me to hear that."
-msgstr ""
+msgstr "Det gør mig virkelig bedrøvelig at høre."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:292
 msgid "I could have been wrong ..."
-msgstr ""
+msgstr "Jeg kan have taget fejl ..."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:296
 msgid "You will pay for that!"
-msgstr ""
+msgstr "Du kommer til at betale for det her!"
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:310
 msgid "Too many Drakes are defecting to them. We are doomed!"
-msgstr ""
+msgstr "Alt for mange hestedrager går over til dem. Vi er fortabt!"
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:320
 msgid "(sigh) The rebels are defeated."
-msgstr ""
+msgstr "(suk) Rebellerne er besejret."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:330
 msgid "This is a sad day. Many Drakes have died in a pointless rebellion."
-msgstr ""
+msgstr "Dette er en dårlig dag. Mange hestedrager er døde i et håbløst oprør."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:334
 msgid "Yes. And we now have two vacant places on the council."
-msgstr ""
+msgstr "Ja. Og vi har to ledige pladser i rådet."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:338
 msgid ""
 "That will have to wait. You must leave immediately before the weather turns."
-msgstr ""
+msgstr "Det må vente. Du må rejse nu før vejret vender."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:342
 msgid "Very well. Thank you once again, Alamar."
-msgstr ""
+msgstr "Ok så. Tak igen, Alamar."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:346
 msgid ""
 "No, thank you. Since you defeated the bandits, our villages are safe. May "
 "your journey be quick and uneventful."
 msgstr ""
+"Nej, tak til dig. Efter at du har besejret røverne er vores landsbyer sikre. "
+"Må din rejse være hurtig og uden overraskelser."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:350
 msgid "Let's hope so. To the ships!"
-msgstr ""
+msgstr "Lad os håbe det. Til skibene!"
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:4
 msgid "Sea Journey"
-msgstr ""
+msgstr "Rejsen over havet"
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:8
 msgid "The remaining Drakes boarded the ships and embarked immediately."
 msgstr ""
+"De tilbageværende hestedrager entrede skibene og afsejlede øjeblikkeligt."
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:12
 msgid ""
 "The trip was uneventful for the first few days, until they neared their "
 "destination."
 msgstr ""
+"Rejsen var uden overraskelser de første få dage, lige indtil de nærmede sig "
+"deres distination."
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:75
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:351
 msgid "Survive until the end of turns"
-msgstr ""
+msgstr "Overlev indtil sidste runde."
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:87
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:363
 msgid "Death of Ober"
-msgstr ""
+msgstr "Obers død"
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:160
 msgid ""
@@ -961,24 +1148,30 @@ msgid ""
 "however the reports I have heard say there are often many Nagas around here. "
 "They do move around a lot though, so let's hope they are currently elsewhere."
 msgstr ""
+"Vi har meget få informationer om dette område, da vi normalt undgår Morogor. "
+"Jeg har dog hørt rapporter nævne, at der er mange nagaer i området. De "
+"bevæger sig dog rundt i et stort område, så lad os håbe, at de er et andet "
+"sted på nuværende tidspunkt."
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:164
 msgid "What are these Nagas?"
-msgstr ""
+msgstr "Hvad er disse nagaer for skabninger?"
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:168
 msgid ""
 "They are serpentine creatures who live in the sea. This is very much their "
 "element, so it would be a struggle to have to face them here."
 msgstr ""
+"De er slangelignende skabninger som lever i havet. Havet er deres element, "
+"så det ville blive en hård kamp at skulle stå over for dem her."
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:172
 msgid "You mean like these?"
-msgstr ""
+msgstr "Du mener som dem her?"
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:183
 msgid "Intruderssss! Don't let any essscape!"
-msgstr ""
+msgstr "Ubudne gæster! Lad ingen undslippe!"
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:221
 msgid ""
@@ -986,6 +1179,9 @@ msgid ""
 "through them. You must protect the ship, but don't allow anyone to get too "
 "far behind as we will not be able to go back for them."
 msgstr ""
+"Satans! Det er for sent at vende rundt - vi må forsøge at kæmpe os igennem "
+"dem. Du må forsvare skibene, men husk at sikre dig, at ingen kommer bagud da "
+"vi ikke vil kunne undsætte dem."
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:225
 msgid ""
@@ -993,48 +1189,53 @@ msgid ""
 "hexes up as the ship moves forward. This means any units in the top five "
 "rows will be lost."
 msgstr ""
+"I begyndelsen af hver runde, vil enhver enhed der ikke er om bord på et skib "
+"flytte fem sekskanter frem sammen med skibets bevægelse. Dette betyder, at "
+"alle enheder i de fem første rækker vil være tabt."
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:280
 msgid "New Naga at $unit_x,$unit_y"
-msgstr ""
+msgstr "Ny Naga på $unit_x,$unit_y"
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:342
 msgid ""
 "There do not appear to be any more coming. We just need to hold off or "
 "defeat those that remain."
 msgstr ""
+"Der ser ikke ud til at komme flere. Vi skal bare holde de nuværende tilbage "
+"eller besejre dem."
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:348
 msgid "Defeat remaining Nagas"
-msgstr ""
+msgstr "Vind over de tilbageværende nagaer"
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:406
 msgid "Avenge me, brotherssss and ssssissssterssss..."
-msgstr ""
+msgstr "Hævn mig, brødrrrre og ssssøsssstrrree..."
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:416
 msgid "We will never pilot this ship without him!"
-msgstr ""
+msgstr "Vi vil aldrig navigere dette skip uden ham!"
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:432
 msgid "We made it! The Nagas will not pursue us any further."
-msgstr ""
+msgstr "Vi gjorde det! Nagaerne vil ikke forfølge os længere."
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:436
 msgid "Surely it can only get easier from here?"
-msgstr ""
+msgstr "Helt sikkert, det kan kun blive lettere herfra?"
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:440
 msgid "We should meet no further resistance between here and Morogor."
-msgstr ""
+msgstr "Vi burde ikke møde mere modstand imellem her og Morogor."
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:444
 msgid "Sounds good to me. Onward!"
-msgstr ""
+msgstr "Lyder godt. Fremad!"
 
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:4
 msgid "Landing on Morogor"
-msgstr ""
+msgstr "Landgang på Morogor"
 
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:8
 msgid ""
@@ -1042,298 +1243,357 @@ msgid ""
 "Morogor. The humans departed as quickly as they could, not wanting to take "
 "any chances. The Drakes began to survey the land they were to call home."
 msgstr ""
+"Efter det succesfulde møde med nagaerne, kunne hestedragerne foretage "
+"landgang på Morogor. Menneskene rejste med det samme, da de ikke ønskede at "
+"tage nogen chancer. Hestedragerne begyndte at undersøge landet, de nu skulle "
+"kalde deres hjem."
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:142
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:145
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:62
 msgid "Defeat the undead"
-msgstr ""
+msgstr "Besejr de udøde"
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:116
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:115
 msgid "Ugh! This place is disgusting! Maybe Gakk was right."
-msgstr ""
+msgstr "Ad! Dette sted er modbydeligt! Måske havde Gakk ret."
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:120
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:119
 msgid ""
 "This place reeks of the undead. No doubt once we clear the island of the "
 "undead, the land itself will regenerate."
 msgstr ""
+"Dette sted stinker af udøde. Der er ingen tvivl om, at efter vi har ryddet "
+"øen for udøde, så vil landet blive født på ny."
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:124
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:123
 msgid "I certainly hope so. Look - there are undead here. Let's get started!"
-msgstr ""
+msgstr "Det håber jeg sandelig. Se - der er udøde der. Lad os komme i gang!"
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:134
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:133
 msgid "What devilry is this? Those Drakes who fall are rising again in unlife!"
 msgstr ""
+"Hvilken djævelskab er dette? De hestedrager som falder kommer igen som udøde!"
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:138
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:137
 msgid ""
 "This island is steeped with dark magic. We must find and destroy the source "
 "of it."
 msgstr ""
+"Denne ø emmer af ond magi. Vi må finde og ødelægge kilden til denne magi."
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:142
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:141
 msgid "One thing at a time, OK? Let's get this lot out of the way first."
-msgstr ""
+msgstr "En ting ad gangen, ik'? Lad os slippe af med dem her først."
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:154
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:153
 msgid "There are just too many of them! We are doomed to die in this swamp!"
-msgstr ""
+msgstr "Der er for mange af dem! Vi er dømt til at dø i denne sump!"
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:161
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:160
 msgid "The undead are retreating!"
-msgstr ""
+msgstr "De udøde trækker sig tilbage!"
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:165
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:164
 msgid ""
 "There are doubtless many more where they came from. We must clear the entire "
 "island if we are to make it our home."
 msgstr ""
+"Der er uden tvivl mange flere, hvor de kom fra. Vi må rydde hele øen, hvis "
+"vi skal kunne leve her."
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:169
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:168
 msgid "Then what are we waiting for? Let's keep moving!"
-msgstr ""
+msgstr "Hvad venter vi så på? Lad os komme i gang!"
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:4
 msgid "Clearing the Island"
-msgstr ""
+msgstr "Øen ryddes"
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:8
 msgid ""
 "The Drakes moved inland quickly, wanting to deal with the undead as soon as "
 "possible, but soon encountered an unnatural darkness."
 msgstr ""
+"Hestedragerne rykkede hurtigt ind på øen med et stort ønske om at "
+"konfrontere de udøde så hurtigt som muligt, men de mødte hurtigt et "
+"unaturligt mørke."
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:63
 msgid "Scout out the land"
-msgstr ""
+msgstr "Gennemsøg landet"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:111
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:114
 msgid "Does this swamp ever end? I can't see a thing!"
-msgstr ""
+msgstr "Ender denne sump aldrig? Jeg kan ingenting se!"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:115
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:118
 msgid ""
 "We must be getting close to the source of this evil. That's why the land is "
 "so dark."
 msgstr ""
+"Vi må nærme os kilden for den onde magi. Det er derfor dette land er så "
+"mørkt."
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:119
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:122
 msgid ""
 "We can't continue like this indefinitely. This darkness reaches inside you "
 "and grips your heart."
 msgstr ""
+"Vi kan ikke fortsætte sådan uendeligt. Denne ondskab trænger ind i os og "
+"tager fat i vores hjerter."
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:123
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:126
 msgid ""
 "No, we can't. Send some scouts ahead to spy out the land. We cannot keep "
 "wandering aimlessly."
 msgstr ""
+"Nej, det går ikke. Send nogle spejdere ud og gennemsøg landet. Vi kan ikke "
+"vandre rundt uden mål."
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:133
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:136
 msgid "There are more undead here!"
-msgstr ""
+msgstr "Der er flere udøde her!"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:137
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:140
 msgid ""
 "It was only a matter of time until we ran into them again. Very well - "
 "destroy them!"
 msgstr ""
+"Det var kun et spørgsmål om tid, før vi stødte ind i dem igen. Lad os "
+"destruere dem!"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:166
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:169
 msgid ""
 "Ah! So these are the creatures who dare enter our territory! Hmmm, they are "
 "strong. They will make excellent slaves!"
 msgstr ""
+"Ah! Så dette er de skabninger, som vover at trænge ind på vores område! "
+"Hmmm, de ser stærke ud. De bliver glimrende slaver!"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:170
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:173
 msgid ""
 "We did not come here to enter your territory, we came here to occupy it and "
 "destroy you!"
 msgstr ""
+"Vi er ikke kommet her på besøg. Vi er kommet for at besætte landet og "
+"udrydde dig!"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:174
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:177
 msgid ""
 "So the leader of the undead shows himself. Concentrate your efforts on him. "
 "If we can defeat him, the power that sustains the undead will be broken."
 msgstr ""
+"Så de udødes ledere viser sig selv. Koncentrer din indsats om at besejre "
+"ham. Hvis han dør, vil kraften omkring de øvrige udøde blive brudt."
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:179
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:182
 msgid "Kill Woldimer"
-msgstr ""
+msgstr "Dræb Woldimer"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:208
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:211
 msgid "I have fallen, but my master will avenge me!"
-msgstr ""
+msgstr "Jeg er faldet, men min herre vil hævne mig!"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:215
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:218
 msgid "There are just too many of them! We can never prevail!"
-msgstr ""
+msgstr "Der er så mange af dem! Vi kan ikke vinde!"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:222
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:225
 msgid ""
 "What did he mean, his master? I thought he was the master of these undead!"
 msgstr ""
+"Hvad mente han, hans herre? Jeg troede, at han var herre over disse udøde!"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:226
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:229
 msgid ""
 "He was powerful, yes. Yet despite his death the darkness persists. There "
 "must be another, more powerful yet."
 msgstr ""
+"Han var magtfuld, ja. Men på trods af hans død er det mørke stadig til "
+"stede. Der må stadig være en anden mere magtfuld i live."
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:230
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:233
 msgid ""
 "I don't know how much longer we can continue this. There are rumours of "
 "mutiny again."
 msgstr ""
+"Jeg ved ikke hvor længe vi kan fortsætte. Der er rygte om deserteringer igen."
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:234
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:237
 msgid "Then we must find and defeat Woldimer's master quickly. Come on!"
-msgstr ""
+msgstr "Så må vi finde og besejre Woldimers herre hurtigt. Fremad!"
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:4
 msgid "Showdown"
-msgstr ""
+msgstr "Opgør"
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:8
 msgid ""
 "Continuing to move inland, the Drakes soon found that the darkness was "
 "becoming almost unbearable."
 msgstr ""
+"Under deres fortsatte rejse ind i landet fandt hestedragerne, at det onde "
+"blev sværere og sværer at bære."
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:72
 msgid "Find enemy leader"
-msgstr ""
+msgstr "Find fjendtlig leder"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:134
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:141
 msgid ""
 "Woldimer's master must be very close. This darkness appears to be even "
 "heavier than before, if that were possible."
 msgstr ""
+"Woldimers herre må være meget nær. Det onde er stærkere her, end hvad vi "
+"tidligere har mødt, hvis det er muligt."
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:138
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:145
 msgid ""
 "I certainly hope so. Our supplies will not last much longer. We must finish "
 "this quickly!"
 msgstr ""
+"Det håber jeg virkelig. Vores forsyninger holder ikke længe. Vi må afslutte "
+"dette hurtigt!"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:142
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:149
 msgid "We must find our enemy before we can finish him."
-msgstr ""
+msgstr "Vi må finde fjenden, før vi kan gøre det af med ham."
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:156
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:163
 msgid ""
 "So it is true. The lizards managed to defeat my apprentice. You will pay "
 "dearly for that! Still, I have waited centuries for a good fight. Revenge "
 "will just make it even better."
 msgstr ""
+"Så er det sandt. Det lykkedes øglerne at besejre min lærling. Det vil koste "
+"dig dyrt! Igen dog, jeg har ventet århundreder for en god kamp. Hævn vil "
+"bare gøre det endnu bedre."
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:160
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:167
 msgid "Is that thing alive or dead?"
-msgstr ""
+msgstr "Er den ting død eller levende?"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:164
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:171
 msgid ""
 "He is a Lich - a dark sorcerer who himself has become undead. And a very "
 "powerful one at that. In fact, he has perhaps too much power."
 msgstr ""
+"Han er en lich - en ond troldmand som selv er blevet udød. Og en meget "
+"magtfuld en af slagsen. Han har måske alt for stor magt."
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:168
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:175
 msgid "Too much for what? Are you saying we cannot prevail?"
-msgstr ""
+msgstr "For stor magt - i forhold til hvad? Siger du vi ikke kan vinde?"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:172
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:179
 msgid ""
 "No, he has more power than should be possible. Most likely he has a talisman "
 "of great power that sustains him. Destroy the talisman and he will be "
 "greatly weakened. Only then will we be able to defeat him."
 msgstr ""
+"Nej, han har større magt end det burde være muligt at have for en lich. "
+"Højst sandsynlig har han en talisman af en eller slags, som holder ham i "
+"gang. Ødelæg talismanen og han vil blive stærkt svækket. Kun da kan vi "
+"besejre ham."
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:176
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:183
 msgid "You don't sound too sure."
-msgstr ""
+msgstr "Du lyder ikke for sikker."
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:180
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:187
+#, fuzzy
 msgid ""
 "I'm not, but it's our only chance. If we attack him directly we will "
 "certainly fail. We must find and destroy the source of his power. No doubt "
 "it will be close to him - I doubt he would let it far out of his sight. And "
 "the closer it is to him the more power he can draw from it."
 msgstr ""
+"Det er jeg heller ikke, men det er vores eneste chance. Hvis vi angriber ham "
+"direkte, vil vi helt sikkert mislykkes. Vi må finde og ødelægge kilden til "
+"hans magt."
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:185
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:192
 msgid "Find and destroy Mal-Bronam's talisman; then"
-msgstr ""
+msgstr "Find og ødelæg Mal-Bronams talisman; så"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:189
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:419
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:196
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:470
 msgid "Kill Mal-Bronam"
-msgstr ""
+msgstr "Dræb Mal-Bronam"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:229
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:236
 msgid ""
 "I told you it's useless attacking him! We must destroy that talisman first!"
 msgstr ""
+"Jeg sagde det jo, det er meningsløst at angribe ham! Vi må ødelægge "
+"talismanen først!"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:298
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:305
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:349
 msgid "Look! What is this thing?"
-msgstr ""
+msgstr "Se! Hvad er dette?"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:302
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:309
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:353
 msgid "It must be the talisman we were looking for! We must destroy it!"
-msgstr ""
+msgstr "Det må være talismanen vi leder efter! Ødelæg den!"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:348
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:399
 msgid "Noooo! What have you done?"
-msgstr ""
+msgstr "Neeej! Hvad har du gjort?"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:358
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:409
 msgid "It worked! The darkness is retreating!"
-msgstr ""
+msgstr "Det virkede! Det onde er på tilbagetog!"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:362
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:413
 msgid "Good - now destroy him!"
-msgstr ""
+msgstr "Godt - ødelæg ham nu!"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:366
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:417
 msgid ""
 "Do you think I am no longer able to defend myself? I still have power "
 "greater than you can imagine!"
 msgstr ""
+"Tror du ikke at jeg kan forsvare mig selv? Jeg er stadig langt mægtigere, "
+"end du kan forestille dig!"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:451
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:502
 msgid "This darkness pervades my soul. I cannot continue any longer!"
-msgstr ""
+msgstr "Dette onde gennemtrænger min sjæl. Jeg kan ikke fortsætte!"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:461
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:512
 msgid "No! It cannot be! I am immortal! I am invincible! I am -"
 msgstr ""
+"Nej! Det kan ikke passe! Jeg er udødelig! Jeg er uovervindelig! Jeg er -"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:465
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:516
 msgid "Gone."
-msgstr ""
+msgstr "Væk."
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:472
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:523
 msgid "Can it be true? Is it possible we have defeated him?"
-msgstr ""
+msgstr "Kan det være sandt? Er det muligt, at vi har besejret ham?"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:476
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:527
 msgid "Yes - look! The undead melt away already."
-msgstr ""
+msgstr "Ja - se! Den udøde smelter allerede væk."
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:481
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:532
 msgid "I don't think it's safe to stay here."
-msgstr ""
+msgstr "Jeg tror ikke det er sikkert at blive her."
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:485
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:536
 msgid ""
 "No. The earth is shaking off a great burden. We would be best to retreat to "
 "the open plains."
 msgstr ""
+"Nej. Jorden skiller sig af med en stor burde. Vi vil have bedst af at "
+"fortrække til de åbne sletter."
 
 #: Children_of_Dragons/scenarios/13_Epilogue.cfg:4
 msgid "Epilogue"
-msgstr ""
+msgstr "Efterskrift"
 
 #: Children_of_Dragons/scenarios/13_Epilogue.cfg:8
 msgid ""
@@ -1343,12 +1603,20 @@ msgid ""
 "it was already receding. They could see that once it returned to normal, it "
 "would be a beautiful place."
 msgstr ""
+"I tre dage gemte hestedragerne sig på de åbne stepper, mens jorden fortsat "
+"rystede. Til sidst stoppede rystelserne, og hestedragerne var i stand til at "
+"få det første syn på øen. Sump dækkede stadig det meste af øen, selvom det "
+"var på tilbagetog. De kunne se at stedet, når det vendte tilbage til sin "
+"normale tilstand, var et smukt sted."
 
 #: Children_of_Dragons/scenarios/13_Epilogue.cfg:11
 msgid ""
 "However, less than one-fifth of the Drakes who set out still remained. Kahn "
 "in particular struggled to convince himself that it had all been worth it."
 msgstr ""
+"Men desværre, mindre end en femtedel af hestedragerne som startede rejsen "
+"var tilbage. Specielt Kahn kæmpede med skyldfølelse over hvorvidt det var "
+"det hele værd."
 
 #: Children_of_Dragons/scenarios/13_Epilogue.cfg:14
 msgid ""
@@ -1357,3 +1625,6 @@ msgid ""
 "around the island of the Nagas. The Drakes thrived in their new home, and "
 "their numbers grew once again."
 msgstr ""
+"Med tiden, håndterede han dog sorgen, og han anførte hestedragerne i mange "
+"år frem. Med hjælp fra menneskerne, blev området omkring øen befriet for "
+"nagaerne. Hestedragerne trivedes i deres nye hjem, og deres antal steg igen."
