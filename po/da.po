@@ -52,7 +52,7 @@ msgstr "Illustrationsmateriale og grafik"
 
 #: Children_of_Dragons.cfg:25
 msgid "Translations"
-msgstr ""
+msgstr "Oversættelser"
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:4
 msgid "Leader of the Drakes"
@@ -1501,7 +1501,6 @@ msgid "You don't sound too sure."
 msgstr "Du lyder ikke for sikker."
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:187
-#, fuzzy
 msgid ""
 "I'm not, but it's our only chance. If we attack him directly we will "
 "certainly fail. We must find and destroy the source of his power. No doubt "
@@ -1510,7 +1509,9 @@ msgid ""
 msgstr ""
 "Det er jeg heller ikke, men det er vores eneste chance. Hvis vi angriber ham "
 "direkte, vil vi helt sikkert mislykkes. Vi må finde og ødelægge kilden til "
-"hans magt."
+"hans magt. Den vil uden tvivl være tæt på ham - jeg tvivler på, at han vil "
+"lade den være ude af syne. Og jo tættere han er på den, jo mere magt kan han "
+"suge fra den."
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:192
 msgid "Find and destroy Mal-Bronam's talisman; then"
