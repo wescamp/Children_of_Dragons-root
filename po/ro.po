@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-02-13 15:23+0100\n"
+"POT-Creation-Date: 2007-04-18 19:52+0200\n"
 "PO-Revision-Date: 2007-02-08 14:00+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -74,35 +74,37 @@ msgstr ""
 msgid "Defeat all enemy leaders"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:67
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:146
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:183
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:66
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:148
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:185
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:65
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:66
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:57
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:76
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:193
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:423
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:81
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:205
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:484
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:73
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:76
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:278
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:79
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:355
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:351
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:57
 msgid "Death of Kahn"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:81
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:75
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:154
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:191
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:98
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:74
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:156
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:193
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:77
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:74
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:65
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:84
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:201
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:431
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:85
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:213
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:492
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:77
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:84
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:286
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:61
 msgid "Turns run out"
 msgstr ""
@@ -375,18 +377,19 @@ msgstr ""
 msgid "Kahn must reach the exit"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:71
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:150
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:187
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:70
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:152
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:189
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:69
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:70
 #: Children_of_Dragons/scenarios/03_The_Emerging.cfg:61
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:80
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:197
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:427
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:209
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:488
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:80
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:282
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:83
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:359
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:355
 msgid "Death of Freon"
 msgstr ""
 
@@ -470,15 +473,15 @@ msgstr ""
 msgid "Freon soon spoiled that illusion."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:73
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:90
 msgid "Get Kahn to the end of the mountains"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:77
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:94
 msgid "Death of any Drake"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:131
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:146
 msgid ""
 "Beautiful, isn't it? Unfortunately we can't keep looking for too long. There "
 "are creatures that inhabit these mountains that will not tolerate our "
@@ -486,21 +489,63 @@ msgid ""
 "if they are not too busy fighting each other."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:135
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:150
 msgid "Then we must get out of these mountains quickly."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:139
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:154
+msgid ""
+"We don't have much time to rally our troops I'm afraid. We must be away from "
+"this tunnel by dusk if we are to escape the trolls and dwarves."
+msgstr ""
+
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:158
+msgid "Will we be able to find somewhere to live?"
+msgstr ""
+
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:162
 msgid ""
 "Yes. The lower lands are also inhabited, though only sparsely, so we should "
 "be able to find somewhere to settle."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:331
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:191
+msgid "Trithdril"
+msgstr ""
+
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:192
+msgid "Augthais"
+msgstr ""
+
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:193
+msgid "Naratol"
+msgstr ""
+
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:196
+msgid "There they are, boys! Let's get them!"
+msgstr ""
+
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:201
+msgid "Thog"
+msgstr ""
+
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:202
+msgid "Zuug"
+msgstr ""
+
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:203
+msgid "Gark"
+msgstr ""
+
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:206
+msgid "Dwarves and lizards in mountains. Trolls kill all!"
+msgstr ""
+
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:225
 msgid "We made it!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:344
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:238
 msgid ""
 "If I cannot protect my people here, how will I ever do it on the open plains?"
 msgstr ""
@@ -517,46 +562,57 @@ msgid ""
 msgstr ""
 
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:72
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:274
 msgid "Reach the end of the forest"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:131
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:151
 msgid ""
 "We have never entered this forest. It seemed far too dark and foreboding, so "
 "we always went straight over it. However in this case we have no choice but "
 "to go through it. We must be careful."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:135
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:155
 msgid "How bad can it be?"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:151
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:171
 msgid "What was that?"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:155
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:175
 msgid ""
 "I don't know, but it didn't sound good. Let's get through this forest as "
 "soon as possible. From memory, it will be quickest to head south."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:174
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:231
 msgid "I never want to see another tree in my entire life."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:187
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:240
+msgid "We cannot leave yet - the undead are not defeated!"
+msgstr ""
+
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:257
 msgid "The forest is crawling with undead!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:191
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:261
 msgid ""
-"Then we must truly hurry! We must find the end of these trees - if they do "
-"not go on forever!"
+"I do not like the idea of living near undead. Perhaps we should clear this "
+"forest of its current inhabitants first."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:195
-msgid "There is grassland beyond the trees - keep heading south."
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:265
+msgid ""
+"Yes, I think you are right. Let's destroy the undead, else they may attack "
+"us while we try and build our new homes."
+msgstr ""
+
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:270
+msgid "Defeat enemy leaders, and;"
 msgstr ""
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:4
@@ -674,81 +730,81 @@ msgstr ""
 msgid "Death of Tumabulindrum"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:150
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:159
 msgid "Ugh. More trees."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:154
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:163
 msgid ""
 "At least they are not as thick as the last lot. We will be able to see where "
 "we are going here."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:158
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:167
 msgid ""
 "And our enemies this time are flesh and blood, not undead. Still, I wish "
 "there was another way."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:162
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:171
 msgid "None come to mind."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:166
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:175
 msgid "No, this is our best hope. Let's clear these woods!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:170
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:179
 msgid "Hmmm. What do the fire breathers want?"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:174
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:183
 msgid "Did that tree just talk?"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:178
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:187
 msgid "I have heard of such things. We had best answer quickly."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:182
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:191
 msgid "We come to rid these woods of the outlaws that hide here."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:186
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:195
 msgid ""
 "Very well. These outlaws, as you call them, have destroyed many a good tree. "
 "We will help you, but make sure you keep your fires away from us."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:190
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:199
 msgid ""
 "We would be glad of your help. We have no wish to harm you with our flames, "
 "and once the outlaws are gone, we will leave you in peace."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:194
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:203
 msgid "Then let us work together to clean this forest!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:213
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:235
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:257
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:222
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:244
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:266
 msgid "I found some of their ill-gotten gains!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:217
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:226
 msgid "You retrieve 75 gold."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:239
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:248
 msgid "You retrieve 100 gold."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:261
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:270
 msgid "You retrieve 50 gold."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:276
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:285
 msgid "And so the Wose pass from the land of the living..."
 msgstr ""
 
@@ -772,34 +828,34 @@ msgstr ""
 msgid "Unfortunately that was not all that awaited them."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:77
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:69
 msgid "Defeat Gakk and Stakron"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:154
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:146
 msgid "As you can see, the ships are ready and wai-"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:158
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:150
 msgid "You will not be going anywhere."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:162
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:154
 msgid "What's going on here? Who are you?"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:166
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:158
 msgid "Gakk? What do you think you're doing?"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:170
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:162
 msgid ""
 "We are ending this lunacy once and for all. It was bad enough to make us "
 "leave our homes, forcing us into confrontation with dwarves, trolls and "
 "undead. But to make a pact with these humans ... "
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:174
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:166
 msgid ""
 "And to what end? So they can send us out to sea and drown us all, most "
 "likely! And even if this island does exist, and we do actually get there, "
@@ -807,44 +863,44 @@ msgid ""
 "survive? Better we finish this now, and return to the caves where we belong."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:178
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:170
 msgid ""
 "Whatever else we may do, we cannot return to the caves. They will certainly "
 "have been overrun with dwarves and trolls by now."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:185
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:177
 msgid "Stakron? You too?"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:189
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:181
 msgid "Gakk is right. We should never have left the caves."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:193
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:185
 msgid "You would oppose our rightful leader, and the wishes of the council?"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:197
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:189
 msgid ""
 "Bah! The council is nothing more than a bunch of has-beens who think they "
 "still have some sort of power. Real power comes from strength of arms, not "
 "meetings."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:201
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:193
 msgid "If you will not back down, we will be forced to destroy you."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:205
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:197
 msgid "Hah! I'd like to see you try."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:209
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:201
 msgid "If that's the way it must be, then so be it."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:213
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:205
 msgid ""
 "I'm afraid I cannot help you in this, Kahn. I cannot fight fellow council "
 "members, even if they have gone insane. But be careful. No doubt there are "
@@ -852,83 +908,83 @@ msgid ""
 "alone."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:217
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:209
 msgid ""
 "I too cannot get involved in this. I have other urgent matters to attend to, "
 "and unless they attack our ships, I am afraid it does not concern me. I will "
 "return once you have dealt with these two."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:221
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:213
 msgid "I understand. Come, let us crush these traitors!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:250
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:242
 msgid "At least I won't live to see the demise of the Drakes."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:254
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:246
 msgid "I wish I hadn't had to do that."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:258
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:250
 msgid ""
 "He was a great asset to the Drakes. It's a shame it had to end like this. "
 "Still, I suppose we did only what was necessary."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:268
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:260
 msgid "Come now, Stakron. Surely you will not persist in this rebellion?"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:272
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:264
 msgid "I ... it is too late for me now. I cannot turn back."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:276
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:268
 msgid "It truly saddens me to hear that."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:292
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:284
 msgid "I could have been wrong ..."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:296
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:288
 msgid "You will pay for that!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:310
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:302
 msgid "Too many Drakes are defecting to them. We are doomed!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:320
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:312
 msgid "(sigh) The rebels are defeated."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:330
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:322
 msgid "This is a sad day. Many Drakes have died in a pointless rebellion."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:334
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:326
 msgid "Yes. And we now have two vacant places on the council."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:338
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:330
 msgid ""
 "That will have to wait. You must leave immediately before the weather turns."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:342
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:334
 msgid "Very well. Thank you once again, Alamar."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:346
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:338
 msgid ""
 "No, thank you. Since you defeated the bandits, our villages are safe. May "
 "your journey be quick and uneventful."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:350
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:342
 msgid "Let's hope so. To the ships!"
 msgstr ""
 
@@ -947,12 +1003,12 @@ msgid ""
 msgstr ""
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:75
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:351
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:347
 msgid "Survive until the end of turns"
 msgstr ""
 
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:87
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:363
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:359
 msgid "Death of Ober"
 msgstr ""
 
@@ -995,41 +1051,37 @@ msgid ""
 "rows will be lost."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:280
-msgid "New Naga at $unit_x,$unit_y"
-msgstr ""
-
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:342
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:338
 msgid ""
 "There do not appear to be any more coming. We just need to hold off or "
 "defeat those that remain."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:348
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:344
 msgid "Defeat remaining Nagas"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:406
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:402
 msgid "Avenge me, brotherssss and ssssissssterssss..."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:416
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:412
 msgid "We will never pilot this ship without him!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:432
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:428
 msgid "We made it! The Nagas will not pursue us any further."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:436
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:432
 msgid "Surely it can only get easier from here?"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:440
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:436
 msgid "We should meet no further resistance between here and Morogor."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:444
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:440
 msgid "Sounds good to me. Onward!"
 msgstr ""
 
@@ -1044,54 +1096,54 @@ msgid ""
 "any chances. The Drakes began to survey the land they were to call home."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:142
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:144
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:62
 msgid "Defeat the undead"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:116
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:115
 msgid "Ugh! This place is disgusting! Maybe Gakk was right."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:120
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:119
 msgid ""
 "This place reeks of the undead. No doubt once we clear the island of the "
 "undead, the land itself will regenerate."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:124
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:123
 msgid "I certainly hope so. Look - there are undead here. Let's get started!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:134
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:133
 msgid "What devilry is this? Those Drakes who fall are rising again in unlife!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:138
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:137
 msgid ""
 "This island is steeped with dark magic. We must find and destroy the source "
 "of it."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:142
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:141
 msgid "One thing at a time, OK? Let's get this lot out of the way first."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:154
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:153
 msgid "There are just too many of them! We are doomed to die in this swamp!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:161
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:160
 msgid "The undead are retreating!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:165
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:164
 msgid ""
 "There are doubtless many more where they came from. We must clear the entire "
 "island if we are to make it our home."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:169
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:168
 msgid "Then what are we waiting for? Let's keep moving!"
 msgstr ""
 
@@ -1105,90 +1157,90 @@ msgid ""
 "possible, but soon encountered an unnatural darkness."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:63
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:62
 msgid "Scout out the land"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:111
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:113
 msgid "Does this swamp ever end? I can't see a thing!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:115
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:117
 msgid ""
 "We must be getting close to the source of this evil. That's why the land is "
 "so dark."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:119
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:121
 msgid ""
 "We can't continue like this indefinitely. This darkness reaches inside you "
 "and grips your heart."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:123
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:125
 msgid ""
 "No, we can't. Send some scouts ahead to spy out the land. We cannot keep "
 "wandering aimlessly."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:133
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:135
 msgid "There are more undead here!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:137
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:139
 msgid ""
 "It was only a matter of time until we ran into them again. Very well - "
 "destroy them!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:166
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:168
 msgid ""
 "Ah! So these are the creatures who dare enter our territory! Hmmm, they are "
 "strong. They will make excellent slaves!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:170
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:172
 msgid ""
 "We did not come here to enter your territory, we came here to occupy it and "
 "destroy you!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:174
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:176
 msgid ""
 "So the leader of the undead shows himself. Concentrate your efforts on him. "
 "If we can defeat him, the power that sustains the undead will be broken."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:179
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:181
 msgid "Kill Woldimer"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:208
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:210
 msgid "I have fallen, but my master will avenge me!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:215
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:217
 msgid "There are just too many of them! We can never prevail!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:222
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:224
 msgid ""
 "What did he mean, his master? I thought he was the master of these undead!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:226
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:228
 msgid ""
 "He was powerful, yes. Yet despite his death the darkness persists. There "
 "must be another, more powerful yet."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:230
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:232
 msgid ""
 "I don't know how much longer we can continue this. There are rumours of "
 "mutiny again."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:234
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:236
 msgid "Then we must find and defeat Woldimer's master quickly. Come on!"
 msgstr ""
 
@@ -1206,55 +1258,55 @@ msgstr ""
 msgid "Find enemy leader"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:134
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:141
 msgid ""
 "Woldimer's master must be very close. This darkness appears to be even "
 "heavier than before, if that were possible."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:138
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:145
 msgid ""
 "I certainly hope so. Our supplies will not last much longer. We must finish "
 "this quickly!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:142
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:149
 msgid "We must find our enemy before we can finish him."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:156
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:168
 msgid ""
 "So it is true. The lizards managed to defeat my apprentice. You will pay "
 "dearly for that! Still, I have waited centuries for a good fight. Revenge "
 "will just make it even better."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:160
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:172
 msgid "Is that thing alive or dead?"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:164
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:176
 msgid ""
 "He is a Lich - a dark sorcerer who himself has become undead. And a very "
 "powerful one at that. In fact, he has perhaps too much power."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:168
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:180
 msgid "Too much for what? Are you saying we cannot prevail?"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:172
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:184
 msgid ""
 "No, he has more power than should be possible. Most likely he has a talisman "
 "of great power that sustains him. Destroy the talisman and he will be "
 "greatly weakened. Only then will we be able to defeat him."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:176
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:188
 msgid "You don't sound too sure."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:180
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:192
 msgid ""
 "I'm not, but it's our only chance. If we attack him directly we will "
 "certainly fail. We must find and destroy the source of his power. No doubt "
@@ -1262,71 +1314,73 @@ msgid ""
 "the closer it is to him the more power he can draw from it."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:185
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:197
 msgid "Find and destroy Mal-Bronam's talisman; then"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:189
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:419
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:201
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:480
 msgid "Kill Mal-Bronam"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:229
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:241
 msgid ""
 "I told you it's useless attacking him! We must destroy that talisman first!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:298
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:310
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:354
 msgid "Look! What is this thing?"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:302
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:314
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:358
 msgid "It must be the talisman we were looking for! We must destroy it!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:348
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:404
 msgid "Noooo! What have you done?"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:358
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:419
 msgid "It worked! The darkness is retreating!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:362
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:423
 msgid "Good - now destroy him!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:366
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:427
 msgid ""
 "Do you think I am no longer able to defend myself? I still have power "
 "greater than you can imagine!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:451
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:512
 msgid "This darkness pervades my soul. I cannot continue any longer!"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:461
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:522
 msgid "No! It cannot be! I am immortal! I am invincible! I am -"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:465
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:526
 msgid "Gone."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:472
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:533
 msgid "Can it be true? Is it possible we have defeated him?"
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:476
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:537
 msgid "Yes - look! The undead melt away already."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:481
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:542
 msgid "I don't think it's safe to stay here."
 msgstr ""
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:485
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:546
 msgid ""
 "No. The earth is shaking off a great burden. We would be best to retreat to "
 "the open plains."
