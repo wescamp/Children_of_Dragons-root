@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-04-18 19:52+0200\n"
-"PO-Revision-Date: 2007-02-26 12:26+0100\n"
+"PO-Revision-Date: 2007-05-02 10:28+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -613,10 +613,13 @@ msgid ""
 "We don't have much time to rally our troops I'm afraid. We must be away from "
 "this tunnel by dusk if we are to escape the trolls and dwarves."
 msgstr ""
+"Non abbiamo tempo purtroppo per reclutare le nostre truppe. Dobbiamo uscire "
+"da queste gallerie prima del tramonto se vogliamo sfuggire ai troll e ai "
+"nani."
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:158
 msgid "Will we be able to find somewhere to live?"
-msgstr ""
+msgstr "Riusciremo a trovare un posto dove vivere?"
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:162
 msgid ""
@@ -628,35 +631,35 @@ msgstr ""
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:191
 msgid "Trithdril"
-msgstr ""
+msgstr "Trithdril"
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:192
 msgid "Augthais"
-msgstr ""
+msgstr "Augthais"
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:193
 msgid "Naratol"
-msgstr ""
+msgstr "Naratol"
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:196
 msgid "There they are, boys! Let's get them!"
-msgstr ""
+msgstr "Eccoli, ragazzi! Prendiamoli!"
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:201
 msgid "Thog"
-msgstr ""
+msgstr "Thog"
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:202
 msgid "Zuug"
-msgstr ""
+msgstr "Zuug"
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:203
 msgid "Gark"
-msgstr ""
+msgstr "Gark"
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:206
 msgid "Dwarves and lizards in mountains. Trolls kill all!"
-msgstr ""
+msgstr "Nani e lucertole nelle montagne. I troll ammazzano tutti!"
 
 #: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:225
 msgid "We made it!"
@@ -720,7 +723,7 @@ msgstr "Non voglio vedere un solo altro albero in tutta la mia vita."
 
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:240
 msgid "We cannot leave yet - the undead are not defeated!"
-msgstr ""
+msgstr "Non possiamo ancora andarcene - i non-morti non sono ancora sconfitti!"
 
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:257
 msgid "The forest is crawling with undead!"
@@ -731,12 +734,14 @@ msgid ""
 "I do not like the idea of living near undead. Perhaps we should clear this "
 "forest of its current inhabitants first."
 msgstr ""
+"Non mi piace l'idea di vivere vicino a dei non-morti. Forse dovremmo prima "
+"ripulire questa foresta dai suoi attuali abitanti."
 
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:265
 msgid ""
 "Yes, I think you are right. Let's destroy the undead, else they may attack "
 "us while we try and build our new homes."
-msgstr ""
+msgstr "Sconfiggi tutti i comandanti nemici e"
 
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:270
 #, fuzzy
