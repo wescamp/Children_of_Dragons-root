@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-04-18 19:52+0200\n"
-"PO-Revision-Date: 2007-05-02 10:28+0100\n"
+"PO-Revision-Date: 2007-05-14 12:57+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -744,9 +744,8 @@ msgid ""
 msgstr "Sconfiggi tutti i comandanti nemici e"
 
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:270
-#, fuzzy
 msgid "Defeat enemy leaders, and;"
-msgstr "Sconfiggi tutti i comandanti nemici"
+msgstr "Sconfiggi tutti i comandanti nemici e"
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:4
 msgid "The Humans"
