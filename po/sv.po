@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-04-18 19:52+0200\n"
-"PO-Revision-Date: 2007-02-08 14:00+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2007-07-25 18:00+0200\n"
+"Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
+"DOT com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: Children_of_Dragons.cfg:7
 msgid "Children of Dragons"
@@ -31,16 +33,18 @@ msgid "Chancellor"
 msgstr ""
 
 #: Children_of_Dragons.cfg:14
+#, fuzzy
 msgid "Lord"
-msgstr ""
+msgstr "Furste"
 
 #: Children_of_Dragons.cfg:17
 msgid "Campaign Developed and Maintained By"
 msgstr ""
 
 #: Children_of_Dragons.cfg:21
+#, fuzzy
 msgid "Artwork and Graphics"
-msgstr ""
+msgstr "Grafik och illustrationer"
 
 #: Children_of_Dragons.cfg:25
 msgid "Translations"
@@ -70,8 +74,9 @@ msgstr ""
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:61
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:53
+#, fuzzy
 msgid "Defeat all enemy leaders"
-msgstr ""
+msgstr "Besegra alla fiendeledare"
 
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:66
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:148
@@ -105,8 +110,9 @@ msgstr ""
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:84
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:286
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:61
+#, fuzzy
 msgid "Turns run out"
-msgstr ""
+msgstr "Dragen tar slut"
 
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:113
 msgid ""
@@ -632,8 +638,9 @@ msgid ""
 msgstr ""
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:60
+#, fuzzy
 msgid "Halt! Who goes there?"
-msgstr ""
+msgstr "Halt! Vem där?"
 
 #: Children_of_Dragons/scenarios/06_The_Humans.cfg:64
 msgid ""
@@ -1244,8 +1251,9 @@ msgid "Then we must find and defeat Woldimer's master quickly. Come on!"
 msgstr ""
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:4
+#, fuzzy
 msgid "Showdown"
-msgstr ""
+msgstr "Slutstrid"
 
 #: Children_of_Dragons/scenarios/12_Showdown.cfg:8
 msgid ""
@@ -1386,8 +1394,9 @@ msgid ""
 msgstr ""
 
 #: Children_of_Dragons/scenarios/13_Epilogue.cfg:4
+#, fuzzy
 msgid "Epilogue"
-msgstr ""
+msgstr "Epilog"
 
 #: Children_of_Dragons/scenarios/13_Epilogue.cfg:8
 msgid ""
