@@ -2,14 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-04-18 19:52+0200\n"
-"PO-Revision-Date: 2007-05-14 12:57+0100\n"
+"POT-Creation-Date: 2007-12-02 15:41+0100\n"
+"PO-Revision-Date: 2007-12-02 17:42+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
-"Language-Team: none\n"
+"Language-Team: Italian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
 
 #: Children_of_Dragons.cfg:7
 msgid "Children of Dragons"
@@ -717,11 +719,11 @@ msgstr ""
 "Non lo so, non promette bene. Attraversiamo le foresta più velocemente "
 "possibile. Da quel che ricordo, sarebbe più veloce andare verso sud."
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:231
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:232
 msgid "I never want to see another tree in my entire life."
 msgstr "Non voglio vedere un solo altro albero in tutta la mia vita."
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:240
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:241
 msgid "We cannot leave yet - the undead are not defeated!"
 msgstr "Non possiamo ancora andarcene - i non-morti non sono ancora sconfitti!"
 
@@ -893,7 +895,7 @@ msgstr "Morte di Tumabulindrum"
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:159
 msgid "Ugh. More trees."
-msgstr "Agh. Ancora alberi."
+msgstr "Agh. Altri alberi."
 
 #: Children_of_Dragons/scenarios/07_Bandits.cfg:163
 msgid ""
@@ -958,27 +960,27 @@ msgstr ""
 msgid "Then let us work together to clean this forest!"
 msgstr "Coraggio, diamoci una mano a ripulire questa foresta!"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:222
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:244
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:266
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:221
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:242
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:263
 msgid "I found some of their ill-gotten gains!"
 msgstr "Ho trovato alcuni dei loro guadagni illegali!"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:226
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:225
 msgid "You retrieve 75 gold."
 msgstr "Hai recuperato 75 pezzi d'oro."
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:248
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:246
 msgid "You retrieve 100 gold."
 msgstr "Hai recuperato 100 pezzi d'oro."
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:270
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:267
 msgid "You retrieve 50 gold."
 msgstr "Hai recuperato 50 pezzi d'oro."
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:285
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:282
 msgid "And so the Wose pass from the land of the living..."
-msgstr "E così i wose lasciano la terra dei vivi..."
+msgstr "E così i wose lasciano la terra dei viventi..."
 
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:4
 msgid "To the Ships"
