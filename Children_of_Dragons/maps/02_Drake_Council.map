@@ -1,0 +1,19 @@
+border_size=1
+usage=map
+
+       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Rr,       Rr,       Rr,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu
+       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Rr,       Rr,       Rr,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu
+       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Rr,       Rr,       Rr,       Rr,       Rr,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu
+       Xu,       Xu,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Xu,       Xu
+       Xu,       Xu,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,      Cud,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Xu,       Xu
+       Xu,       Xu,       Rr,       Rr,       Rr,       Rr,      Cud,      Cud,      Cud,      Cud,      Cud,       Rr,       Rr,       Rr,       Rr,       Xu,       Xu
+       Xu,       Xu,       Rr,       Rr,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,       Rr,       Rr,       Xu,       Xu
+       Xu,       Xu,       Rr,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,       Rr,       Xu,       Xu
+       Xu,       Xu,       Rr,      Cud,      Cud,      Cud,      Cud,      Cud,     1 Kud,      Cud,      Cud,      Cud,      Cud,      Cud,       Rr,       Xu,       Xu
+       Xu,       Xu,       Rr,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,       Rr,       Xu,       Xu
+       Xu,       Xu,       Rr,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,       Rr,       Xu,       Xu
+       Xu,       Xu,       Rr,       Rr,       Rr,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,      Cud,       Rr,       Rr,       Rr,       Xu,       Xu
+       Xu,       Xu,       Rr,       Rr,       Rr,       Rr,       Rr,      Cud,      Cud,      Cud,       Rr,       Rr,       Rr,       Rr,       Rr,       Xu,       Xu
+       Xu,       Xu,       Xu,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Xu,       Xu,       Xu
+       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu
+       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu

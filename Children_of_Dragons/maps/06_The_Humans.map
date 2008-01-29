@@ -1,0 +1,19 @@
+border_size=1
+usage=map
+
+       Hh,       Hh,       Hh,       Gg,       Gg,       Gg,       Ww,       Ww,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Hh,    Gs^Fp,    Gs^Fp,       Gg,       Gg
+       Hh,       Hh,       Hh,       Gg,       Gg,       Gg,       Ww,       Ww,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Hh,    Gs^Fp,    Gs^Fp,       Gg,       Gg
+       Hh,       Hh,       Gg,       Gg,       Gg,       Gg,       Ww,    Gs^Fp,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Hh,       Hh,    Gs^Fp,       Gg,       Gg,       Gg
+       Gg,       Gg,    Gs^Fp,       Gg,       Gg,       Ww,       Gg,       Gg,       Gg,       Gg,       Gg,     1 Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg
+       Gg,       Gg,       Gg,    Gs^Fp,       Ww,       Ww,       Gg,       Gg,       Hh,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg
+       Gg,       Gg,       Ww,       Ww,       Gg,       Gg,       Hh,       Hh,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,    Gs^Fp,    Gs^Fp,    Gs^Fp,       Gg,       Gg,       Gg,       Gg,       Gg
+       Ww,       Ww,       Gg,       Gg,       Gg,       Gg,       Hh,       Hh,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg
+       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,   Ww^Bw|,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,   Ww^Bw|,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo
+       Ch,       Ch,       Ch,       Ch,       Ch,       Ch,       Ch,       Ch,       Ch,       Ch,       Ch,       Rr,       Ch,       Ch,       Ch,       Ch,       Ch,       Ch,       Ch,       Ch,       Ch,       Ch,       Ch
+       Ch,       Ch,       Ch,       Ch,       Rd,       Ch,       Rd,       Ch,       Rd,       Ch,       Rd,       Rr,       Rd,       Ch,       Rd,       Ch,       Rd,       Ch,       Rd,       Ch,       Ch,       Ch,       Ch
+       Ch,       Ch,       Ch,       Rd,       Rd,       Rd,       Rd,       Rd,       Rd,       Rd,       Rd,       Rr,       Rd,       Rd,       Rd,       Rd,       Rd,       Rd,       Rd,       Rd,       Ch,       Ch,       Ch
+       Ch,       Ch,       Ch,       Rd,       Rd,       Rd,       Rd,       Rd,       Ch,       Rd,       Ch,       Ch,       Ch,       Rd,       Ch,       Rd,       Rd,       Rd,       Rd,       Rd,       Ch,       Ch,       Ch
+       Ch,       Ch,       Ch,       Rd,       Rd,       Rd,       Rd,       Ch,       Ch,       Ch,       Ch,     2 Kh,       Ch,       Ch,       Ch,       Ch,       Rd,       Rd,       Rd,       Rd,       Ch,       Ch,       Ch
+       Ch,       Ch,       Ch,       Rd,       Rd,       Rd,       Rd,       Ch,       Ch,       Ch,       Ch,     Ch,       Ch,       Ch,       Ch,       Ch,       Rd,       Rd,       Rd,       Rd,       Ch,       Ch,       Ch
