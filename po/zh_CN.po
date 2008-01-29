@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-12-02 15:41+0100\n"
+"POT-Creation-Date: 2008-01-29 16:21+0100\n"
 "PO-Revision-Date: 2007-09-20 23:49+1000\n"
 "Last-Translator: luojie-dune <luojie-dune@operamail.com>\n"
 "Language-Team: none\n"
@@ -39,11 +39,15 @@ msgstr "领主"
 msgid "Campaign Developed and Maintained By"
 msgstr "战役设计维护"
 
-#: Children_of_Dragons.cfg:21
+#: Children_of_Dragons.cfg:23
 msgid "Artwork and Graphics"
 msgstr "艺术插图"
 
-#: Children_of_Dragons.cfg:25
+#: Children_of_Dragons.cfg:29
+msgid "Original unit sprites"
+msgstr ""
+
+#: Children_of_Dragons.cfg:33
 msgid "Translations"
 msgstr "翻译"
 
@@ -76,47 +80,47 @@ msgstr ""
 "三位候选人脱颖而出。虽说这些在指引龙族前进持不同观点的贵族们都可以成为领袖，"
 "但只有一位有机会将他的想法付诸实际......"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:61
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:53
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:32
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:29
 msgid "Defeat all enemy leaders"
 msgstr "打败所有敌人首领"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:66
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:148
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:185
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:65
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:66
-#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:57
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:76
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:205
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:484
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:73
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:76
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:278
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:79
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:351
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:57
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:37
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:122
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:159
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:36
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:37
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:36
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:37
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:169
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:448
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:42
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:37
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:241
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:40
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:520
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:33
 msgid "Death of Kahn"
 msgstr "Kahn死亡"
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:98
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:74
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:156
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:193
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:77
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:74
-#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:65
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:84
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:213
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:492
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:77
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:84
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:286
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:61
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:64
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:45
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:130
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:167
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:48
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:45
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:44
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:45
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:177
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:456
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:46
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:45
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:249
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:37
 msgid "Turns run out"
 msgstr "回合用尽"
 
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:113
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:94
 msgid ""
 "In the time-honoured tradition of our race, the battle for leadership shall "
 "be fought here. The rules are very simple - be the last contender left "
@@ -126,51 +130,51 @@ msgstr ""
 "在我们龙族传统荣誉规则里，领袖的战斗将在这里进行。规则十分简单，最后一个活着"
 "出来的，就是我们龙族的新领袖。如果你想放弃，这是你最后的机会。"
 
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:117
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:98
 msgid "There is complete silence."
 msgstr "死一般的寂静。"
 
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:121
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:103
 msgid "Very well. Let the battle commence!"
 msgstr "好，战斗开始！"
 
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:133
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:115
 msgid ""
 "So it has finally come to this. The leadership of the Drakes will be mine."
 msgstr "终于来了。龙族新领袖是我的了。"
 
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:137
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:119
 msgid "Hah! In your dreams, softbelly. The leadership is mine."
 msgstr "哈！作梦吧，软蛋。我才是新领袖。"
 
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:141
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:123
 msgid "Enough bickering! Let us begin."
 msgstr "还口角！我们开始吧！"
 
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:159
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:141
 msgid ""
 "What? There is still no winner after the allotted time? It seems none of you "
 "are worthy to lead us after all."
 msgstr "什么？在规定时间里还没分出胜负？看样子你们没一个值得领导我们。"
 
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:177
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:159
 msgid "All hail our new leader, Kahn!"
 msgstr "万岁！我们的新领袖！Kahn！"
 
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:187
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:169
 msgid "Bah! The Drakes are doomed."
 msgstr "这真是龙族的不幸啊。"
 
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:201
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:183
 msgid "Ah. It seems I was overly ambitious."
 msgstr "唉，看样子是我雄心过度了。"
 
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:211
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:193
 msgid ""
 "Too right you were. Only I have the steel required to lead the mighty Drakes."
 msgstr "你总算有自知之明，只有我才有带领强大龙族所必须的刚强。"
 
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:215
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:197
 msgid "We'll see about that."
 msgstr "我们走着瞧。"
 
@@ -184,7 +188,7 @@ msgid ""
 "to convince his people of his somewhat radical plans."
 msgstr "在行使他的领导龙族权力时，Kahn说服他的族民接受他的一些激进主张。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:153
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:148
 msgid ""
 "I call this meeting of the Drake Council to order. Welcome, Kahn. As our "
 "leader you are now also the head of this council, though there is little you "
@@ -193,27 +197,27 @@ msgstr ""
 "我宣布龙族委员会召开。首先欢迎我们的新领袖－－Kahn，也自然是这个委员会的新领"
 "导，但是如果不经过委员会的多数批准，你的主张也无法实施。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:157
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:152
 msgid "Thank you. It is indeed an honour to serve the Drakes in this capacity."
 msgstr "谢谢，非常荣幸地获得了服务龙族的权力。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:161
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:156
 msgid "We believe you have some rather, uh, drastic plans, Kahn."
 msgstr "我们知道你有一些相当，呃，激烈的计划，Kahn。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:165
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:160
 msgid "You could say that."
 msgstr "继续说下去。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:169
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:164
 msgid "Then I think you should share them."
 msgstr "我觉得你该把计划公布出来。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:173
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:168
 msgid "I couldn't agree more."
 msgstr "我非常同意。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:177
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:172
 msgid ""
 "Esteemed members of the council, our peoples are descended from the mighty "
 "dragons, who once ruled earth and sky. For centuries we have hidden "
@@ -227,22 +231,22 @@ msgstr ""
 "和矮人那样在地底下战斗，这种遭遇不是一次两次了。我们不能很好的行动，除非在洞"
 "穴中铺设地板，像我们开会的洞穴一样。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:181
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:176
 msgid "Friends, we do not belong here. We -"
 msgstr "朋友们，我们不属于这里，我们--"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:185
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:180
 msgid ""
 "We have, as you say, lived here for centuries. How can you claim we do not "
 "belong?"
 msgstr ""
 "我们作到了，就象你说的，在这里生活了几个世纪。怎么能说我们不属于这里呢？"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:189
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:184
 msgid "Hear him out, Gakk."
 msgstr "听他说完，Gakk."
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:193
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:188
 msgid ""
 "As I said, we struggle underground. Despite this, we have grown in numbers "
 "and strength. But if we are to continue to prosper, I believe the time has "
@@ -253,7 +257,7 @@ msgstr ""
 "如果我们要继续昌盛下去，我相信到了作出激烈变革的时候了。我计划带领龙族冲出地"
 "底走向地面。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:197
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:192
 msgid ""
 "Surely you cannot be serious. We know these caves - we know what to expect, "
 "we know how to survive. We know nothing about the world above ground."
@@ -261,15 +265,15 @@ msgstr ""
 "希望你不是认真的。我们熟悉这些洞穴 -- 我们知道该怎么做，我们知道怎样生存。我"
 "们对外面的世界一无所知。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:201
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:196
 msgid "If I may, that is not strictly true."
 msgstr "我可以说下吗，你说的并不完全正确。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:205
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:200
 msgid "Explain."
 msgstr "解释一下吧。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:209
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:204
 msgid ""
 "For the past two generations, several members my clan have been making short "
 "trips above ground. We are built to fly, but we have little opportunity to "
@@ -280,7 +284,7 @@ msgstr ""
 "们在地底下几乎没机会这么做。我们可以永久的生活在那里，这一天我们已经梦想太久"
 "了。这次我们可不能错过了这个机会。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:213
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:208
 msgid ""
 "I cannot help but to concur. In recent years the trolls - and even the "
 "dwarves - have been attacking more and more frequently. Something must be "
@@ -289,7 +293,7 @@ msgstr ""
 "我虽不清楚这个但我同意。最近几年这些巨魔当然还有矮人攻击我们频繁多了。如果我"
 "们要生存，就必须做些什么。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:217
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:212
 msgid ""
 "I cannot believe I am listening to this! You are saying you agree with this "
 "preposterous idea? It is lunacy! Even if we do know a little about the world "
@@ -304,7 +308,7 @@ msgstr ""
 "每个龙都知道，这是一回事，但让我们所有龙都出去？那可做不到。即使我们能出去，"
 "但我们该去哪儿？谁又知道我们将定居地方那些居住陆地生物的习性？"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:221
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:216
 msgid ""
 "I must agree, Gakk. While I sympathise with the issues that my colleagues "
 "have raised, I simply do not think it is practical to attempt such a huge "
@@ -313,7 +317,7 @@ msgstr ""
 "我必须同意，Gakk。当我同意这个意见时就连我的同僚都很鼓舞。我不认为这个尝试是"
 "个负担。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:225
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:220
 msgid ""
 "But what is the alternative? As Derk has said, we are facing more and more "
 "opposition here. We must seek new lands. And above ground is the best place "
@@ -322,11 +326,11 @@ msgstr ""
 "有什么可供选择的呢？就像Derk所说，我们在这里面临越来越多的敌视。我们得找新天"
 "地。现在看来地面是最好的去处了。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:229
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:224
 msgid "At least we know the opposition here."
 msgstr "在这里至少我们还了解我们的敌人。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:233
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:228
 msgid ""
 "Well, it seems we must put it to a vote. Kahn, as you know, a decision of "
 "this magnitude cannot be taken lightly. And so, it must be passed by a "
@@ -338,28 +342,28 @@ msgstr ""
 "行。所以，这得经过多数投票。那意味着六位委员中的得有四位必须同意。好，开始表"
 "决。从我左手Derk开始.你投什么？"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:237
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:232
 msgid "I vote we follow Kahn above ground."
 msgstr "我投我们跟随Kahn到地面。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:241
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:236
 msgid "I say we stay."
 msgstr "我说我们得留下。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:245
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:240
 msgid "I agree with Freon - we must do something. I vote we go."
 msgstr "我同意Freon --我们得做点什么。我投：我们走。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:249
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:244
 msgid "I long to soar in the sky with my brethren. We go."
 msgstr "我渴望和族人一起翱翔在天空。我们走。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:253
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:248
 msgid ""
 "I maintain that this idea is ridiculous. I cannot support it. We must stay."
 msgstr "我认为这个主意是可笑的。我不支持。我们必须留下。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:257
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:252
 msgid ""
 "Despite a wariness of the unknown, I too believe that we cannot continue to "
 "hold off the trolls and dwarves indefinitely. Though I have some "
@@ -369,7 +373,7 @@ msgstr ""
 "虽然有未知的困难，但我绝对相信我们再不能和巨魔矮人们无限期的相处了。我虽然还"
 "有点保留意见，但我相信是时候迁移了。我们跟随Kahn冲出洞窟。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:261
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:256
 msgid ""
 "It is decided then. Gakk, Stakron - I appreciate your concerns, but I "
 "believe this is best for our people."
@@ -377,13 +381,13 @@ msgstr ""
 "好，已经决定了。Gakk, Stakron － 我感谢你们的谨慎，但我认为这对族民来说是最好"
 "的。"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:265
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:260
 msgid ""
 "I am afraid I cannot support this move. I will come with you if we leave, "
 "but do not expect my help!"
 msgstr "我想我不会为这次迁移出力的。我虽会和你一起走，但你别想获得我的帮助！"
 
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:277
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:272
 msgid ""
 "This does not bode well. Nonetheless, the decision is made. We begin "
 "preparations immediately."
@@ -420,27 +424,27 @@ msgstr ""
 msgid "After two weeks of uneventful travel, they felt a breeze..."
 msgstr "在两周的平安无事的迁移中，他们感到轻飘飘的......"
 
-#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:53
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:32
 msgid "Kahn must reach the exit"
 msgstr "Kahn必须到达出口"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:70
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:152
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:189
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:69
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:70
-#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:61
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:80
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:209
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:488
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:80
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:282
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:83
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:355
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:41
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:126
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:163
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:40
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:41
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:40
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:41
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:173
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:452
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:41
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:245
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:44
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:524
 msgid "Death of Freon"
 msgstr "Freon死亡"
 
-#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:116
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:99
 msgid ""
 "This is our outermost fortress, though it has not been used for some time. "
 "The exit to the caves is not far from here, but the dwarves and trolls are "
@@ -449,19 +453,19 @@ msgstr ""
 "这是我们的最外面的要塞了，虽然以前也没在战争中派上大用场。这个洞穴出口离着不"
 "远，不过矮人和巨魔都在附近。希望他们没注意到我们。"
 
-#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:120
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:103
 msgid ""
 "Too late, lizard. What do you mean by trying to drag your sorry hides "
 "through our caves?"
 msgstr "太迟了，小蜥蜴们。你们想偷偷经过我们的洞穴是什么意思？"
 
-#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:124
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:107
 msgid ""
 "We mean no disrespect, dwarf. We are leaving the caves - you should be glad "
 "of our absence."
 msgstr "我是说失礼了，矮人。我们正离开这个洞窟 -- 你该为我们的离开感到高兴吧。"
 
-#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:128
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:111
 msgid ""
 "Why would anyone want to leave the caves? I don't believe you - you intend "
 "to try to take our caves for yourselves! Well, not on my watch!"
@@ -469,35 +473,35 @@ msgstr ""
 "为什么大家都要离开洞窟？我不相信 -- 你一定计划把我们的洞据为己有！当然，在我"
 "不注意的时候！"
 
-#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:132
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:115
 msgid ""
 "Ungh no like lizards in trolls' caves. Ungh no like dwarves either. Trolls "
 "kill all."
 msgstr "Ungh不喜欢蜥蜴住在巨魔的洞里，Ungh也不喜欢矮人住，巨魔会干掉一切。"
 
-#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:136
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:119
 msgid ""
 "Looks like we're going to have to fight our way through. Still, this was not "
 "unexpected. To arms!"
 msgstr "看样子我们得为我们的通过进行战斗了。这也不出意外。拿起武器！"
 
-#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:146
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:129
 msgid "That not good. Strange too. Ungh never die before."
 msgstr "真不好，也奇怪，Ungh以前从没死过。"
 
-#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:156
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:139
 msgid "I have failed! Now our caves will be overrun with lizards!"
 msgstr "我失败了！现在我们的洞穴要被蜥蜴们蹂躏了！"
 
-#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:160
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:143
 msgid "Poor fool."
 msgstr "可怜的傻瓜。"
 
-#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:167
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:150
 msgid "It seems we will be stuck in these caves forever."
 msgstr "看样子我们得永远留在这些洞穴里了。"
 
-#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:183
+#: Children_of_Dragons/scenarios/03_The_Emerging.cfg:166
 msgid "I can see the sunlight! Come, my people - welcome to your new home!"
 msgstr "我看见阳光了！快来，我的族民－欢迎来到你的新家！"
 
@@ -529,15 +533,15 @@ msgstr ""
 msgid "Freon soon spoiled that illusion."
 msgstr "Freon陶醉在梦想里，他高兴坏了。"
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:90
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:56
 msgid "Get Kahn to the end of the mountains"
 msgstr "让Kahn到达山脉的尽头"
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:94
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:60
 msgid "Death of any Drake"
 msgstr "任何一条龙死亡"
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:146
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:114
 msgid ""
 "Beautiful, isn't it? Unfortunately we can't keep looking for too long. There "
 "are creatures that inhabit these mountains that will not tolerate our "
@@ -548,65 +552,65 @@ msgstr ""
 "许我们的存在，不出意外的话，那些巨魔和矮人又在我们后面追来了，如果他们不忙于"
 "互相攻击的话。"
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:150
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:118
 msgid "Then we must get out of these mountains quickly."
 msgstr "所以我们得快点从这个山脉出去。"
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:154
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:122
 msgid ""
 "We don't have much time to rally our troops I'm afraid. We must be away from "
 "this tunnel by dusk if we are to escape the trolls and dwarves."
 msgstr ""
 "恐怕我们没时间召集我们的军队了。我们得趁着黄昏从这个隧道口摆脱巨魔和矮人。"
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:158
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:126
 msgid "Will we be able to find somewhere to live?"
 msgstr "我们会找到栖息地吗？"
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:162
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:130
 msgid ""
 "Yes. The lower lands are also inhabited, though only sparsely, so we should "
 "be able to find somewhere to settle."
 msgstr ""
 "低的陆地一般都有人居住，不过都很稀疏，所以我们应该可以找个地方栖息下来。"
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:191
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:159
 msgid "Trithdril"
 msgstr "Trithdril"
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:192
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:160
 msgid "Augthais"
 msgstr "Augthais"
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:193
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:161
 msgid "Naratol"
 msgstr "Naratol"
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:196
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:164
 msgid "There they are, boys! Let's get them!"
 msgstr "他们在那里，兄弟们，追！"
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:201
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:169
 msgid "Thog"
 msgstr "Thog"
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:202
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:170
 msgid "Zuug"
 msgstr "Zuug"
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:203
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:171
 msgid "Gark"
 msgstr "Gark"
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:206
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:174
 msgid "Dwarves and lizards in mountains. Trolls kill all!"
 msgstr "蜥蜴和矮人在山上。巨魔干掉一切！"
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:225
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:193
 msgid "We made it!"
 msgstr "我们做到了！"
 
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:238
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:206
 msgid ""
 "If I cannot protect my people here, how will I ever do it on the open plains?"
 msgstr "如果连这里我都保护不了我的族民，怎么还指望我能在开阔平原上庇护他们呢？"
@@ -624,12 +628,12 @@ msgstr ""
 "离开了丘陵，他们发现他们来到了一个茂密的森林里。这里的树木十分紧密，尽管是上"
 "午，但是只有几缕阳光照在地上。"
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:72
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:274
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:33
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:237
 msgid "Reach the end of the forest"
 msgstr "到达森林的尽头"
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:151
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:116
 msgid ""
 "We have never entered this forest. It seemed far too dark and foreboding, so "
 "we always went straight over it. However in this case we have no choice but "
@@ -638,47 +642,47 @@ msgstr ""
 "我们从没有进入过这个森林。看起来太黑，我有种不好的预感，我们笔直地通过这里"
 "吧。除了穿过森林我们没别的选择了，大家小心。"
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:155
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:120
 msgid "How bad can it be?"
 msgstr "能有多糟糕？"
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:171
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:136
 msgid "What was that?"
 msgstr "那是什么声音？"
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:175
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:140
 msgid ""
 "I don't know, but it didn't sound good. Let's get through this forest as "
 "soon as possible. From memory, it will be quickest to head south."
 msgstr ""
 "我不知道，听起来不妙。让我们尽快通过这片森林。从经验上看，以最快速度往南冲。"
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:232
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:195
 msgid "I never want to see another tree in my entire life."
 msgstr "希望在我的生命里再也看不到一棵树。"
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:241
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:204
 msgid "We cannot leave yet - the undead are not defeated!"
 msgstr "我们还不能离开－亡灵还被没击败！"
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:257
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:220
 msgid "The forest is crawling with undead!"
 msgstr "这个森林布满了亡灵！"
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:261
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:224
 msgid ""
 "I do not like the idea of living near undead. Perhaps we should clear this "
 "forest of its current inhabitants first."
 msgstr "我可不喜欢和亡灵住一起。也许我们该先把这些本地居住者清理掉。"
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:265
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:228
 msgid ""
 "Yes, I think you are right. Let's destroy the undead, else they may attack "
 "us while we try and build our new homes."
 msgstr ""
 "是的，我同意。让我们驱除这些亡灵，省得他们在我们建设新家的时候攻击我们。"
 
-#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:270
+#: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:233
 msgid "Defeat enemy leaders, and;"
 msgstr "击败敌人首领，然后"
 
@@ -701,28 +705,28 @@ msgid ""
 "they advanced cautiously."
 msgstr "随着在这个地方第一次怀疑离开洞穴是否是个错误，他们的前进变的慎重起来。"
 
-#: Children_of_Dragons/scenarios/06_The_Humans.cfg:60
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:50
 msgid "Halt! Who goes there?"
 msgstr "站住！谁在那儿？"
 
-#: Children_of_Dragons/scenarios/06_The_Humans.cfg:64
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:54
 msgid ""
 "I am Kahn, leader of the Drakes. We have left our homes underground in "
 "search of a land more suited to our kind."
 msgstr ""
 "我是Kahn，龙族首领。我们离开了地下的洞穴，准备寻找一片更适合我们的陆地。"
 
-#: Children_of_Dragons/scenarios/06_The_Humans.cfg:68
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:58
 msgid "And you thought you'd take ours?"
 msgstr "你看上我们的领地了？"
 
-#: Children_of_Dragons/scenarios/06_The_Humans.cfg:72
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:62
 msgid ""
 "No! We do not wish to take anyone's land, but are instead hoping to find "
 "some space that is currently unoccupied that we can settle in."
 msgstr "不！我们不会抢夺任何人的领地，而是希望找到一片没生物居住的陆地去生活。"
 
-#: Children_of_Dragons/scenarios/06_The_Humans.cfg:76
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:66
 msgid ""
 "Hmmm. Well, as you can see, the land around here is well settled already. "
 "There is little free space - certainly none anywhere near big enough to fit "
@@ -731,11 +735,11 @@ msgstr ""
 "呃，就像你看到的，这片大陆已经有人定居了。几乎没有空地了 --肯定哪儿都没有适合"
 "你们整个族群的大地方。"
 
-#: Children_of_Dragons/scenarios/06_The_Humans.cfg:80
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:70
 msgid "If you speak true, then I fear we have left our homes in vain."
 msgstr "如果你说的是真的，我们恐怕是白白地离开老家了。"
 
-#: Children_of_Dragons/scenarios/06_The_Humans.cfg:84
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:74
 msgid ""
 "Perhaps not. There is a tropical island some way to the east of here known "
 "as Morogor. It is uninhabited, though some say it is haunted. I believe it "
@@ -744,13 +748,13 @@ msgstr ""
 "也许不一定。东边有个热带岛屿叫Morogor。是没人居住的，不过有人说那里常闹鬼。我"
 "想也许适合你的需要。"
 
-#: Children_of_Dragons/scenarios/06_The_Humans.cfg:88
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:78
 msgid ""
 "An island, you say? That sounds ideal, but we cannot fly that far. How are "
 "we to get there?"
 msgstr "你说有个岛？太好了，但我们不能飞那么远。你们是怎么过去的？"
 
-#: Children_of_Dragons/scenarios/06_The_Humans.cfg:92
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:82
 msgid ""
 "Perhaps we can come to an agreement. We have a large navy - enough to "
 "transport all of your people, but I cannot offer you our assistance without "
@@ -759,11 +763,11 @@ msgstr ""
 "也许我们该达成个协议。我们有支巨型海军 -- 足以运送你所有的族人，不过你如果不"
 "为做我们点回报的话，你可得不到我们的帮助。"
 
-#: Children_of_Dragons/scenarios/06_The_Humans.cfg:96
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:86
 msgid "What did you have in mind?"
 msgstr "你的条件是什么？"
 
-#: Children_of_Dragons/scenarios/06_The_Humans.cfg:100
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:90
 msgid ""
 "My scouts report that you emerged from the Forest of the Dead. To achieve "
 "such a thing you must be skilled fighters. There is a large group of bandits "
@@ -773,25 +777,25 @@ msgstr ""
 "我们的哨兵报告你们从死亡森林里出来，证明你们一定是精通战斗了。东南面有个不法"
 "分子团伙最近老是侵扰我们。为我们剿灭这伙歹徒，我们会送你到Morogor。"
 
-#: Children_of_Dragons/scenarios/06_The_Humans.cfg:104
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:94
 msgid "Very well. We have a deal."
 msgstr "很好。我们会处理的。"
 
-#: Children_of_Dragons/scenarios/06_The_Humans.cfg:108
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:98
 msgid ""
 "I will order our navy to begin preparations at once. We should be ready to "
 "depart by the time you return."
 msgstr "我会命令海军立即开始准备。我们会在你回来的时候准备启航。"
 
-#: Children_of_Dragons/scenarios/06_The_Humans.cfg:112
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:102
 msgid "Thank you. We are in your debt."
 msgstr "谢谢。我们欠你们的。"
 
-#: Children_of_Dragons/scenarios/06_The_Humans.cfg:116
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:106
 msgid "Defeat the bandits and I will consider the debt paid in full."
 msgstr "剿灭这伙歹徒我认为就是最好的回报。"
 
-#: Children_of_Dragons/scenarios/06_The_Humans.cfg:120
+#: Children_of_Dragons/scenarios/06_The_Humans.cfg:110
 msgid ""
 "Thank you once again. Come, my people - we have some criminals to catch!"
 msgstr "再次感谢你。过来，我的族民 -- 一些罪犯等待我们去清理！"
@@ -804,51 +808,51 @@ msgstr "歹徒"
 msgid "Following Alamar's directions, the Drakes soon came to a huge forest."
 msgstr "在Alamar的指引下，龙族们很快来到了一个极大的森林。"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:73
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:44
 msgid "Death of Tumabulindrum"
 msgstr "Tumabulindrum死亡"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:159
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:133
 msgid "Ugh. More trees."
 msgstr "啊～，这么多的树。"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:163
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:137
 msgid ""
 "At least they are not as thick as the last lot. We will be able to see where "
 "we are going here."
 msgstr "至少它们都远不如最后那个粗。等下我们都可以看到我们来的地方了。"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:167
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:141
 msgid ""
 "And our enemies this time are flesh and blood, not undead. Still, I wish "
 "there was another way."
 msgstr "这次我们的敌人是有血有肉的，不是亡灵了。其实我还是希望他们能走正途。"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:171
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:145
 msgid "None come to mind."
 msgstr "没人会介意。"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:175
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:149
 msgid "No, this is our best hope. Let's clear these woods!"
 msgstr "不，这是我们对他们最好的期待。清理树林！"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:179
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:153
 msgid "Hmmm. What do the fire breathers want?"
 msgstr "哼哼，这些鼻子冒火的家伙想干什么？"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:183
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:157
 msgid "Did that tree just talk?"
 msgstr "刚才是那个树在说话？"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:187
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:161
 msgid "I have heard of such things. We had best answer quickly."
 msgstr "我已经听到了，我们得快点回答。"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:191
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:165
 msgid "We come to rid these woods of the outlaws that hide here."
 msgstr "我们来这里是为了帮这些树摆脱这些隐藏在这里的歹徒侵扰。"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:195
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:169
 msgid ""
 "Very well. These outlaws, as you call them, have destroyed many a good tree. "
 "We will help you, but make sure you keep your fires away from us."
@@ -856,7 +860,7 @@ msgstr ""
 "是的，这帮歹徒，就像你所说的那样，已经毁掉了不少大树。我们会帮助你的，不过你"
 "得把你的火离我们远点。"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:199
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:173
 msgid ""
 "We would be glad of your help. We have no wish to harm you with our flames, "
 "and once the outlaws are gone, we will leave you in peace."
@@ -864,29 +868,29 @@ msgstr ""
 "很高兴获得你们的帮助。我们不会用我们的火焰伤害你们的。这帮歹徒一旦离开，这里"
 "会恢复安宁。"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:203
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:177
 msgid "Then let us work together to clean this forest!"
 msgstr "让我们一起清理这片森林吧！"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:221
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:242
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:263
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:195
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:217
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:239
 msgid "I found some of their ill-gotten gains!"
 msgstr "我发现了他们的赃物。"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:225
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:199
 msgid "You retrieve 75 gold."
 msgstr "你获得75个金币。"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:246
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:221
 msgid "You retrieve 100 gold."
 msgstr "你获得100个金币。"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:267
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:243
 msgid "You retrieve 50 gold."
 msgstr "你获得50个金币。"
 
-#: Children_of_Dragons/scenarios/07_Bandits.cfg:282
+#: Children_of_Dragons/scenarios/07_Bandits.cfg:259
 msgid "And so the Wose pass from the land of the living..."
 msgstr "树人消逝在他们生活的大地上......"
 
@@ -910,27 +914,27 @@ msgstr "Alamar通知他们船在码头已经准备好了，在城市的南面。
 msgid "Unfortunately that was not all that awaited them."
 msgstr "不幸的是等候他们的不止这些。"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:69
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:38
 msgid "Defeat Gakk and Stakron"
 msgstr "打败Gakk和Stakron"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:146
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:119
 msgid "As you can see, the ships are ready and wai-"
 msgstr "如你所见，船已经准备好了并且等 - "
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:150
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:123
 msgid "You will not be going anywhere."
 msgstr "你最好哪儿都别想去。"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:154
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:127
 msgid "What's going on here? Who are you?"
 msgstr "这儿怎么了？你们是谁？"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:158
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:131
 msgid "Gakk? What do you think you're doing?"
 msgstr "Gakk?你知道你在做什么吗？"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:162
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:135
 msgid ""
 "We are ending this lunacy once and for all. It was bad enough to make us "
 "leave our homes, forcing us into confrontation with dwarves, trolls and "
@@ -939,7 +943,7 @@ msgstr ""
 "我们要一劳永逸的终止你这个疯狂的行为。你让我们离家的感觉太糟了，强迫我们面对"
 "矮人，巨魔和亡灵，却又和人类缔约......"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:166
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:139
 msgid ""
 "And to what end? So they can send us out to sea and drown us all, most "
 "likely! And even if this island does exist, and we do actually get there, "
@@ -950,25 +954,25 @@ msgstr ""
 "算岛是存在的，我们到了那里，谁知道它们的习性能不能保证我们生存下去？所以最好"
 "是现在了结了，回到属于我们的洞穴里。"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:170
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:143
 msgid ""
 "Whatever else we may do, we cannot return to the caves. They will certainly "
 "have been overrun with dwarves and trolls by now."
 msgstr "无论我们怎么做，我们都不该回到洞穴里去了。那里现在该全是矮人和巨魔了。"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:177
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:150
 msgid "Stakron? You too?"
 msgstr "Stakron? 你也？"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:181
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:154
 msgid "Gakk is right. We should never have left the caves."
 msgstr "Gakk是对的。我们不应该离开洞穴。"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:185
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:158
 msgid "You would oppose our rightful leader, and the wishes of the council?"
 msgstr "你们要反抗我们的合法领袖，违抗委员会的意愿吗？"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:189
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:162
 msgid ""
 "Bah! The council is nothing more than a bunch of has-beens who think they "
 "still have some sort of power. Real power comes from strength of arms, not "
@@ -977,19 +981,19 @@ msgstr ""
 "呸！委员会是个屁，不过是一帮幻想着自己还拥有各种力量的老龙。真正的力量来自武"
 "器！不是会议。"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:193
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:166
 msgid "If you will not back down, we will be forced to destroy you."
 msgstr "如果你还不放弃，我们将被迫消灭你。"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:197
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:170
 msgid "Hah! I'd like to see you try."
 msgstr "哈！你试试看吧。"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:201
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:174
 msgid "If that's the way it must be, then so be it."
 msgstr "道路该是什么样的，就是什么样的。"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:205
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:178
 msgid ""
 "I'm afraid I cannot help you in this, Kahn. I cannot fight fellow council "
 "members, even if they have gone insane. But be careful. No doubt there are "
@@ -999,7 +1003,7 @@ msgstr ""
 "我想这次我不能帮你了，Kahn。我不能和委员会的同事战斗，虽然他们已经疯了。要小"
 "心。毫无疑问，许多族民都支持他们两位。他们不是独自在战斗，不仅仅这样。"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:209
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:182
 msgid ""
 "I too cannot get involved in this. I have other urgent matters to attend to, "
 "and unless they attack our ships, I am afraid it does not concern me. I will "
@@ -1008,19 +1012,19 @@ msgstr ""
 "我无法涉及你们的私怨。另外，我还有其他的紧急事物要处理，如果他们不攻击我的船"
 "的话，我想这不用你担心。等你解决了这两位我会马上回来的。"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:213
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:186
 msgid "I understand. Come, let us crush these traitors!"
 msgstr "我知道了。来吧，让我碾碎你们这些叛徒！"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:242
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:215
 msgid "At least I won't live to see the demise of the Drakes."
 msgstr "至少我没活到龙族灭绝的那一天。"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:246
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:219
 msgid "I wish I hadn't had to do that."
 msgstr "真希望我不必这么做。"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:250
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:223
 msgid ""
 "He was a great asset to the Drakes. It's a shame it had to end like this. "
 "Still, I suppose we did only what was necessary."
@@ -1028,52 +1032,52 @@ msgstr ""
 "他是我们龙族最宝贵的财富。这样的结局真让人感到羞耻。我仍然认为我们必须只有这"
 "么做。"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:260
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:233
 msgid "Come now, Stakron. Surely you will not persist in this rebellion?"
 msgstr "过来吧，Stakron。保证不再坚持这次叛乱？"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:264
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:237
 msgid "I ... it is too late for me now. I cannot turn back."
 msgstr "我......对我来说太迟了。我没法回头了。"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:268
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:241
 msgid "It truly saddens me to hear that."
 msgstr "真让人伤心。"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:284
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:257
 msgid "I could have been wrong ..."
 msgstr "我可能错了......"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:288
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:261
 msgid "You will pay for that!"
 msgstr "你要为此付出代价！"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:302
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:275
 msgid "Too many Drakes are defecting to them. We are doomed!"
 msgstr "太多的龙叛逃到他们那里。我们完了！"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:312
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:285
 msgid "(sigh) The rebels are defeated."
 msgstr "(叹息)叛乱被平息。"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:322
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:295
 msgid "This is a sad day. Many Drakes have died in a pointless rebellion."
 msgstr "真是糟糕的一天。太多的龙葬身在无谓的叛乱中。"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:326
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:299
 msgid "Yes. And we now have two vacant places on the council."
 msgstr "是的。我们现在有两个空的委员会职位了。"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:330
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:303
 msgid ""
 "That will have to wait. You must leave immediately before the weather turns."
 msgstr "不能在等了。你们必须在天气转变前立即启航。"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:334
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:307
 msgid "Very well. Thank you once again, Alamar."
 msgstr "很好。再次谢谢你，Alamar。"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:338
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:311
 msgid ""
 "No, thank you. Since you defeated the bandits, our villages are safe. May "
 "your journey be quick and uneventful."
@@ -1081,7 +1085,7 @@ msgstr ""
 "不，我们得谢谢你。自从你清出了那些歹徒。我们的村庄都安全了。希望你的旅途迅捷"
 "平静，一帆风顺。"
 
-#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:342
+#: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:315
 msgid "Let's hope so. To the ships!"
 msgstr "借你吉言。上船！"
 
@@ -1099,17 +1103,17 @@ msgid ""
 "destination."
 msgstr "旅行在头几天里都平安无事。直到快靠近他们的目的地。"
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:75
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:347
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:36
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:516
 msgid "Survive until the end of turns"
 msgstr "坚持到回合结束"
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:87
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:359
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:48
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:528
 msgid "Death of Ober"
 msgstr "Ober死亡"
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:160
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:123
 msgid ""
 "We have little information about this area as we generally avoid Morogor, "
 "however the reports I have heard say there are often many Nagas around here. "
@@ -1118,26 +1122,26 @@ msgstr ""
 "我有点有关这片海域的信息，就像我们经常会避免Morogor一样，我听到的报告说这里常"
 "有娜迦出没。它们大量围着你，所以希望它们现在在别的地方。"
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:164
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:127
 msgid "What are these Nagas?"
 msgstr "娜迦是什么东西？"
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:168
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:131
 msgid ""
 "They are serpentine creatures who live in the sea. This is very much their "
 "element, so it would be a struggle to have to face them here."
 msgstr ""
 "它们是生活在海洋的蛇形生物。它们的成员及其之多，在海里对付它们得下番功夫。"
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:172
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:135
 msgid "You mean like these?"
 msgstr "你是说像这样的？"
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:183
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:147
 msgid "Intruderssss! Don't let any essscape!"
 msgstr "入侵侵侵侵者！不要让他们逃逃逃逃跑！"
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:221
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:185
 msgid ""
 "Damn! It is too late to go around - we will have to try and make our way "
 "through them. You must protect the ship, but don't allow anyone to get too "
@@ -1146,7 +1150,7 @@ msgstr ""
 "该死！我们察觉太晚了 -- 我尝试用我们的方式穿过它们。你得保护这船，你不要让任"
 "何人离船后面太远了，我们可不会掉头救他们。"
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:225
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:189
 msgid ""
 "At the beginning of each turn, any units not on the ship will move five "
 "hexes up as the ship moves forward. This means any units in the top five "
@@ -1155,37 +1159,37 @@ msgstr ""
 "在开始的每个回合里，所有不在船上的单位都会向上移动五格,因为船是向前移动的。这"
 "意味着所有在顶上五格里的单位会消失。"
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:338
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:507
 msgid ""
 "There do not appear to be any more coming. We just need to hold off or "
 "defeat those that remain."
 msgstr "现在没有更多的娜迦出现了。我们只要拖延下去或是直接击败剩余的了。"
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:344
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:513
 msgid "Defeat remaining Nagas"
 msgstr "击败剩余的娜迦"
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:402
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:571
 msgid "Avenge me, brotherssss and ssssissssterssss..."
 msgstr "为我报仇，兄兄兄兄弟姐姐姐姐妹们......"
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:412
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:581
 msgid "We will never pilot this ship without him!"
 msgstr "除了他我们谁也无法驾驶这条船！"
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:428
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:597
 msgid "We made it! The Nagas will not pursue us any further."
 msgstr "我们做到了！那些娜迦不再追赶我们了。"
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:432
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:601
 msgid "Surely it can only get easier from here?"
 msgstr "确定从这里可以更容易到达吗？"
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:436
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:605
 msgid "We should meet no further resistance between here and Morogor."
 msgstr "我们从这里到Morogor阻力小。"
 
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:440
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:609
 msgid "Sounds good to me. Onward!"
 msgstr "听起来不错。前进！"
 
@@ -1202,55 +1206,55 @@ msgstr ""
 "在成功摆脱了娜迦后，龙们很快登陆上了Morogor。那些人类没等任何冒险就火速离开"
 "了。龙们开始审视起这片新家来。"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:144
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:62
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:118
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:33
 msgid "Defeat the undead"
 msgstr "击败亡灵"
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:115
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:88
 msgid "Ugh! This place is disgusting! Maybe Gakk was right."
 msgstr "呃！这个地方真让人恶心！也许Gakk是对的。"
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:119
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:92
 msgid ""
 "This place reeks of the undead. No doubt once we clear the island of the "
 "undead, the land itself will regenerate."
 msgstr ""
 "这个地方散发着亡灵的气息。别怀疑我们会清理这个岛上的亡灵，这个岛会获得新生。"
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:123
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:96
 msgid "I certainly hope so. Look - there are undead here. Let's get started!"
 msgstr "我当然希望如此。看-- 亡灵在那里。我们开始吧！"
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:133
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:106
 msgid "What devilry is this? Those Drakes who fall are rising again in unlife!"
 msgstr "这是什么邪门魔法？死去的龙变成亡灵重新站了起来！"
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:137
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:110
 msgid ""
 "This island is steeped with dark magic. We must find and destroy the source "
 "of it."
 msgstr "这个岛充满了黑暗魔法。我们必须找到黑暗源头摧毁它。"
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:141
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:114
 msgid "One thing at a time, OK? Let's get this lot out of the way first."
 msgstr "同一时间只能作一件事，对吗？我们还是先把这些清掉。"
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:153
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:126
 msgid "There are just too many of them! We are doomed to die in this swamp!"
 msgstr "它们是在是太多了！我们要死在这片沼泽里了！"
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:160
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:133
 msgid "The undead are retreating!"
 msgstr "亡灵撤退了！"
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:164
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:137
 msgid ""
 "There are doubtless many more where they came from. We must clear the entire "
 "island if we are to make it our home."
 msgstr "毫无疑问它们来的地方亡灵更多。我们要是把这儿当家的话必须清理全岛了。"
 
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:168
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:141
 msgid "Then what are we waiting for? Let's keep moving!"
 msgstr "那我们还等什么？走吧！"
 
@@ -1265,55 +1269,55 @@ msgid ""
 msgstr ""
 "龙们快速向岛的深处进发，尽量少和亡灵接触，但很快他们就遭遇了反常的黑暗。"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:62
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:33
 msgid "Scout out the land"
 msgstr "搜索岛屿"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:113
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:87
 msgid "Does this swamp ever end? I can't see a thing!"
 msgstr "这个沼泽有尽头没？我什么都看不到！"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:117
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:91
 msgid ""
 "We must be getting close to the source of this evil. That's why the land is "
 "so dark."
 msgstr "我们一定接近了邪恶之源。所以这个岛才这么黑。"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:121
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:95
 msgid ""
 "We can't continue like this indefinitely. This darkness reaches inside you "
 "and grips your heart."
 msgstr "我们不能这样无限继续下去了。黑暗要渗透到你的体内并要支配了你的心灵。"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:125
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:99
 msgid ""
 "No, we can't. Send some scouts ahead to spy out the land. We cannot keep "
 "wandering aimlessly."
 msgstr "不，我们不能。发出先头部队搜查这片大陆。我们不要无目的地游荡。"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:135
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:109
 msgid "There are more undead here!"
 msgstr "这儿有更多的亡灵！"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:139
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:113
 msgid ""
 "It was only a matter of time until we ran into them again. Very well - "
 "destroy them!"
 msgstr "遭遇上它们只是时间上的问题。很好 -- 干掉它们！"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:168
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:142
 msgid ""
 "Ah! So these are the creatures who dare enter our territory! Hmmm, they are "
 "strong. They will make excellent slaves!"
 msgstr "啊～这些生物竟敢闯入我们的领地！哼哼，他们很强壮，是优秀的奴隶材料！"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:172
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:146
 msgid ""
 "We did not come here to enter your territory, we came here to occupy it and "
 "destroy you!"
 msgstr "我们来这里可不是为了进入你的领地，我们是占领这里并摧毁你！"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:176
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:150
 msgid ""
 "So the leader of the undead shows himself. Concentrate your efforts on him. "
 "If we can defeat him, the power that sustains the undead will be broken."
@@ -1321,36 +1325,36 @@ msgstr ""
 "亡灵的主人现身了。在他身上集中你的火力。如果我们打倒了他，支配亡灵的力量就消"
 "失了。"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:181
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:155
 msgid "Kill Woldimer"
 msgstr "杀掉Woldimer"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:210
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:184
 msgid "I have fallen, but my master will avenge me!"
 msgstr "我死了，但我的主人会为我报仇的！"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:217
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:191
 msgid "There are just too many of them! We can never prevail!"
 msgstr "这儿亡灵太多了！我们赢不了了！"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:224
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:198
 msgid ""
 "What did he mean, his master? I thought he was the master of these undead!"
 msgstr "什么意思？他的主人？我以为他就是这些亡灵的主人！"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:228
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:202
 msgid ""
 "He was powerful, yes. Yet despite his death the darkness persists. There "
 "must be another, more powerful yet."
 msgstr "他十分强大，是的。他死了,但他身后的黑暗还在。一定还有一个更加强大的。"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:232
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:206
 msgid ""
 "I don't know how much longer we can continue this. There are rumours of "
 "mutiny again."
 msgstr "我不知道我们还能坚持多久。叛乱的谣言又四起了。"
 
-#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:236
+#: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:210
 msgid "Then we must find and defeat Woldimer's master quickly. Come on!"
 msgstr "所以我们必须尽快找到并击败Woldimer的主人。来吧！"
 
@@ -1364,27 +1368,27 @@ msgid ""
 "becoming almost unbearable."
 msgstr "随着继续深入，这些龙发现这些黑暗简直无法忍受。"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:72
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:33
 msgid "Find enemy leader"
 msgstr "找到敌人首领"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:141
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:105
 msgid ""
 "Woldimer's master must be very close. This darkness appears to be even "
 "heavier than before, if that were possible."
 msgstr "Woldimer的主人一定在附近。这个黑暗比刚才更重了，如果可能的话。"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:145
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:109
 msgid ""
 "I certainly hope so. Our supplies will not last much longer. We must finish "
 "this quickly!"
 msgstr "我也希望如此。我们的补给不能支持更长时间了。我们必须尽快了结！"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:149
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:113
 msgid "We must find our enemy before we can finish him."
 msgstr "我们了结敌人之前得先找到它们。"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:168
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:132
 msgid ""
 "So it is true. The lizards managed to defeat my apprentice. You will pay "
 "dearly for that! Still, I have waited centuries for a good fight. Revenge "
@@ -1393,11 +1397,11 @@ msgstr ""
 "那么这是真的了。这帮小蜥蜴打败了我的学徒。你们要为此付出惨痛代价！当然，我已"
 "经为一次真正的战斗等了几百年。复仇只会让它变的更有趣。"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:172
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:136
 msgid "Is that thing alive or dead?"
 msgstr "那个家伙是人是鬼？"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:176
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:140
 msgid ""
 "He is a Lich - a dark sorcerer who himself has become undead. And a very "
 "powerful one at that. In fact, he has perhaps too much power."
@@ -1405,11 +1409,11 @@ msgstr ""
 "它是巫妖 - 一个自己变成亡灵的黑暗法师。那是具有强大力量的东西。实际上，它拥有"
 "过于强大的力量."
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:180
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:144
 msgid "Too much for what? Are you saying we cannot prevail?"
 msgstr "什么过于？你是说我们赢不了？"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:184
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:148
 msgid ""
 "No, he has more power than should be possible. Most likely he has a talisman "
 "of great power that sustains him. Destroy the talisman and he will be "
@@ -1418,11 +1422,11 @@ msgstr ""
 "不，它比本来拥有的力量还要强。绝对是有个巨大能量的护身符支持着它。毁掉这个护"
 "身符它就极大的削弱了。只有这样我们才能击败它。"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:188
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:152
 msgid "You don't sound too sure."
 msgstr "你说的我不大信。"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:192
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:156
 msgid ""
 "I'm not, but it's our only chance. If we attack him directly we will "
 "certainly fail. We must find and destroy the source of his power. No doubt "
@@ -1433,73 +1437,73 @@ msgstr ""
 "量之源。别怀疑就在它附近 - 我怀疑就在它的视线范围内。这么近它就可以吸取更多的"
 "能量了。"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:197
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:161
 msgid "Find and destroy Mal-Bronam's talisman; then"
 msgstr "找到并摧毁Mal-Bronam的护身符;然后"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:201
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:480
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:165
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:444
 msgid "Kill Mal-Bronam"
 msgstr "杀死Mal-Bronam"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:241
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:205
 msgid ""
 "I told you it's useless attacking him! We must destroy that talisman first!"
 msgstr "我告诉你这样攻击对它是无效的！我们得先摧毁那个护身符！"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:310
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:354
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:274
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:318
 msgid "Look! What is this thing?"
 msgstr "看！这是什么东西？"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:314
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:358
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:278
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:322
 msgid "It must be the talisman we were looking for! We must destroy it!"
 msgstr "那一定是我们要找的护身符！毁掉它！"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:404
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:368
 msgid "Noooo! What have you done?"
 msgstr "不----!你们做了什么？！"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:419
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:383
 msgid "It worked! The darkness is retreating!"
 msgstr "起效了！黑暗消退了！"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:423
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:387
 msgid "Good - now destroy him!"
 msgstr "很好 -- 现在摧毁巫妖！"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:427
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:391
 msgid ""
 "Do you think I am no longer able to defend myself? I still have power "
 "greater than you can imagine!"
 msgstr "你们是不是认为我无法保护我自己了？我仍然比你们想象强大的多！"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:512
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:476
 msgid "This darkness pervades my soul. I cannot continue any longer!"
 msgstr "这个黑暗渗透了我的灵魂。我无法再坚持了！"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:522
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:486
 msgid "No! It cannot be! I am immortal! I am invincible! I am -"
 msgstr "不！那不可能！我是不朽的！我是无敌的！我 - "
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:526
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:490
 msgid "Gone."
 msgstr "消失了。"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:533
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:497
 msgid "Can it be true? Is it possible we have defeated him?"
 msgstr "这是真的吗？我们有干掉它了？"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:537
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:501
 msgid "Yes - look! The undead melt away already."
 msgstr "是的 - 看！亡灵开始消散了。"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:542
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:506
 msgid "I don't think it's safe to stay here."
 msgstr "我认为呆在这里不大安全。"
 
-#: Children_of_Dragons/scenarios/12_Showdown.cfg:546
+#: Children_of_Dragons/scenarios/12_Showdown.cfg:510
 msgid ""
 "No. The earth is shaking off a great burden. We would be best to retreat to "
 "the open plains."
